@@ -1,0 +1,1535 @@
+-lexeme
+ lex: mif
+ stem: .mif.
+ gramm: obl,pl,pron
+ gloss: косв. форма мн. ч. указательн. местоимения ближней степени к прямой форме māδ.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма мн. ч. указательн. местоимения ближней степени к прямой форме māδ
+
+-lexeme
+ lex: mif
+ stem: .mif.
+ gramm: obl,pl,pron
+ gloss: косв. форма мн. ч. указательн. местоимения ближней степени к прямой форме māδ.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма мн. ч. указательн. местоимения ближней степени к прямой форме māδ
+
+-lexeme
+ lex: mim
+ stem: .mim.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения ближней степени ж. р. к прямой форме yim.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения ближней степени ж. р. к прямой форме yim
+
+-lexeme
+ lex: mim
+ stem: .mim.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения ближней степени ж. р. к прямой форме yim.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения ближней степени ж. р. к прямой форме yim
+
+-lexeme
+ lex: ar
+ stem: .ar.
+ gramm: pron
+ gloss: каждый.
+ paradigm: ZERO
+ trans_ru: каждый
+
+-lexeme
+ lex: tū
+ stem: .tū.
+ gramm: nom,sg,pron
+ gloss: прямая форма место­имения 2-го л. ед. ч.: ’ты’.nom.sg
+ paradigm: ZERO
+ trans_ru: прямая форма место­имения 2-го л. ед. ч.: ’ты’
+
+-lexeme
+ lex: tū
+ stem: .tū.
+ gramm: nom,sg,pron
+ gloss: прямая форма место­имения 2-го л. ед. ч.: ’ты’.nom.sg
+ paradigm: ZERO
+ trans_ru: прямая форма место­имения 2-го л. ед. ч.: ’ты’
+
+-lexeme
+ lex: yim
+ stem: .yim.
+ gramm: nom,sg,pron
+ gloss: усилительн. частицей k-im  прямая форма указательн. местоимения ед. ч. ближней степени.nom.sg
+ paradigm: ZERO
+ trans_ru: усилительн. частицей k-im  прямая форма указательн. местоимения ед. ч. ближней степени
+
+-lexeme
+ lex: yim
+ stem: .yim.
+ gramm: nom,sg,pron
+ gloss: усилительн. частицей k-im  прямая форма указательн. местоимения ед. ч. ближней степени.nom.sg
+ paradigm: ZERO
+ trans_ru: усилительн. частицей k-im  прямая форма указательн. местоимения ед. ч. ближней степени
+
+-lexeme
+ lex: yim
+ stem: .yim.
+ gramm: nom,sg,pron
+ gloss: усилительн. частицей k-im  прямая форма указательн. местоимения ед. ч. ближней степени.nom.sg
+ paradigm: ZERO
+ trans_ru: усилительн. частицей k-im  прямая форма указательн. местоимения ед. ч. ближней степени
+
+-lexeme
+ lex: māδ
+ stem: .māδ.
+ gramm: nom,pl,pron
+ gloss: прямая форма указательн. местоимения мн. ч. ближней степени.nom.pl
+ paradigm: ZERO
+ trans_ru: прямая форма указательн. местоимения мн. ч. ближней степени
+
+-lexeme
+ lex: māδ
+ stem: .māδ.
+ gramm: nom,pl,pron
+ gloss: прямая форма указательн. местоимения мн. ч. ближней степени.nom.pl
+ paradigm: ZERO
+ trans_ru: прямая форма указательн. местоимения мн. ч. ближней степени
+
+-lexeme
+ lex: mif
+ stem: .mif.
+ gramm: obl,pl,pron
+ gloss: косв. форма мн. ч. указательн. местоимения ближней степени к прямой форме māδ.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма мн. ч. указательн. местоимения ближней степени к прямой форме māδ
+
+-lexeme
+ lex: mif
+ stem: .mif.
+ gramm: obl,pl,pron
+ gloss: косв. форма мн. ч. указательн. местоимения ближней степени к прямой форме māδ.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма мн. ч. указательн. местоимения ближней степени к прямой форме māδ
+
+-lexeme
+ lex: mif
+ stem: .mif.
+ gramm: obl,pl,pron
+ gloss: косв. форма мн. ч. указательн. местоимения ближней степени к прямой форме māδ.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма мн. ч. указательн. местоимения ближней степени к прямой форме māδ
+
+-lexeme
+ lex: mif
+ stem: .mif.
+ gramm: obl,pl,pron
+ gloss: косв. форма мн. ч. указательн. местоимения ближней степени к прямой форме māδ.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма мн. ч. указательн. местоимения ближней степени к прямой форме māδ
+
+-lexeme
+ lex: uf
+ stem: .uf.
+ gramm: obl,pl,pron
+ gloss: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāð.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāð
+
+-lexeme
+ lex: uf
+ stem: .uf.
+ gramm: obl,pl,pron
+ gloss: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāð.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāð
+
+-lexeme
+ lex: uf
+ stem: .uf.
+ gramm: obl,pl,pron
+ gloss: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāð.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāð
+
+-lexeme
+ lex: uf
+ stem: .uf.
+ gramm: obl,pl,pron
+ gloss: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāð.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāð
+
+-lexeme
+ lex: uf
+ stem: .uf.
+ gramm: obl,pl,pron
+ gloss: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāð.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāð
+
+-lexeme
+ lex: uf
+ stem: .uf.
+ gramm: obl,pl,pron
+ gloss: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāð.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāð
+
+-lexeme
+ lex: uf
+ stem: .uf.
+ gramm: obl,pl,pron
+ gloss: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāð.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāð
+
+-lexeme
+ lex: uf
+ stem: .uf.
+ gramm: obl,pl,pron
+ gloss: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāð.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāð
+
+-lexeme
+ lex: uf
+ stem: .uf.
+ gramm: obl,pl,pron
+ gloss: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāð.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāð
+
+-lexeme
+ lex: uf
+ stem: .uf.
+ gramm: obl,pl,pron
+ gloss: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāð.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāð
+
+-lexeme
+ lex: uf
+ stem: .uf.
+ gramm: obl,pl,pron
+ gloss: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāð.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāð
+
+-lexeme
+ lex: uf
+ stem: .uf.
+ gramm: obl,pl,pron
+ gloss: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāð.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāð
+
+-lexeme
+ lex: uf
+ stem: .uf.
+ gramm: obl,pl,pron
+ gloss: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāð.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāð
+
+-lexeme
+ lex: uf
+ stem: .uf.
+ gramm: obl,pl,pron
+ gloss: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāð.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāð
+
+-lexeme
+ lex: uf
+ stem: .uf.
+ gramm: obl,pl,pron
+ gloss: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāð.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāð
+
+-lexeme
+ lex: uf
+ stem: .uf.
+ gramm: obl,pl,pron
+ gloss: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāð.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāð
+
+-lexeme
+ lex: uf
+ stem: .uf.
+ gramm: obl,pl,pron
+ gloss: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāð.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāð
+
+-lexeme
+ lex: uf
+ stem: .uf.
+ gramm: obl,pl,pron
+ gloss: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāð.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāð
+
+-lexeme
+ lex: um
+ stem: .um.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā
+
+-lexeme
+ lex: um
+ stem: .um.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā
+
+-lexeme
+ lex: um
+ stem: .um.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā
+
+-lexeme
+ lex: um
+ stem: .um.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā
+
+-lexeme
+ lex: um
+ stem: .um.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā
+
+-lexeme
+ lex: um
+ stem: .um.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā
+
+-lexeme
+ lex: um
+ stem: .um.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā
+
+-lexeme
+ lex: um
+ stem: .um.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā
+
+-lexeme
+ lex: um
+ stem: .um.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā
+
+-lexeme
+ lex: um
+ stem: .um.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā
+
+-lexeme
+ lex: um
+ stem: .um.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā
+
+-lexeme
+ lex: um
+ stem: .um.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā
+
+-lexeme
+ lex: um
+ stem: .um.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā
+
+-lexeme
+ lex: um
+ stem: .um.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā
+
+-lexeme
+ lex: um
+ stem: .um.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā
+
+-lexeme
+ lex: уā
+ stem: .уā.
+ gramm: nom,pron
+ gloss: усилительн. частицей (i)k-ā  прямая форма указательн. местоимения дальней степени.nom
+ paradigm: ZERO
+ trans_ru: усилительн. частицей (i)k-ā  прямая форма указательн. местоимения дальней степени
+
+-lexeme
+ lex: уā
+ stem: .уā.
+ gramm: nom,pron
+ gloss: усилительн. частицей (i)k-ā  прямая форма указательн. местоимения дальней степени.nom
+ paradigm: ZERO
+ trans_ru: усилительн. частицей (i)k-ā  прямая форма указательн. местоимения дальней степени
+
+-lexeme
+ lex: yid
+ stem: .yid.
+ gramm: nom,pron
+ gloss: усилительн. частицей k-id  прямая форма указательн. местоимения ед. числа средней степени удаления.nom
+ paradigm: ZERO
+ trans_ru: усилительн. частицей k-id  прямая форма указательн. местоимения ед. числа средней степени удаления
+
+-lexeme
+ lex: yid
+ stem: .yid.
+ gramm: nom,pron
+ gloss: усилительн. частицей k-id  прямая форма указательн. местоимения ед. числа средней степени удаления.nom
+ paradigm: ZERO
+ trans_ru: усилительн. частицей k-id  прямая форма указательн. местоимения ед. числа средней степени удаления
+
+-lexeme
+ lex: yim
+ stem: .yim.
+ gramm: nom,sg,pron
+ gloss: усилительн. частицей k-im  прямая форма указательн. местоимения ед. ч. ближней степени.nom.sg
+ paradigm: ZERO
+ trans_ru: усилительн. частицей k-im  прямая форма указательн. местоимения ед. ч. ближней степени
+
+-lexeme
+ lex: yim
+ stem: .yim.
+ gramm: nom,sg,pron
+ gloss: усилительн. частицей k-im  прямая форма указательн. местоимения ед. ч. ближней степени.nom.sg
+ paradigm: ZERO
+ trans_ru: усилительн. частицей k-im  прямая форма указательн. местоимения ед. ч. ближней степени
+
+-lexeme
+ lex: mun
+ stem: .mun.
+ gramm: obl,sg,pron
+ gloss: послелогом -ri mu-  косв. форма местоимения 1-го л. ед. ч. к прямой форме аz.obl.sg
+ paradigm: ZERO
+ trans_ru: послелогом -ri mu-  косв. форма местоимения 1-го л. ед. ч. к прямой форме аz
+
+-lexeme
+ lex: mun
+ stem: .mun.
+ gramm: obl,sg,pron
+ gloss: послелогом -ri mu-  косв. форма местоимения 1-го л. ед. ч. к прямой форме аz.obl.sg
+ paradigm: ZERO
+ trans_ru: послелогом -ri mu-  косв. форма местоимения 1-го л. ед. ч. к прямой форме аz
+
+-lexeme
+ lex: aӡēd
+ stem: .aӡēd.
+ gramm: pron
+ gloss: aӡēd.
+ paradigm: ZERO
+ trans_ru: aӡēd
+
+-lexeme
+ lex: aӡēd
+ stem: .aӡēd.
+ gramm: pron
+ gloss: aӡēd.
+ paradigm: ZERO
+ trans_ru: aӡēd
+
+-lexeme
+ lex: āz
+ stem: .āz.
+ gramm: nom,sg,pron
+ gloss: прямая форма местоимения 1-го л. ед. ч. 'я'.nom.sg
+ paradigm: ZERO
+ trans_ru: прямая форма местоимения 1-го л. ед. ч. 'я'
+
+-lexeme
+ lex: āz
+ stem: .āz.
+ gramm: nom,sg,pron
+ gloss: прямая форма местоимения 1-го л. ед. ч. 'я'.nom.sg
+ paradigm: ZERO
+ trans_ru: прямая форма местоимения 1-го л. ед. ч. 'я'
+
+-lexeme
+ lex: са
+ stem: .са.
+ gramm: pron
+ gloss: (вопросительно) что? как? какой? почему? бс. са ar ta-gṓv-at nax̌tṓyd? почему ты вышел ниже (по реке)? бс. ē pōdx̌ōbačā́.
+ paradigm: ZERO
+ trans_ru: (вопросительно) что? как? какой? почему? бс. са ar ta-gṓv-at nax̌tṓyd? почему ты вышел ниже (по реке)? бс. ē pōdx̌ōbačā́
+
+-lexeme
+ lex: cav
+ stem: .cav.
+ gramm: pron
+ gloss: что? сп. tū́-at cav sut? что с тобой случилось? бс. tū́-at cav? что с тобой? сп. az tā kitṓb cav kinúm? что я сделаю с твоей книгой? сп. cav az mun kiní? что ты со мной сделаешь? cav sawd (di) что.
+ paradigm: ZERO
+ trans_ru: что? сп. tū́-at cav sut? что с тобой случилось? бс. tū́-at cav? что с тобой? сп. az tā kitṓb cav kinúm? что я сделаю с твоей книгой? сп. cav az mun kiní? что ты со мной сделаешь? cav sawd (di) что
+
+-lexeme
+ lex: cōnd
+ stem: .cōnd.
+ gramm: pron
+ gloss: 1. сколько.
+ paradigm: ZERO
+ trans_ru: 1. сколько
+
+-lexeme
+ lex: čī
+ stem: .čī.
+ gramm: pron
+ gloss: вопросительное местоимение: кто? в отличие от рушанского имеет только одну форму.
+ paradigm: ZERO
+ trans_ru: вопросительное местоимение: кто? в отличие от рушанского имеет только одну форму
+
+-lexeme
+ lex: čī
+ stem: .čī.
+ gramm: pron
+ gloss: вопросительное местоимение: кто? в отличие от рушанского имеет только одну форму.
+ paradigm: ZERO
+ trans_ru: вопросительное местоимение: кто? в отличие от рушанского имеет только одну форму
+
+-lexeme
+ lex: čidum
+ stem: .čidum.
+ gramm: pron
+ gloss: какой? который? сп. tū́-at padū́d ca-ráng yat? čidṓm maqsád? ты как сюда попал? с какой целью? бс. ik-ā tūtī́yi suxandṓn čidúm vrṓd-ri fi-rḗpt? какому брату достанется говорящий попугай? ar-čidúm каждый.
+ paradigm: ZERO
+ trans_ru: какой? который? сп. tū́-at padū́d ca-ráng yat? čidṓm maqsád? ты как сюда попал? с какой целью? бс. ik-ā tūtī́yi suxandṓn čidúm vrṓd-ri fi-rḗpt? какому брату достанется говорящий попугай? ar-čidúm каждый
+
+-lexeme
+ lex: čidum
+ stem: .čidum.
+ gramm: pron
+ gloss: какой? который? сп. tū́-at padū́d ca-ráng yat? čidṓm maqsád? ты как сюда попал? с какой целью? бс. ik-ā tūtī́yi suxandṓn čidúm vrṓd-ri fi-rḗpt? какому брату достанется говорящий попугай? ar-čidúm каждый.
+ paradigm: ZERO
+ trans_ru: какой? который? сп. tū́-at padū́d ca-ráng yat? čidṓm maqsád? ты как сюда попал? с какой целью? бс. ik-ā tūtī́yi suxandṓn čidúm vrṓd-ri fi-rḗpt? какому брату достанется говорящий попугай? ar-čidúm каждый
+
+-lexeme
+ lex: čidum
+ stem: .čidum.
+ gramm: pron
+ gloss: какой? который? сп. tū́-at padū́d ca-ráng yat? čidṓm maqsád? ты как сюда попал? с какой целью? бс. ik-ā tūtī́yi suxandṓn čidúm vrṓd-ri fi-rḗpt? какому брату достанется говорящий попугай? ar-čidúm каждый.
+ paradigm: ZERO
+ trans_ru: какой? который? сп. tū́-at padū́d ca-ráng yat? čidṓm maqsád? ты как сюда попал? с какой целью? бс. ik-ā tūtī́yi suxandṓn čidúm vrṓd-ri fi-rḗpt? какому брату достанется говорящий попугай? ar-čidúm каждый
+
+-lexeme
+ lex: čiz
+ stem: .čiz.
+ gramm: pron
+ gloss: что-то.
+ paradigm: ZERO
+ trans_ru: что-то
+
+-lexeme
+ lex: čiz
+ stem: .čiz.
+ gramm: pron
+ gloss: что-то.
+ paradigm: ZERO
+ trans_ru: что-то
+
+-lexeme
+ lex: amagī
+ stem: .amagī.
+ gramm: pron
+ gloss: amagī́  все.
+ paradigm: ZERO
+ trans_ru: amagī́  все
+
+-lexeme
+ lex: amagī
+ stem: .amagī.
+ gramm: pron
+ gloss: amagī́  все.
+ paradigm: ZERO
+ trans_ru: amagī́  все
+
+-lexeme
+ lex: fuk
+ stem: .fuk.
+ gramm: pron
+ gloss: 1. (обычно в осложненной форме fúkaθ) весь.
+ paradigm: ZERO
+ trans_ru: 1. (обычно в осложненной форме fúkaθ) весь
+
+-lexeme
+ lex: fuk
+ stem: .fuk.
+ gramm: pron
+ gloss: 1. (обычно в осложненной форме fúkaθ) весь.
+ paradigm: ZERO
+ trans_ru: 1. (обычно в осложненной форме fúkaθ) весь
+
+-lexeme
+ lex: am
+ stem: .am.
+ gramm: pron
+ gloss: друг друга.
+ paradigm: ZERO
+ trans_ru: друг друга
+
+-lexeme
+ lex: dāδ
+ stem: .dāδ.
+ gramm: nom,pl,pron
+ gloss: прямая форма указательн. местоимения мн. ч. средней степени удаления.nom.pl
+ paradigm: ZERO
+ trans_ru: прямая форма указательн. местоимения мн. ч. средней степени удаления
+
+-lexeme
+ lex: dāδ
+ stem: .dāδ.
+ gramm: nom,pl,pron
+ gloss: прямая форма указательн. местоимения мн. ч. средней степени удаления.nom.pl
+ paradigm: ZERO
+ trans_ru: прямая форма указательн. местоимения мн. ч. средней степени удаления
+
+-lexeme
+ lex: das
+ stem: .das.
+ gramm: pron
+ gloss: так.
+ paradigm: ZERO
+ trans_ru: так
+
+-lexeme
+ lex: dī
+ stem: .dī.
+ gramm: obl,sg,pron
+ gloss: косв. форма указательн. местоимения средней степени удаления ед. ч. к прямой форме id (см.).obl.sg
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения средней степени удаления ед. ч. к прямой форме id (см.)
+
+-lexeme
+ lex: dī
+ stem: .dī.
+ gramm: obl,sg,pron
+ gloss: косв. форма указательн. местоимения средней степени удаления ед. ч. к прямой форме id (см.).obl.sg
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения средней степени удаления ед. ч. к прямой форме id (см.)
+
+-lexeme
+ lex: dī
+ stem: .dī.
+ gramm: obl,sg,pron
+ gloss: косв. форма указательн. местоимения средней степени удаления ед. ч. к прямой форме id (см.).obl.sg
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения средней степени удаления ед. ч. к прямой форме id (см.)
+
+-lexeme
+ lex: dī
+ stem: .dī.
+ gramm: obl,sg,pron
+ gloss: косв. форма указательн. местоимения средней степени удаления ед. ч. к прямой форме id (см.).obl.sg
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения средней степени удаления ед. ч. к прямой форме id (см.)
+
+-lexeme
+ lex: dī
+ stem: .dī.
+ gramm: obl,sg,pron
+ gloss: косв. форма указательн. местоимения средней степени удаления ед. ч. к прямой форме id (см.).obl.sg
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения средней степени удаления ед. ч. к прямой форме id (см.)
+
+-lexeme
+ lex: dī
+ stem: .dī.
+ gramm: obl,sg,pron
+ gloss: косв. форма указательн. местоимения средней степени удаления ед. ч. к прямой форме id (см.).obl.sg
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения средней степени удаления ед. ч. к прямой форме id (см.)
+
+-lexeme
+ lex: dī
+ stem: .dī.
+ gramm: obl,sg,pron
+ gloss: косв. форма указательн. местоимения средней степени удаления ед. ч. к прямой форме id (см.).obl.sg
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения средней степени удаления ед. ч. к прямой форме id (см.)
+
+-lexeme
+ lex: dī
+ stem: .dī.
+ gramm: obl,sg,pron
+ gloss: косв. форма указательн. местоимения средней степени удаления ед. ч. к прямой форме id (см.).obl.sg
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения средней степени удаления ед. ч. к прямой форме id (см.)
+
+-lexeme
+ lex: dī
+ stem: .dī.
+ gramm: obl,sg,pron
+ gloss: косв. форма указательн. местоимения средней степени удаления ед. ч. к прямой форме id (см.).obl.sg
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения средней степени удаления ед. ч. к прямой форме id (см.)
+
+-lexeme
+ lex: dī
+ stem: .dī.
+ gramm: obl,sg,pron
+ gloss: косв. форма указательн. местоимения средней степени удаления ед. ч. к прямой форме id (см.).obl.sg
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения средней степени удаления ед. ч. к прямой форме id (см.)
+
+-lexeme
+ lex: dif
+ stem: .dif.
+ gramm: obl,pl,pron
+ gloss: косв. форма мн. ч. указательн. местоимения средней степени удаления к прямой форме dāδ.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма мн. ч. указательн. местоимения средней степени удаления к прямой форме dāδ
+
+-lexeme
+ lex: dif
+ stem: .dif.
+ gramm: obl,pl,pron
+ gloss: косв. форма мн. ч. указательн. местоимения средней степени удаления к прямой форме dāδ.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма мн. ч. указательн. местоимения средней степени удаления к прямой форме dāδ
+
+-lexeme
+ lex: dif
+ stem: .dif.
+ gramm: obl,pl,pron
+ gloss: косв. форма мн. ч. указательн. местоимения средней степени удаления к прямой форме dāδ.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма мн. ч. указательн. местоимения средней степени удаления к прямой форме dāδ
+
+-lexeme
+ lex: dif
+ stem: .dif.
+ gramm: obl,pl,pron
+ gloss: косв. форма мн. ч. указательн. местоимения средней степени удаления к прямой форме dāδ.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма мн. ч. указательн. местоимения средней степени удаления к прямой форме dāδ
+
+-lexeme
+ lex: dif
+ stem: .dif.
+ gramm: obl,pl,pron
+ gloss: косв. форма мн. ч. указательн. местоимения средней степени удаления к прямой форме dāδ.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма мн. ч. указательн. местоимения средней степени удаления к прямой форме dāδ
+
+-lexeme
+ lex: dif
+ stem: .dif.
+ gramm: obl,pl,pron
+ gloss: косв. форма мн. ч. указательн. местоимения средней степени удаления к прямой форме dāδ.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма мн. ч. указательн. местоимения средней степени удаления к прямой форме dāδ
+
+-lexeme
+ lex: dif
+ stem: .dif.
+ gramm: obl,pl,pron
+ gloss: косв. форма мн. ч. указательн. местоимения средней степени удаления к прямой форме dāδ.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма мн. ч. указательн. местоимения средней степени удаления к прямой форме dāδ
+
+-lexeme
+ lex: dif
+ stem: .dif.
+ gramm: obl,pl,pron
+ gloss: косв. форма мн. ч. указательн. местоимения средней степени удаления к прямой форме dāδ.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма мн. ч. указательн. местоимения средней степени удаления к прямой форме dāδ
+
+-lexeme
+ lex: dif
+ stem: .dif.
+ gramm: obl,pl,pron
+ gloss: косв. форма мн. ч. указательн. местоимения средней степени удаления к прямой форме dāδ.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма мн. ч. указательн. местоимения средней степени удаления к прямой форме dāδ
+
+-lexeme
+ lex: dif
+ stem: .dif.
+ gramm: obl,pl,pron
+ gloss: косв. форма мн. ч. указательн. местоимения средней степени удаления к прямой форме dāδ.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма мн. ч. указательн. местоимения средней степени удаления к прямой форме dāδ
+
+-lexeme
+ lex: digar
+ stem: .digar.
+ gramm: pron
+ gloss: другой.
+ paradigm: ZERO
+ trans_ru: другой
+
+-lexeme
+ lex: digar
+ stem: .digar.
+ gramm: pron
+ gloss: другой.
+ paradigm: ZERO
+ trans_ru: другой
+
+-lexeme
+ lex: uf
+ stem: .uf.
+ gramm: obl,pl,pron
+ gloss: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāδ.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāδ
+
+-lexeme
+ lex: uf
+ stem: .uf.
+ gramm: obl,pl,pron
+ gloss: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāδ.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāδ
+
+-lexeme
+ lex: uf
+ stem: .uf.
+ gramm: obl,pl,pron
+ gloss: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāδ.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāδ
+
+-lexeme
+ lex: uf
+ stem: .uf.
+ gramm: obl,pl,pron
+ gloss: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāδ.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāδ
+
+-lexeme
+ lex: uf
+ stem: .uf.
+ gramm: obl,pl,pron
+ gloss: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāδ.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāδ
+
+-lexeme
+ lex: uf
+ stem: .uf.
+ gramm: obl,pl,pron
+ gloss: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāδ.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāδ
+
+-lexeme
+ lex: uf
+ stem: .uf.
+ gramm: obl,pl,pron
+ gloss: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāδ.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāδ
+
+-lexeme
+ lex: uf
+ stem: .uf.
+ gramm: obl,pl,pron
+ gloss: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāδ.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāδ
+
+-lexeme
+ lex: uf
+ stem: .uf.
+ gramm: obl,pl,pron
+ gloss: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāδ.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāδ
+
+-lexeme
+ lex: uf
+ stem: .uf.
+ gramm: obl,pl,pron
+ gloss: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāδ.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāδ
+
+-lexeme
+ lex: uf
+ stem: .uf.
+ gramm: obl,pl,pron
+ gloss: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāδ.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāδ
+
+-lexeme
+ lex: uf
+ stem: .uf.
+ gramm: obl,pl,pron
+ gloss: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāδ.obl.pl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени мн. ч. к прямой форме wāδ
+
+-lexeme
+ lex: уā
+ stem: .уā.
+ gramm: nom,pron
+ gloss: усилительн. частицей (i)k-ā  прямая форма указательн. местоимения дальней степени.nom
+ paradigm: ZERO
+ trans_ru: усилительн. частицей (i)k-ā  прямая форма указательн. местоимения дальней степени
+
+-lexeme
+ lex: уā
+ stem: .уā.
+ gramm: nom,pron
+ gloss: усилительн. частицей (i)k-ā  прямая форма указательн. местоимения дальней степени.nom
+ paradigm: ZERO
+ trans_ru: усилительн. частицей (i)k-ā  прямая форма указательн. местоимения дальней степени
+
+-lexeme
+ lex: уā
+ stem: .уā.
+ gramm: nom,pron
+ gloss: усилительн. частицей (i)k-ā  прямая форма указательн. местоимения дальней степени.nom
+ paradigm: ZERO
+ trans_ru: усилительн. частицей (i)k-ā  прямая форма указательн. местоимения дальней степени
+
+-lexeme
+ lex: um
+ stem: .um.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā
+
+-lexeme
+ lex: um
+ stem: .um.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā
+
+-lexeme
+ lex: um
+ stem: .um.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā
+
+-lexeme
+ lex: um
+ stem: .um.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā
+
+-lexeme
+ lex: um
+ stem: .um.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā
+
+-lexeme
+ lex: um
+ stem: .um.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā
+
+-lexeme
+ lex: um
+ stem: .um.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā
+
+-lexeme
+ lex: um
+ stem: .um.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā
+
+-lexeme
+ lex: um
+ stem: .um.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā
+
+-lexeme
+ lex: um
+ stem: .um.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā
+
+-lexeme
+ lex: um
+ stem: .um.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā
+
+-lexeme
+ lex: um
+ stem: .um.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā
+
+-lexeme
+ lex: um
+ stem: .um.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā
+
+-lexeme
+ lex: um
+ stem: .um.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā
+
+-lexeme
+ lex: um
+ stem: .um.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени ж. р. к прямой форме yā
+
+-lexeme
+ lex: wāδ
+ stem: .wāδ.
+ gramm: nom,pl,pron
+ gloss: прямая форма указательн. местоимения мн. ч. дальней степени.nom.pl
+ paradigm: ZERO
+ trans_ru: прямая форма указательн. местоимения мн. ч. дальней степени
+
+-lexeme
+ lex: wāδ
+ stem: .wāδ.
+ gramm: nom,pl,pron
+ gloss: прямая форма указательн. местоимения мн. ч. дальней степени.nom.pl
+ paradigm: ZERO
+ trans_ru: прямая форма указательн. местоимения мн. ч. дальней степени
+
+-lexeme
+ lex: wāδ
+ stem: .wāδ.
+ gramm: nom,pl,pron
+ gloss: прямая форма указательн. местоимения мн. ч. дальней степени.nom.pl
+ paradigm: ZERO
+ trans_ru: прямая форма указательн. местоимения мн. ч. дальней степени
+
+-lexeme
+ lex: wī
+ stem: .wī.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени м. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени м. р. к прямой форме yā
+
+-lexeme
+ lex: wī
+ stem: .wī.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени м. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени м. р. к прямой форме yā
+
+-lexeme
+ lex: wī
+ stem: .wī.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени м. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени м. р. к прямой форме yā
+
+-lexeme
+ lex: wī
+ stem: .wī.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени м. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени м. р. к прямой форме yā
+
+-lexeme
+ lex: wī
+ stem: .wī.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени м. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени м. р. к прямой форме yā
+
+-lexeme
+ lex: wī
+ stem: .wī.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени м. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени м. р. к прямой форме yā
+
+-lexeme
+ lex: wī
+ stem: .wī.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени м. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени м. р. к прямой форме yā
+
+-lexeme
+ lex: wī
+ stem: .wī.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения дальней степени м. р. к прямой форме yā.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения дальней степени м. р. к прямой форме yā
+
+-lexeme
+ lex: xu
+ stem: .xu.
+ gramm: pron
+ gloss: возвратн. местоимение: свой.
+ paradigm: ZERO
+ trans_ru: возвратн. местоимение: свой
+
+-lexeme
+ lex: xúbaθ
+ stem: .xúbaθ.
+ gramm: pron
+ gloss: сам.
+ paradigm: ZERO
+ trans_ru: сам
+
+-lexeme
+ lex: yi
+ stem: .yi.
+ gramm: pron
+ gloss: приименная форма числительного yīw один.
+ paradigm: ZERO
+ trans_ru: приименная форма числительного yīw один
+
+-lexeme
+ lex: yi
+ stem: .yi.
+ gramm: pron
+ gloss: приименная форма числительного yīw один.
+ paradigm: ZERO
+ trans_ru: приименная форма числительного yīw один
+
+-lexeme
+ lex: yim
+ stem: .yim.
+ gramm: nom,sg,pron
+ gloss: усилительн. частицей k-im  прямая форма указательн. местоимения ед. ч. ближней степени.nom.sg
+ paradigm: ZERO
+ trans_ru: усилительн. частицей k-im  прямая форма указательн. местоимения ед. ч. ближней степени
+
+-lexeme
+ lex: yim
+ stem: .yim.
+ gramm: nom,sg,pron
+ gloss: усилительн. частицей k-im  прямая форма указательн. местоимения ед. ч. ближней степени.nom.sg
+ paradigm: ZERO
+ trans_ru: усилительн. частицей k-im  прямая форма указательн. местоимения ед. ч. ближней степени
+
+-lexeme
+ lex: yim
+ stem: .yim.
+ gramm: nom,sg,pron
+ gloss: усилительн. частицей k-im  прямая форма указательн. местоимения ед. ч. ближней степени.nom.sg
+ paradigm: ZERO
+ trans_ru: усилительн. частицей k-im  прямая форма указательн. местоимения ед. ч. ближней степени
+
+-lexeme
+ lex: yi
+ stem: .yi.
+ gramm: pron
+ gloss: кто-нибудь.
+ paradigm: ZERO
+ trans_ru: кто-нибудь
+
+-lexeme
+ lex: yi
+ stem: .yi.
+ gramm: pron
+ gloss: кто-нибудь.
+ paradigm: ZERO
+ trans_ru: кто-нибудь
+
+-lexeme
+ lex: dim
+ stem: .dim.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения средней степени удаления ж. ед. к прямой форме yid.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения средней степени удаления ж. ед. к прямой форме yid
+
+-lexeme
+ lex: dim
+ stem: .dim.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения средней степени удаления ж. ед. к прямой форме yid.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения средней степени удаления ж. ед. к прямой форме yid
+
+-lexeme
+ lex: dim
+ stem: .dim.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения средней степени удаления ж. ед. к прямой форме yid.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения средней степени удаления ж. ед. к прямой форме yid
+
+-lexeme
+ lex: dim
+ stem: .dim.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения средней степени удаления ж. ед. к прямой форме yid.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения средней степени удаления ж. ед. к прямой форме yid
+
+-lexeme
+ lex: dim
+ stem: .dim.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения средней степени удаления ж. ед. к прямой форме yid.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения средней степени удаления ж. ед. к прямой форме yid
+
+-lexeme
+ lex: dim
+ stem: .dim.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения средней степени удаления ж. ед. к прямой форме yid.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения средней степени удаления ж. ед. к прямой форме yid
+
+-lexeme
+ lex: dim
+ stem: .dim.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения средней степени удаления ж. ед. к прямой форме yid.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения средней степени удаления ж. ед. к прямой форме yid
+
+-lexeme
+ lex: dim
+ stem: .dim.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения средней степени удаления ж. ед. к прямой форме yid.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения средней степени удаления ж. ед. к прямой форме yid
+
+-lexeme
+ lex: dim
+ stem: .dim.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения средней степени удаления ж. ед. к прямой форме yid.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения средней степени удаления ж. ед. к прямой форме yid
+
+-lexeme
+ lex: dim
+ stem: .dim.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения средней степени удаления ж. ед. к прямой форме yid.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения средней степени удаления ж. ед. к прямой форме yid
+
+-lexeme
+ lex: dim
+ stem: .dim.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения средней степени удаления ж. ед. к прямой форме yid.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения средней степени удаления ж. ед. к прямой форме yid
+
+-lexeme
+ lex: dim
+ stem: .dim.
+ gramm: obl,pron
+ gloss: косв. форма указательн. местоимения средней степени удаления ж. ед. к прямой форме yid.obl
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения средней степени удаления ж. ед. к прямой форме yid
+
+-lexeme
+ lex: mī
+ stem: .mī.
+ gramm: obl,nom,pron
+ gloss: косв. форма указательн. местоимения ближней степени м. р. к прямой форме yim.obl.nom
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения ближней степени м. р. к прямой форме yim
+
+-lexeme
+ lex: mī
+ stem: .mī.
+ gramm: obl,nom,pron
+ gloss: косв. форма указательн. местоимения ближней степени м. р. к прямой форме yim.obl.nom
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения ближней степени м. р. к прямой форме yim
+
+-lexeme
+ lex: mī
+ stem: .mī.
+ gramm: obl,nom,pron
+ gloss: косв. форма указательн. местоимения ближней степени м. р. к прямой форме yim.obl.nom
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения ближней степени м. р. к прямой форме yim
+
+-lexeme
+ lex: mī
+ stem: .mī.
+ gramm: obl,nom,pron
+ gloss: косв. форма указательн. местоимения ближней степени м. р. к прямой форме yim.obl.nom
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения ближней степени м. р. к прямой форме yim
+
+-lexeme
+ lex: mī
+ stem: .mī.
+ gramm: obl,nom,pron
+ gloss: косв. форма указательн. местоимения ближней степени м. р. к прямой форме yim.obl.nom
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения ближней степени м. р. к прямой форме yim
+
+-lexeme
+ lex: mī
+ stem: .mī.
+ gramm: obl,nom,pron
+ gloss: косв. форма указательн. местоимения ближней степени м. р. к прямой форме yim.obl.nom
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения ближней степени м. р. к прямой форме yim
+
+-lexeme
+ lex: mī
+ stem: .mī.
+ gramm: obl,nom,pron
+ gloss: косв. форма указательн. местоимения ближней степени м. р. к прямой форме yim.obl.nom
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения ближней степени м. р. к прямой форме yim
+
+-lexeme
+ lex: mī
+ stem: .mī.
+ gramm: obl,nom,pron
+ gloss: косв. форма указательн. местоимения ближней степени м. р. к прямой форме yim.obl.nom
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения ближней степени м. р. к прямой форме yim
+
+-lexeme
+ lex: mī
+ stem: .mī.
+ gramm: obl,nom,pron
+ gloss: косв. форма указательн. местоимения ближней степени м. р. к прямой форме yim.obl.nom
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения ближней степени м. р. к прямой форме yim
+
+-lexeme
+ lex: mī
+ stem: .mī.
+ gramm: obl,nom,pron
+ gloss: косв. форма указательн. местоимения ближней степени м. р. к прямой форме yim.obl.nom
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения ближней степени м. р. к прямой форме yim
+
+-lexeme
+ lex: mī
+ stem: .mī.
+ gramm: obl,nom,pron
+ gloss: косв. форма указательн. местоимения ближней степени м. р. к прямой форме yim.obl.nom
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения ближней степени м. р. к прямой форме yim
+
+-lexeme
+ lex: mī
+ stem: .mī.
+ gramm: obl,nom,pron
+ gloss: косв. форма указательн. местоимения ближней степени м. р. к прямой форме yim.obl.nom
+ paradigm: ZERO
+ trans_ru: косв. форма указательн. местоимения ближней степени м. р. к прямой форме yim
+
+-lexeme
+ lex: māδ
+ stem: .māδ.
+ gramm: nom,pl,pron
+ gloss: прямая форма указательн. местоимения мн. ч. ближней степени.nom.pl
+ paradigm: ZERO
+ trans_ru: прямая форма указательн. местоимения мн. ч. ближней степени
+
+-lexeme
+ lex: māδ
+ stem: .māδ.
+ gramm: nom,pl,pron
+ gloss: прямая форма указательн. местоимения мн. ч. ближней степени.nom.pl
+ paradigm: ZERO
+ trans_ru: прямая форма указательн. местоимения мн. ч. ближней степени
+
+-lexeme
+ lex: māš
+ stem: .māš.
+ gramm: pl,pron
+ gloss: местоимение 1-го л. мн. ч..pl
+ paradigm: ZERO
+ trans_ru: местоимение 1-го л. мн. ч.
+
+-lexeme
+ lex: a
+ stem: .a.
+ gramm: pron
+ gloss: a(r)-rang всякий.
+ paradigm: ZERO
+ trans_ru: a(r)-rang всякий
+
+-lexeme
+ lex: a
+ stem: .a.
+ gramm: pron
+ gloss: a(r)-rang всякий.
+ paradigm: ZERO
+ trans_ru: a(r)-rang всякий
+
+-lexeme
+ lex: ca
+ stem: .ca.
+ gramm: pron
+ gloss: за? бс. tā́yā ca-rangín čōr.
+ paradigm: ZERO
+ trans_ru: за? бс. tā́yā ca-rangín čōr
+
+-lexeme
+ lex: ca
+ stem: .ca.
+ gramm: pron
+ gloss: за? бс. tā́yā ca-rangín čōr.
+ paradigm: ZERO
+ trans_ru: за? бс. tā́yā ca-rangín čōr
+
+-lexeme
+ lex: ca
+ stem: .ca.
+ gramm: pron
+ gloss: за? бс. tā́yā ca-rangín čōr.
+ paradigm: ZERO
+ trans_ru: за? бс. tā́yā ca-rangín čōr
+
+-lexeme
+ lex: ca
+ stem: .ca.
+ gramm: pron
+ gloss: за? бс. tā́yā ca-rangín čōr.
+ paradigm: ZERO
+ trans_ru: за? бс. tā́yā ca-rangín čōr
+
+-lexeme
+ lex: ca
+ stem: .ca.
+ gramm: pron
+ gloss: за? бс. tā́yā ca-rangín čōr.
+ paradigm: ZERO
+ trans_ru: за? бс. tā́yā ca-rangín čōr
+
+-lexeme
+ lex: ca
+ stem: .ca.
+ gramm: pron
+ gloss: за? бс. tā́yā ca-rangín čōr.
+ paradigm: ZERO
+ trans_ru: за? бс. tā́yā ca-rangín čōr
+
+-lexeme
+ lex: tā
+ stem: .tā.
+ gramm: obl,sg,pron
+ gloss: косв. форма местоимения 2-го л. ед. ч. к прямой форме tū.obl.sg
+ paradigm: ZERO
+ trans_ru: косв. форма местоимения 2-го л. ед. ч. к прямой форме tū
+
+-lexeme
+ lex: tā
+ stem: .tā.
+ gramm: obl,sg,pron
+ gloss: косв. форма местоимения 2-го л. ед. ч. к прямой форме tū.obl.sg
+ paradigm: ZERO
+ trans_ru: косв. форма местоимения 2-го л. ед. ч. к прямой форме tū
+
+-lexeme
+ lex: tā
+ stem: .tā.
+ gramm: obl,sg,pron
+ gloss: косв. форма местоимения 2-го л. ед. ч. к прямой форме tū.obl.sg
+ paradigm: ZERO
+ trans_ru: косв. форма местоимения 2-го л. ед. ч. к прямой форме tū
+
+-lexeme
+ lex: tamāš
+ stem: .tamāš.
+ gramm: pl,pron
+ gloss: tama  местоимение 2-го л. мн. ч..pl
+ paradigm: ZERO
+ trans_ru: tama  местоимение 2-го л. мн. ч.
+
+-lexeme
+ lex: tamāš
+ stem: .tamāš.
+ gramm: pl,pron
+ gloss: tama  местоимение 2-го л. мн. ч..pl
+ paradigm: ZERO
+ trans_ru: tama  местоимение 2-го л. мн. ч.
+
+-lexeme
+ lex: tamōm
+ stem: .tamōm.
+ gramm: pron
+ gloss: конец.
+ paradigm: ZERO
+ trans_ru: конец

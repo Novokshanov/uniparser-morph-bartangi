@@ -1,0 +1,95 @@
+-lexeme
+ lex: хау
+ stem: .хау.
+ gramm: inter
+ gloss: (ну) ладно
+ paradigm: ZERO
+ trans_ru: (ну) ладно
+
+-lexeme
+ lex: uppast
+ stem: .upp.
+ gramm: inter
+ gloss: непроизвольное восклицание
+ paradigm: ZERO
+ trans_ru: непроизвольное восклицание
+
+-lexeme
+ lex: upast
+ stem: .up.
+ gramm: inter
+ gloss: непроизвольное восклицание
+ paradigm: ZERO
+ trans_ru: непроизвольное восклицание
+
+-lexeme
+ lex: ē-lō
+ stem: .ē-lō.
+ gramm: inter
+ gloss: формула обращения
+ paradigm: ZERO
+ trans_ru: формула обращения
+
+-lexeme
+ lex: ma
+ stem: .ma.
+ gramm: inter
+ gloss: ma  на! бс. mа
+ paradigm: ZERO
+ trans_ru: ma  на! бс. mа
+
+-lexeme
+ lex: up(p)
+ stem: .up(p).
+ gramm: inter
+ gloss: непроизвольное восклицание
+ paradigm: ZERO
+ trans_ru: непроизвольное восклицание
+
+-lexeme
+ lex: xušōmadī
+ stem: .xušōmadī.
+ gramm: inter
+ gloss:добро пожаловать!
+ paradigm: ZERO
+ trans_ru: добро пожаловать!
+
+-lexeme
+ lex: čax
+ stem: .čax.
+ gramm: inter
+ gloss: окрик на собаку.
+ paradigm: ZERO
+ trans_ru: окрик на собаку.
+
+-lexeme
+ lex: wa-alḗkum
+ stem: .wa-alḗkum.
+ gramm: inter
+ gloss: формула ответного приветствия.
+ paradigm: ZERO
+ trans_ru: формула ответного приветствия.
+
+-lexeme
+ lex: bar salōm
+ stem: .bar salōm.
+ gramm: inter
+ gloss: формула ответного приветствия.
+ paradigm: ZERO
+ trans_ru: формула ответного приветствия.
+
+-lexeme
+ lex: a-lā
+ stem: .a-lā.
+ gramm: inter
+ gloss: формула обращения
+ paradigm: ZERO
+ trans_ru: формула обращения
+
+-lexeme
+ lex: ōšdōd
+ stem: .ōšdōd.
+ gramm: inter
+ gloss: (бранно)
+ paradigm: ZERO
+ trans_ru: (бранно)

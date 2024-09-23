@@ -1,0 +1,4599 @@
+-lexeme
+ lex: andōz
+ stem: andōz.|andoz.
+ gramm: n
+ gloss: поборы
+ paradigm: NOUN
+ trans_ru: поборы
+
+-lexeme
+ lex: miǰād
+ stem: miǰād.
+ gramm: n,f
+ gloss: свояченица (жены братьев по отношению друг к другу).
+ paradigm: NOUN
+ trans_ru: свояченица (жены братьев по отношению друг к другу)
+
+-lexeme
+ lex: milāxt
+ stem: milāxt.
+ gramm: m,f,n
+ gloss: подошвенная_кожа.m.f
+ paradigm: NOUN
+ trans_ru: подошвенная кожа
+
+-lexeme
+ lex: aq
+ stem: aq.
+ gramm: n
+ gloss: долг
+ paradigm: NOUN
+ trans_ru: долг
+
+-lexeme
+ lex: tōbistōn
+ stem: tōbistōn.|tobiston.
+ gramm: f,n
+ gloss: лето.f
+ paradigm: NOUN
+ trans_ru: лето
+
+-lexeme
+ lex: tōq
+ stem: tōq.|toq.
+ gramm: n
+ gloss: ниша_для_полок
+ paradigm: NOUN
+ trans_ru: ниша для полок
+
+-lexeme
+ lex: tōv
+ stem: tōv.|tov.
+ gramm: f,m,n
+ gloss: раз.f.m
+ paradigm: NOUN
+ trans_ru: раз
+
+-lexeme
+ lex: tör
+ stem: tör.
+ gramm: m,n
+ gloss: верх.m
+ paradigm: NOUN
+ trans_ru: верх, вверх
+
+-lexeme
+ lex: tör-zēx̌tak
+ stem: tör-zēx̌tak.
+ gramm: n
+ gloss: состязание_в_переплыве_реки
+ paradigm: NOUN
+ trans_ru: в переплыве реки
+
+-lexeme
+ lex: tafāwsk
+ stem: tafāwsk.
+ gramm: n,f
+ gloss: змея.f
+ paradigm: NOUN
+ trans_ru: змея
+
+-lexeme
+ lex: tūtī
+ stem: tūtī.
+ gramm: f,n
+ gloss: попугай.f
+ paradigm: NOUN
+ trans_ru: попугай
+
+-lexeme
+ lex: tux̌ā
+ stem: tux̌ā.
+ gramm: n
+ gloss: дорожные припасы.
+ paradigm: NOUN
+ trans_ru: дорожные припасы
+
+-lexeme
+ lex: θōd
+ stem: θōd.
+ gramm: f,n
+ gloss: печень.f
+ paradigm: NOUN
+ trans_ru: печень
+
+-lexeme
+ lex: vaz
+ stem: vaz.
+ gramm: f,n
+ gloss: коза.f
+ paradigm: NOUN
+ trans_ru: коза
+
+-lexeme
+ lex: vērʒ
+ stem: vērʒ.|verʒ.
+ gramm: n,f
+ gloss: кобылица.f
+ paradigm: NOUN
+ trans_ru: кобылица
+
+-lexeme
+ lex: vic
+ stem: vic.
+ gramm: n,f
+ gloss: тетка
+ paradigm: NOUN
+ trans_ru: тетка
+
+-lexeme
+ lex: vōrǰ
+ stem: vōrǰ.|vorǰ
+ gramm: n,m
+ gloss: конь.m
+ paradigm: NOUN
+ trans_ru: конь
+
+-lexeme
+ lex: wūs
+ stem: wūs.
+ gramm: f,n
+ gloss: главная_балка.f
+ paradigm: NOUN
+ trans_ru: главная балка
+
+-lexeme
+ lex: mīθ
+ stem: mīθ.
+ gramm: f,n
+ gloss: день.f
+ paradigm: NOUN
+ trans_ru: день
+
+-lexeme
+ lex: mīx
+ stem: mīx.
+ gramm: n
+ gloss: гвоздь
+ paradigm: NOUN
+ trans_ru: гвоздь
+
+-lexeme
+ lex: miyōnā
+ stem: .miyōnā.
+ gramm: n
+ gloss: середина
+ paradigm: NOUN
+ trans_ru: середина
+
+-lexeme
+ lex: nān
+ stem: nān.
+ gramm: n
+ gloss: мать
+ paradigm: NOUN
+ trans_ru: мать
+
+-lexeme
+ lex: mōdīʒ
+ stem: mōdīʒ.|modīʒ.
+ gramm: n
+ gloss: мачеха
+ paradigm: NOUN
+ trans_ru: мачеха
+
+-lexeme
+ lex: ааn
+ stem: ааn.
+ gramm: n
+ gloss: железо.
+ paradigm: NOUN
+ trans_ru: железо
+
+-lexeme
+ lex: abδöst
+ stem: abδöst.
+ gramm: n
+ gloss: рукавицы
+ paradigm: NOUN
+ trans_ru: рукавицы из кожи
+
+-lexeme
+ lex: ablā
+ stem: ablā.
+ gramm: n
+ gloss: глупец
+ paradigm: NOUN
+ trans_ru: глупец
+
+-lexeme
+ lex: narx
+ stem: narx.
+ gramm: n
+ gloss: надувательство
+ paradigm: NOUN
+ trans_ru: надувательство
+
+-lexeme
+ lex: abrat
+ stem: abrat.
+ gramm: m,n
+ gloss: обман.m
+ paradigm: NOUN
+ trans_ru: обман
+
+-lexeme
+ lex: mōl
+ stem: mōl.|mol.
+ gramm: n
+ gloss: имущество
+ paradigm: NOUN
+ trans_ru: имущество
+
+-lexeme
+ lex: mōm
+ stem: mōm.|mom.
+ gramm: n
+ gloss: бабка
+ paradigm: NOUN
+ trans_ru: бабка, бабушка
+
+-lexeme
+ lex: mōst
+ stem: mōst.|most.
+ gramm: f,n
+ gloss: луна.f
+ paradigm: NOUN
+ trans_ru: луна
+
+-lexeme
+ lex: mōšīn
+ stem: mōšīn.|mošīn.
+ gramm: f,n
+ gloss: машина.f
+ paradigm: NOUN
+ trans_ru: машина
+
+-lexeme
+ lex: mōwn
+ stem: mōwn.|mown.
+ gramm: n
+ gloss: яблоко
+ paradigm: NOUN
+ trans_ru: яблоня; яблоко
+
+-lexeme
+ lex: ux̌
+ stem: ux̌.
+ gramm: n
+ gloss: рассудок.
+ paradigm: NOUN
+ trans_ru: рассудок, сознание
+
+-lexeme
+ lex: aftā
+ stem: aftā.
+ gramm: f,n
+ gloss: неделя.f
+ paradigm: NOUN
+ trans_ru: неделя
+
+-lexeme
+ lex: aɣ̌dar,
+ stem: aɣ̌dar.
+ gramm: f,n
+ gloss: дракон.f
+ paradigm: NOUN
+ trans_ru: дракон
+
+-lexeme
+ lex: mōyī
+ stem: mōyī.|moyī.
+ gramm: f,n
+ gloss: рыба.f
+ paradigm: NOUN
+ trans_ru: рыба
+
+-lexeme
+ lex: araq
+ stem: araq.
+ gramm: n
+ gloss: пот
+ paradigm: NOUN
+ trans_ru: пот
+
+-lexeme
+ lex: raδon
+ stem: arδon.|raδon.
+ gramm: f,n
+ gloss: очаг.f
+ paradigm: NOUN
+ trans_ru: очаг
+
+-lexeme
+ lex: mualim
+ stem: mualim.
+ gramm: n
+ gloss: учитель.
+ paradigm: NOUN
+ trans_ru: учитель
+
+-lexeme
+ lex: ark
+ stem: ark.
+ gramm: f,n
+ gloss: дворец.f
+ paradigm: NOUN
+ trans_ru: дворец
+
+-lexeme
+ lex: asīr
+ stem: asīr.
+ gramm: n
+ gloss: пленный
+ paradigm: NOUN
+ trans_ru: пленный
+
+-lexeme
+ lex: askar
+ stem: askar.
+ gramm: n
+ gloss: солдат
+ paradigm: NOUN
+ trans_ru: солдат
+
+-lexeme
+ lex: asöδ
+ stem: asöδ.
+ gramm: n
+ gloss: этот_год
+ paradigm: NOUN
+ trans_ru: этот год
+
+-lexeme
+ lex: aθēr
+ stem: aθēr.|aθer.
+ gramm: n
+ gloss: зола
+ paradigm: NOUN
+ trans_ru: зола
+
+-lexeme
+ lex: mūrc
+ stem: mūrc.
+ gramm: f,n
+ gloss: муравей.f
+ paradigm: NOUN
+ trans_ru: муравей
+
+-lexeme
+ lex: murδā
+ stem: murδā.
+ gramm: n
+ gloss: труп
+ paradigm: NOUN
+ trans_ru: труп
+
+-lexeme
+ lex: muslāt
+ stem: muslāt.
+ gramm: n
+ gloss: совет
+ paradigm: NOUN
+ trans_ru: совет
+
+-lexeme
+ lex: mut
+ stem: mut.
+ gramm: n
+ gloss: кулак
+ paradigm: NOUN
+ trans_ru: кулак
+
+-lexeme
+ lex: awlī
+ stem: awlī.
+ gramm: n
+ gloss: двор
+ paradigm: NOUN
+ trans_ru: двор
+
+-lexeme
+ lex: awō
+ stem: awō.|awo.
+ gramm: n
+ gloss: воздух
+ paradigm: NOUN
+ trans_ru: воздух
+
+-lexeme
+ lex: āwōl
+ stem: āwōl.|āwol.
+ gramm: n
+ gloss: положение
+ paradigm: NOUN
+ trans_ru: положение
+
+-lexeme
+ lex: mux̌tak
+ stem: mux̌tak.
+ gramm: m,f,n
+ gloss: горсть.m.f
+ paradigm: NOUN
+ trans_ru: горсть (стеблей)
+
+-lexeme
+ lex: mūy
+ stem: mūy.
+ gramm: n
+ gloss: волосок
+ paradigm: NOUN
+ trans_ru: волосок
+
+-lexeme
+ lex: awōz
+ stem: awōz.|awoz.
+ gramm: n
+ gloss: голос
+ paradigm: NOUN
+ trans_ru: голос
+
+-lexeme
+ lex: awqōt
+ stem: awqōt.|awqot.
+ gramm: n
+ gloss: еда
+ paradigm: NOUN
+ trans_ru: еда
+
+-lexeme
+ lex: awqōtwōrī
+ stem: awqōtwōrī.|awqotworī.
+ gramm: n
+ gloss: припасы
+ paradigm: NOUN
+ trans_ru: припасы
+
+-lexeme
+ lex: awz
+ stem: awz.
+ gramm: f,n
+ gloss: пруд.f
+ paradigm: NOUN
+ trans_ru: пруд, водоем
+
+-lexeme
+ lex: muzōfir
+ stem: muzōfir.|muzofir.
+ gramm: n
+ gloss: странник
+ paradigm: NOUN
+ trans_ru: странник
+
+-lexeme
+ lex: ax̌ar
+ stem: .ax̌ar.
+ gramm: n
+ gloss: [р.] шиповник..
+ paradigm: NOUN
+ trans_ru: [р.] шиповник.
+
+-lexeme
+ lex: ayb
+ stem: ayb.
+ gramm: n
+ gloss: грех
+ paradigm: NOUN
+ trans_ru: грех
+
+-lexeme
+ lex: aylōq,
+ stem: aylōq.|iloq.
+ gramm: n
+ gloss: отгонное_пастбище
+ paradigm: NOUN
+ trans_ru: отгонное пастбище
+
+-lexeme
+ lex: ayrōngī
+ stem: ayrōngī.|ayronī.
+ gramm: n
+ gloss: удивление
+ paradigm: NOUN
+ trans_ru: удивление
+
+-lexeme
+ lex: nabōs
+ stem: nabōs.|nabos.|nabes.
+ gramm: n
+ gloss: внук.m|внук.m|внучка.f
+ paradigm: NOUN
+ trans_ru: внук, внучка
+
+-lexeme
+ lex: aywōn
+ stem: aywōn.|aywon.
+ gramm: n
+ gloss: звери.
+ paradigm: NOUN
+ trans_ru: звери
+
+-lexeme
+ lex: nālīn
+ stem: nālīn.
+ gramm: n
+ gloss: деревянные_туфли
+ paradigm: NOUN
+ trans_ru: деревянные туфли
+
+-lexeme
+ lex: nalōg
+ stem: nalōg.|nalog.
+ gramm: n
+ gloss: налог
+ paradigm: NOUN
+ trans_ru: налог
+
+-lexeme
+ lex: namōz
+ stem: namōz.|namoz.
+ gramm: n
+ gloss: намаз
+ paradigm: NOUN
+ trans_ru: намаз (молитва)
+
+-lexeme
+ lex: naōl
+ stem: naōl.|naol.
+ gramm: f,n
+ gloss: саженец.f
+ paradigm: NOUN
+ trans_ru: саженец
+
+-lexeme
+ lex: naql
+ stem: naql.|naqli.
+ gramm: n
+ gloss: рассказ
+ paradigm: NOUN
+ trans_ru: рассказ, повествование
+
+-lexeme
+ lex: azōbōt
+ stem: azōbōt.|azobot.
+ gramm: n
+ gloss: мучения
+ paradigm: NOUN
+ trans_ru: мучения
+
+-lexeme
+ lex: nawbat
+ stem: nawbát.
+ gramm: n
+ gloss: очередь
+ paradigm: NOUN
+ trans_ru: очередь
+
+-lexeme
+ lex: nawkar
+ stem: nawkar.
+ gramm: n
+ gloss: слуга.
+ paradigm: NOUN
+ trans_ru: слуга
+
+-lexeme
+ lex: balō
+ stem: balō.|balo.
+ gramm: n
+ gloss: беда.
+ paradigm: NOUN
+ trans_ru: беда
+
+-lexeme
+ lex: bānd
+ stem: bānd.
+ gramm: n
+ gloss: привязь
+ paradigm: NOUN
+ trans_ru: привязь
+
+-lexeme
+ lex: baōr
+ stem: baōr.|baor.
+ gramm: f,n
+ gloss: весна.f
+ paradigm: NOUN
+ trans_ru: весна
+
+-lexeme
+ lex: naxčīr
+ stem: naxčīr.
+ gramm: f,n
+ gloss: козел.f
+ paradigm: NOUN
+ trans_ru: горный козел
+
+-lexeme
+ lex: bat
+ stem: bat.
+ gramm: n
+ gloss: пазуха.
+ paradigm: NOUN
+ trans_ru: пазуха
+
+-lexeme
+ lex: bawōn
+ stem: bawōn.|bawon.
+ gramm: n
+ gloss: дыра
+ paradigm: NOUN
+ trans_ru: дыра
+
+-lexeme
+ lex: nimaw
+ stem: nimaw.
+ gramm: n
+ gloss: брань
+ paradigm: NOUN
+ trans_ru: брань
+
+-lexeme
+ lex: bāx̌
+ stem: bāx̌.
+ gramm: n
+ gloss: доля
+ paradigm: NOUN
+ trans_ru: доля
+
+-lexeme
+ lex: bazay
+ stem: bazay.
+ gramm: n
+ gloss: игра
+ paradigm: NOUN
+ trans_ru: игра
+
+-lexeme
+ lex: bēr
+ stem: bēr.|ber.
+ gramm: n
+ gloss: низ
+ paradigm: NOUN
+ trans_ru: низ, нижний
+
+-lexeme
+ lex: nōm
+ stem: nōm.|nom.
+ gramm: n
+ gloss: имя
+ paradigm: NOUN
+ trans_ru: имя
+
+-lexeme
+ lex: nōš
+ stem: nōš.|noš.
+ gramm: n,f
+ gloss: абрикос.f
+ paradigm: NOUN
+ trans_ru: абрикос, абрикосовое дерево
+
+-lexeme
+ lex: biǰāw
+ stem: biǰāw.
+ gramm: n
+ gloss: подмышка
+ paradigm: NOUN
+ trans_ru: подмышка
+
+-lexeme
+ lex: biškawöǰ
+ stem: biškawöǰ.
+ gramm: n
+ gloss: перекладина_для_свежевания_туши
+ paradigm: NOUN
+ trans_ru: перекладина для свежевания туши
+
+-lexeme
+ lex: bīx̌
+ stem: bīx̌.
+ gramm: n
+ gloss: излишек
+ paradigm: NOUN
+ trans_ru: излишек
+
+-lexeme
+ lex: bīx̌acī
+ stem: bīx̌acī.
+ gramm: n
+ gloss: безводье
+ paradigm: NOUN
+ trans_ru: безводье
+
+-lexeme
+ lex: bix̌čaw
+ stem: bix̌čaw.
+ gramm: n
+ gloss: пазуха
+ paradigm: NOUN
+ trans_ru: пазуха
+
+-lexeme
+ lex: biyabōn
+ stem: biyabōn.|biyabon.
+ gramm: n
+ gloss: пустыня
+ paradigm: NOUN
+ trans_ru: пустыня
+
+-lexeme
+ lex: bōb
+ stem: bōb.|bob.
+ gramm: n
+ gloss: дед
+ paradigm: NOUN
+ trans_ru: дед
+
+-lexeme
+ lex: bōdiring
+ stem: bōdiring.|bodiring.
+ gramm: f,n
+ gloss: огурец.f
+ paradigm: NOUN
+ trans_ru: огурец
+
+-lexeme
+ lex: bōɣ
+ stem: bōɣ.|boɣ.
+ gramm: n
+ gloss: сад
+ paradigm: NOUN
+ trans_ru: сад
+
+-lexeme
+ lex: bōǰā
+ stem: bōǰā.|boǰā.
+ gramm: n
+ gloss: свояк
+ paradigm: NOUN
+ trans_ru: свояк (мужья сестер по отношению друг к другу)
+
+-lexeme
+ lex: bōr
+ stem: bōr.|bor.
+ gramm: n
+ gloss: раз
+ paradigm: NOUN
+ trans_ru: раз
+
+-lexeme
+ lex: bōrōn
+ stem: bōrōn.|boron.
+ gramm: n
+ gloss: дождь
+ paradigm: NOUN
+ trans_ru: дождь
+
+-lexeme
+ lex: bōz
+ stem: bōz.|boz.
+ gramm: f,n
+ gloss: сокол.f
+ paradigm: NOUN
+ trans_ru: сокол
+
+-lexeme
+ lex: bōzōr
+ stem: bōzōr.|bozor.
+ gramm: n
+ gloss: базар
+ paradigm: NOUN
+ trans_ru: базар
+
+-lexeme
+ lex: bōzū
+ stem: bōzū.|bozū.
+ gramm: n
+ gloss: рука
+ paradigm: NOUN
+ trans_ru: рука от локтя до плеча
+
+-lexeme
+ lex: bög
+ stem: bög.
+ gramm: m,f,n
+ gloss: кувшин.m.f
+ paradigm: NOUN
+ trans_ru: глиняный кувшин, горшок
+
+-lexeme
+ lex: brīgād
+ stem: brīgād.
+ gramm: n
+ gloss: бригада
+ paradigm: NOUN
+ trans_ru: бригада
+
+-lexeme
+ lex: buc
+ stem: .buc.|.bic.
+ gramm: n
+ gloss: детеныш.m|детеныш.f
+ paradigm: NOUN
+ trans_ru: детеныш
+
+-lexeme
+ lex: buč
+ stem: buč.
+ gramm: n
+ gloss: козел
+ paradigm: NOUN
+ trans_ru: козел
+
+-lexeme
+ lex: buč
+ stem: buč.
+ gramm: n
+ gloss: поцелуй
+ paradigm: NOUN
+ trans_ru: поцелуй
+
+-lexeme
+ lex: bučāk
+ stem: bučāk.
+ gramm: n
+ gloss: молодой_козел
+ paradigm: NOUN
+ trans_ru: молодой козел до 2 лет
+
+-lexeme
+ lex: bučīǰ
+ stem: bučīǰ.
+ gramm: n
+ gloss: туша
+ paradigm: NOUN
+ trans_ru: туша
+
+-lexeme
+ lex: bun
+ stem: .bun.
+ gramm: n
+ gloss: ствол
+ paradigm: NOUN
+ trans_ru: ствол
+
+-lexeme
+ lex: buq
+ stem: buq.|bēq.|beq.
+ gramm: n
+ gloss: выпуклый.m|выпуклая.f|выпуклая.f
+ paradigm: NOUN
+ trans_ru: выпуклый
+
+-lexeme
+ lex: būt
+ stem: būt.
+ gramm: n
+ gloss: ботинки
+ paradigm: NOUN
+ trans_ru: ботинки фабричной выделки
+
+-lexeme
+ lex: camū
+ stem: camū.
+ gramm: m,f,n
+ gloss: корзина.m.f
+ paradigm: NOUN
+ trans_ru: корзина
+
+-lexeme
+ lex: can
+ stem: can.
+ gramm: f,n
+ gloss: ружье.f
+ paradigm: NOUN
+ trans_ru: ружье
+
+-lexeme
+ lex: cavēnc
+ stem: cavēnc.|cavenc.
+ gramm: f,n
+ gloss: пчела.f
+ paradigm: NOUN
+ trans_ru: пчела
+
+-lexeme
+ lex: cēm
+ stem: cēm.|cem.
+ gramm: f,n
+ gloss: глаз.f
+ paradigm: NOUN
+ trans_ru: глаз
+
+-lexeme
+ lex: ciyiʒ
+ stem: ciyiʒ.
+ gramm: n
+ gloss: жатва
+ paradigm: NOUN
+ trans_ru: жатва
+
+-lexeme
+ lex: ciyiʒgār
+ stem: ciyiʒgār.
+ gramm: n
+ gloss: жнец
+ paradigm: NOUN
+ trans_ru: жнец
+
+-lexeme
+ lex: cūδm
+ stem: cūδm.
+ gramm: n
+ gloss: кустарник
+ paradigm: NOUN
+ trans_ru: кустарниковое растение
+
+-lexeme
+ lex: čā
+ stem: čā.|čo.
+ gramm: n
+ gloss: яма
+ paradigm: NOUN
+ trans_ru: яма
+
+-lexeme
+ lex: čāng
+ stem: čāng.
+ gramm: n
+ gloss: когти
+ paradigm: NOUN
+ trans_ru: когти
+
+-lexeme
+ lex: čāng
+ stem: čāng.
+ gramm: n
+ gloss: музыкальный инструмент
+ paradigm: NOUN
+ trans_ru: музыкальный инструмент
+
+-lexeme
+ lex: čanōr
+ stem: čanōr.|čanor.
+ gramm: f,n
+ gloss: чинар.f
+ paradigm: NOUN
+ trans_ru: чинар
+
+-lexeme
+ lex: čapōt
+ stem: čapōt.|čapot.
+ gramm: n
+ gloss: удар_ладонью
+ paradigm: NOUN
+ trans_ru: удар ладонью
+
+-lexeme
+ lex: čariʒ
+ stem: čariʒ.
+ gramm: n
+ gloss: пахота
+ paradigm: NOUN
+ trans_ru: пахота
+
+-lexeme
+ lex: čariʒgār
+ stem: čariʒgār.
+ gramm: n
+ gloss: пахарь
+ paradigm: NOUN
+ trans_ru: пахарь
+
+-lexeme
+ lex: čatr
+ stem: čatr.|čatri.
+ gramm: n
+ gloss: навес
+ paradigm: NOUN
+ trans_ru: шалаш, навес, зонтик
+
+-lexeme
+ lex: čāθ
+ stem: čāθ.
+ gramm: f,n
+ gloss: галка.f
+ paradigm: NOUN
+ trans_ru: галка
+
+-lexeme
+ lex: čax̌
+ stem: čax̌.
+ gramm: n
+ gloss: курица
+ paradigm: NOUN
+ trans_ru: курица
+
+-lexeme
+ lex: čaxbuc
+ stem: čaxbuc.
+ gramm: n
+ gloss: цыпленок
+ paradigm: NOUN
+ trans_ru: цыпленок
+
+-lexeme
+ lex: čaynak
+ stem: čaynak.
+ gramm: n
+ gloss: чайник.
+ paradigm: NOUN
+ trans_ru: чайник
+
+-lexeme
+ lex: čēb
+ stem: čēb.|čeb.
+ gramm: f,n
+ gloss: ложка.f
+ paradigm: NOUN
+ trans_ru: ложка
+
+-lexeme
+ lex: čēg
+ stem: čēg.|čeg.
+ gramm: n
+ gloss: нож
+ paradigm: NOUN
+ trans_ru: нож
+
+-lexeme
+ lex: čilim
+ stem: čilim.
+ gramm: f,n
+ gloss: чилим.f
+ paradigm: NOUN
+ trans_ru: чилим
+
+-lexeme
+ lex: čīnī
+ stem: čīnī.
+ gramm: f,n
+ gloss: фарфоровая_чашка.f
+ paradigm: NOUN
+ trans_ru: фарфоровая чашка
+
+-lexeme
+ lex: čōr
+ stem: čōr.|čor.
+ gramm: n
+ gloss: муж
+ paradigm: NOUN
+ trans_ru: муж
+
+-lexeme
+ lex: čöd
+ stem: čöd.
+ gramm: n
+ gloss: дом
+ paradigm: NOUN
+ trans_ru: дом, хозяйство
+
+-lexeme
+ lex: čūpōn
+ stem: čūpōn.|čūpon.
+ gramm: n
+ gloss: пастух
+ paradigm: NOUN
+ trans_ru: пастух
+
+-lexeme
+ lex: čuruk
+ stem: čuruk.|čorik.
+ gramm: n
+ gloss: мужчина
+ paradigm: NOUN
+ trans_ru: мужчина, человек
+
+-lexeme
+ lex: čux̌
+ stem: čux̌.
+ gramm: n
+ gloss: петух
+ paradigm: NOUN
+ trans_ru: петух
+
+-lexeme
+ lex: čux̌mā
+ stem: čux̌mā.
+ gramm: n
+ gloss: ручей
+ paradigm: NOUN
+ trans_ru: ручей, источник
+
+-lexeme
+ lex: alaf
+ stem: alaf.
+ gramm: f,n
+ gloss: трава.f
+ paradigm: NOUN
+ trans_ru: трава
+
+-lexeme
+ lex: ali
+ stem: ali.
+ gramm: n
+ gloss: население
+ paradigm: NOUN
+ trans_ru: население, жители
+
+-lexeme
+ lex: amsafar
+ stem: amsafar.
+ gramm: f,n
+ gloss: спутник.f
+ paradigm: NOUN
+ trans_ru: спутник
+
+-lexeme
+ lex: amsōyā
+ stem: amsōyā.|amsoyā.
+ gramm: n
+ gloss: сосед
+ paradigm: NOUN
+ trans_ru: сосед
+
+-lexeme
+ lex: ān
+ stem: ān.
+ gramm: n
+ gloss: железо
+ paradigm: NOUN
+ trans_ru: железо
+
+-lexeme
+ lex: dafdar
+ stem: dafdar.
+ gramm: f,n
+ gloss: тетрадь.f
+ paradigm: NOUN
+ trans_ru: тетрадь
+
+-lexeme
+ lex: diraxt
+ stem: diraxt.
+ gramm: f,n
+ gloss: дерево.f
+ paradigm: NOUN
+ trans_ru: дерево
+
+-lexeme
+ lex: dām
+ stem: dām.
+ gramm: n
+ gloss: спина
+ paradigm: NOUN
+ trans_ru: спина
+
+-lexeme
+ lex: darak
+ stem: darak.
+ gramm: n
+ gloss: известие
+ paradigm: NOUN
+ trans_ru: известие
+
+-lexeme
+ lex: darandā
+ stem: darandā.
+ gramm: n
+ gloss: зверь
+ paradigm: NOUN
+ trans_ru: зверь
+
+-lexeme
+ lex: dārδ
+ stem: dārδ.
+ gramm: n
+ gloss: болезнь.=
+ paradigm: NOUN
+ trans_ru: болезнь
+
+-lexeme
+ lex: dargō
+ stem: dargō.|dargo.
+ gramm: n
+ gloss: двор
+ paradigm: NOUN
+ trans_ru: двор
+
+-lexeme
+ lex: dars
+ stem: dars.
+ gramm: n
+ gloss: урок
+ paradigm: NOUN
+ trans_ru: урок
+
+-lexeme
+ lex: δiyōč
+ stem: δiyōč.|δiyoč.
+ gramm: n
+ gloss: осадки
+ paradigm: NOUN
+ trans_ru: осадки, дождь
+
+-lexeme
+ lex: dast
+ stem: dast.
+ gramm: n
+ gloss: раз
+ paradigm: NOUN
+ trans_ru: раз
+
+-lexeme
+ lex: pöδ
+ stem: pöδ.
+ gramm: n
+ gloss: раз
+ paradigm: NOUN
+ trans_ru: раз
+
+-lexeme
+ lex: pöδ
+ stem: pöδ.
+ gramm: n
+ gloss: след
+ paradigm: NOUN
+ trans_ru: след
+
+-lexeme
+ lex: kawöǰ
+ stem: kawöǰ.
+ gramm: n
+ gloss: отверстие
+ paradigm: NOUN
+ trans_ru: отверстие, дыра
+
+-lexeme
+ lex: kawōk
+ stem: kawōk.|kawok.
+ gramm: n
+ gloss: отверстие
+ paradigm: NOUN
+ trans_ru: отверстие, дыра
+
+-lexeme
+ lex: daryō
+ stem: daryō.|daryo.
+ gramm: n
+ gloss: река
+ paradigm: NOUN
+ trans_ru: река
+
+-lexeme
+ lex: dastpōkkun
+ stem: dastpōkkun.|dastpokkun.
+ gramm: n
+ gloss: носовой_платок
+ paradigm: NOUN
+ trans_ru: носовой платок
+
+-lexeme
+ lex: dawōyī
+ stem: dawōyī.|dawoyī.
+ gramm: n
+ gloss: лекарство
+ paradigm: NOUN
+ trans_ru: лекарство, средство от болезни
+
+-lexeme
+ lex: dāx̌t
+ stem: dāx̌t.
+ gramm: f,n
+ gloss: равнина.f
+ paradigm: NOUN
+ trans_ru: равнина
+
+-lexeme
+ lex: dēw
+ stem: dēw.|dew.
+ gramm: n
+ gloss: див
+ paradigm: NOUN
+ trans_ru: див, сказочное чудовище
+
+-lexeme
+ lex: dīg
+ stem: dīg.
+ gramm: f,n
+ gloss: котел.f
+ paradigm: NOUN
+ trans_ru: котел
+
+-lexeme
+ lex: nōу
+ stem: nōу.|noу.
+ gramm: n
+ gloss: горло
+ paradigm: NOUN
+ trans_ru: горло
+
+-lexeme
+ lex: nöх
+ stem: nöх.
+ gramm: n
+ gloss: нары
+ paradigm: NOUN
+ trans_ru: нары
+
+-lexeme
+ lex: nūl
+ stem: nūl.
+ gramm: n
+ gloss: конец
+ paradigm: NOUN
+ trans_ru: конец
+
+-lexeme
+ lex: nuqrā
+ stem: nuqrā.
+ gramm: n
+ gloss: серебро
+ paradigm: NOUN
+ trans_ru: серебро
+
+-lexeme
+ lex: nūr
+ stem: nūr.
+ gramm: n
+ gloss: сегодня.
+ paradigm: NOUN
+ trans_ru: сегодня
+
+-lexeme
+ lex: nusk
+ stem: nusk.
+ gramm: n
+ gloss: подбородок
+ paradigm: NOUN
+ trans_ru: подбородок, губы (животных), морда
+
+-lexeme
+ lex: ōdam
+ stem: ōdam.|odam.
+ gramm: f,n
+ gloss: человек.f
+ paradigm: NOUN
+ trans_ru: человек
+
+-lexeme
+ lex: θōd
+ stem: θōd.|θod.
+ gramm: f,n
+ gloss: печень.f
+ paradigm: NOUN
+ trans_ru: печень
+
+-lexeme
+ lex: ōsōyix̌
+ stem: ōsōyix̌.|osoyix̌.|osoyīx̌.
+ gramm: n
+ gloss: покой
+ paradigm: NOUN
+ trans_ru: покой, спокойствие
+
+-lexeme
+ lex: vāx
+ stem: vāx.
+ gramm: f,n
+ gloss: веревка.f
+ paradigm: NOUN
+ trans_ru: веревка
+
+-lexeme
+ lex: vaz
+ stem: vaz.
+ gramm: f,n
+ gloss: коза.f
+ paradigm: NOUN
+ trans_ru: коза
+
+-lexeme
+ lex: vērʒ
+ stem: vērʒ.|verʒ.
+ gramm: n
+ gloss: кобылица
+ paradigm: NOUN
+ trans_ru: кобылица
+
+-lexeme
+ lex: vic
+ stem: vic.
+ gramm: n
+ gloss: тетка
+ paradigm: NOUN
+ trans_ru: тетка
+
+-lexeme
+ lex: vigā
+ stem: vigā.
+ gramm: n
+ gloss: вечер
+ paradigm: NOUN
+ trans_ru: вечер
+
+-lexeme
+ lex: virō
+ stem: virō.|virod.|viro.
+ gramm: n
+ gloss: брат
+ paradigm: NOUN
+ trans_ru: брат
+
+-lexeme
+ lex: virū
+ stem: virū.
+ gramm: f,n
+ gloss: отмель.f
+ paradigm: NOUN
+ trans_ru: отмель, обмелевшее место
+
+-lexeme
+ lex: vōqiyā
+ stem: vōqiyā|voqiyā.
+ gramm: n
+ gloss: случай
+ paradigm: NOUN
+ trans_ru: случай, происшествие, событие
+
+-lexeme
+ lex: vōrǰbōn
+ stem: vōrǰbōn.|vorǰbon.
+ gramm: n
+ gloss: конюх
+ paradigm: NOUN
+ trans_ru: конюх, конюший
+
+-lexeme
+ lex: vurut
+ stem: vurut.
+ gramm: f,n
+ gloss: ива.f
+ paradigm: NOUN
+ trans_ru: ива
+
+-lexeme
+ lex: waδič
+ stem: waδič.
+ gramm: n,f
+ gloss: воробей.f
+ paradigm: NOUN
+ trans_ru: воробей, пташка
+
+-lexeme
+ lex: wāɣast
+ stem: wāɣast.
+ gramm: n
+ gloss: вопль
+ paradigm: NOUN
+ trans_ru: крик, вопль, рев
+
+-lexeme
+ lex: ōxir
+ stem: ōxir.|oxir.
+ gramm: n
+ gloss: конец
+ paradigm: NOUN
+ trans_ru: конец, же, ведь
+
+-lexeme
+ lex: ōxnō
+ stem: ōxnō.|oxno.
+ gramm: n
+ gloss: приятель
+ paradigm: NOUN
+ trans_ru: приятель, товарищ, друг
+
+-lexeme
+ lex: oyast
+ stem: ōyast.|oyast.
+ gramm: n
+ gloss: стон
+ paradigm: NOUN
+ trans_ru: тяжелый вздох, стон
+
+-lexeme
+ lex: ōzimūδ
+ stem: ōzimūδ.|ozimūδ.
+ gramm: n
+ gloss: проверка
+ paradigm: NOUN
+ trans_ru: испытание, проверка
+
+-lexeme
+ lex: waxin
+ stem: waxin.
+ gramm: n
+ gloss: кровь
+ paradigm: NOUN
+ trans_ru: кровь
+
+-lexeme
+ lex: waxt
+ stem: waxt.
+ gramm: n
+ gloss: время
+ paradigm: NOUN
+ trans_ru: время
+
+-lexeme
+ lex: wazānī
+ stem: wazānī.
+ gramm: n
+ gloss: место
+ paradigm: NOUN
+ trans_ru: глубокое место
+
+-lexeme
+ lex: wazīr
+ stem: wazīr.
+ gramm: n
+ gloss: везир.
+ paradigm: NOUN
+ trans_ru: везир
+
+-lexeme
+ lex: wazīrbačā
+ stem: wazīrbačā.
+ gramm: n
+ gloss: сын_везира
+ paradigm: NOUN
+ trans_ru: сын везира
+
+-lexeme
+ lex: wēz
+ stem: wēz.|wez.
+ gramm: n
+ gloss: поклажа
+ paradigm: NOUN
+ trans_ru: поклажа, груз
+
+-lexeme
+ lex: wilčāk
+ stem: wilčāk.
+ gramm: n
+ gloss: качели
+ paradigm: NOUN
+ trans_ru: качели
+
+-lexeme
+ lex: wisto
+ stem: wilōɣ.|wisto.|wistoδ.
+ gramm: n
+ gloss: вьючное
+ paradigm: NOUN
+ trans_ru: вьючное, транспортное животное
+
+-lexeme
+ lex: wix̌ēʒ
+ stem: wix̌ēʒ.|wix̌eʒ.
+ gramm: f,n
+ gloss: ключ.f
+ paradigm: NOUN
+ trans_ru: ключ
+
+-lexeme
+ lex: wōx̆
+ stem: wōx̆.|wox̆.
+ gramm: n
+ gloss: трава
+ paradigm: NOUN
+ trans_ru: трава
+
+-lexeme
+ lex: wulčak
+ stem: wulčak.
+ gramm: n
+ gloss: мерка
+ paradigm: NOUN
+ trans_ru: мерка
+
+-lexeme
+ lex: wūrǰ
+ stem: wūrǰ.
+ gramm: n
+ gloss: нитка_из_шерсти
+ paradigm: NOUN
+ trans_ru: нитка из шерсти
+
+-lexeme
+ lex: wurǰ
+ stem: wurǰ.
+ gramm: n
+ gloss: волк
+ paradigm: NOUN
+ trans_ru: волк
+
+-lexeme
+ lex: wux̆čiδōn
+ stem: wux̆čiδōn.|wux̆čiδon.
+ gramm: m,n
+ gloss: .m
+ paradigm: NOUN
+ trans_ru: закром в амбаре
+
+-lexeme
+ lex: wux̌ton
+ stem: wux̌ton.
+ gramm: f,n
+ gloss: сарай.f
+ paradigm: NOUN
+ trans_ru: сарай
+
+-lexeme
+ lex: xabar
+ stem: xabar.
+ gramm: n
+ gloss: известие
+ paradigm: NOUN
+ trans_ru: известие, сведения; сообщение
+
+-lexeme
+ lex: xadōrǰ
+ stem: xadōrǰ.|xadorǰ.
+ gramm: n
+ gloss: мельница
+ paradigm: NOUN
+ trans_ru: мельница
+
+-lexeme
+ lex: xadōrǰ-žēr
+ stem: xadōrǰ-žēr.|xadorǰ-žer.
+ gramm: n
+ gloss: жернов
+ paradigm: NOUN
+ trans_ru: жернов
+
+-lexeme
+ lex: xaǰōlak
+ stem: xaǰōlak.|xaǰolak.
+ gramm: n
+ gloss: пепел
+ paradigm: NOUN
+ trans_ru: пепел, зола
+
+-lexeme
+ lex: xalōšī
+ stem: xalōšī.|xalošī.
+ gramm: n
+ gloss: избавление
+ paradigm: NOUN
+ trans_ru: избавление
+
+-lexeme
+ lex: xalq
+ stem: xalq.
+ gramm: n
+ gloss: народ
+ paradigm: NOUN
+ trans_ru: народ
+
+-lexeme
+ lex: xāmb
+ stem: xāmb.|xambī.
+ gramm: n
+ gloss: укрытие
+ paradigm: NOUN
+ trans_ru: укрытие (за поворотом, в углублении и т. п.)
+
+-lexeme
+ lex: xanöx
+ stem: xanöx.
+ gramm: n
+ gloss: часть_нар
+ paradigm: NOUN
+ trans_ru: часть нар в доме перед очагом (при входе)
+
+-lexeme
+ lex: xamīr
+ stem: xamīr.
+ gramm: n
+ gloss: тесто
+ paradigm: NOUN
+ trans_ru: тесто
+
+-lexeme
+ lex: xarǰ
+ stem: xarǰ.
+ gramm: n
+ gloss: пища
+ paradigm: NOUN
+ trans_ru: питание, пища
+
+-lexeme
+ lex: xasur
+ stem: xasur.
+ gramm: n
+ gloss: тесть
+ paradigm: NOUN
+ trans_ru: тесть
+
+-lexeme
+ lex: xasxōnā
+ stem: xasxōnā.|xasxonā.
+ gramm: n
+ gloss: лачуга
+ paradigm: NOUN
+ trans_ru: лачуга, домишко
+
+-lexeme
+ lex: xawrič
+ stem: xawrič.
+ gramm: n
+ gloss: ребята
+ paradigm: NOUN
+ trans_ru: ребята, молодые люди
+
+-lexeme
+ lex: xayōyn
+ stem: xayōyn.|xayoyn.
+ gramm: n
+ gloss: вояченица
+ paradigm: NOUN
+ trans_ru: свояченица (жена брата, сестра жены)
+
+-lexeme
+ lex: xazanī
+ stem: xazanī.
+ gramm: n
+ gloss: осенний_посев
+ paradigm: NOUN
+ trans_ru: осенний посев, озимые
+
+-lexeme
+ lex: xazīnā
+ stem: xazīnā.
+ gramm: f,n
+ gloss: сокровищница.f
+ paradigm: NOUN
+ trans_ru: сокровищница, хранилище, казна
+
+-lexeme
+ lex: xazīnačī
+ stem: xazīnačī.
+ gramm: n
+ gloss: казначей
+ paradigm: NOUN
+ trans_ru: казначей
+
+-lexeme
+ lex: xer
+ stem: xēr.|xer.
+ gramm: n
+ gloss: племянник.
+ paradigm: NOUN
+ trans_ru: племянник, племянница
+
+-lexeme
+ lex: xislat
+ stem: xislat.
+ gramm: n
+ gloss: характер
+ paradigm: NOUN
+ trans_ru: характер, черта характера, повадка, привычки
+
+-lexeme
+ lex: xīx̆
+ stem: xīx̆.
+ gramm: n
+ gloss: родственник
+ paradigm: NOUN
+ trans_ru: родственник(и)
+
+-lexeme
+ lex: xīx̆ī
+ stem: xīx̆ī.
+ gramm: n
+ gloss: сватовство
+ paradigm: NOUN
+ trans_ru: сватовство
+
+-lexeme
+ lex: xoǰ
+ stem: xōǰ.|xoǰ.
+ gramm: n
+ gloss: ток
+ paradigm: NOUN
+ trans_ru: ток, снопы на току
+
+-lexeme
+ lex: xoksor
+ stem: xōksōr.|xoksor.
+ gramm: n
+ gloss: бренный_человек
+ paradigm: NOUN
+ trans_ru: бренный человек
+
+-lexeme
+ lex: xōksōrdux
+ stem: xōksōradux.|xōksōrdux.|xoksordux.|xoksoradux.
+ gramm: n
+ gloss: человечий_дух
+ paradigm: NOUN
+ trans_ru: человечий дух (в сказках)
+
+-lexeme
+ lex: xōtir
+ stem: xōtir.|xotir.
+ gramm: n
+ gloss: достоинство.
+ paradigm: NOUN
+ trans_ru: уважение, достоинство, авторитет
+
+-lexeme
+ lex: xowand
+ stem: xōwand.|xowand.
+ gramm: n
+ gloss: хозяин.
+ paradigm: NOUN
+ trans_ru: хозяин
+
+-lexeme
+ lex: xōx̌
+ stem: xōx̌.|xox̌.
+ gramm: n
+ gloss: ветвь
+ paradigm: NOUN
+ trans_ru: сук, ветвь; рог
+
+-lexeme
+ lex: xōyix̆
+ stem: xōyix̆.|xoyix̆.
+ gramm: n
+ gloss: желание
+ paradigm: NOUN
+ trans_ru: желание
+
+-lexeme
+ lex: xör
+ stem: xör.
+ gramm: n
+ gloss: солнце
+ paradigm: NOUN
+ trans_ru: солнце
+
+-lexeme
+ lex: xöx̌
+ stem: xöx̌.
+ gramm: n
+ gloss: теща
+ paradigm: NOUN
+ trans_ru: теща
+
+-lexeme
+ lex: xūδm
+ stem: xūδm.
+ gramm: n
+ gloss: сон
+ paradigm: NOUN
+ trans_ru: сон
+
+-lexeme
+ lex: xuδōy
+ stem: xuδōy.|xuδoy.
+ gramm: n
+ gloss: бог
+ paradigm: NOUN
+ trans_ru: бог
+
+-lexeme
+ lex: xūn
+ stem: xūn.
+ gramm: n
+ gloss: кровь
+ paradigm: NOUN
+ trans_ru: кровь
+
+-lexeme
+ lex: xūrn
+ stem: xūrn.
+ gramm: f,n
+ gloss: ворона.f
+ paradigm: NOUN
+ trans_ru: ворона
+
+-lexeme
+ lex: xurōk
+ stem: xurōk.|xurok.
+ gramm: n
+ gloss: пища
+ paradigm: NOUN
+ trans_ru: пища, еда
+
+-lexeme
+ lex: рuс
+ stem: рuс.|pac.
+ gramm: n
+ gloss: сын.m|сын.m.pl
+ paradigm: NOUN
+ trans_ru: сын
+
+-lexeme
+ lex: xušrūyī,
+ stem: xušrūyī.
+ gramm: n
+ gloss: красота
+ paradigm: NOUN
+ trans_ru: красота
+
+-lexeme
+ lex: x̆ā
+ stem: x̆ā.
+ gramm: n
+ gloss: князь
+ paradigm: NOUN
+ trans_ru: князь, владетель
+
+-lexeme
+ lex: x̆āb
+ stem: x̆āb.
+ gramm: f,n
+ gloss: ночь.f
+ paradigm: NOUN
+ trans_ru: ночь
+
+-lexeme
+ lex: x̆abēʒ
+ stem: x̆abēʒ.|x̆abeʒ.
+ gramm: n
+ gloss: ветка
+ paradigm: NOUN
+ trans_ru: ветка
+
+-lexeme
+ lex: x̆аc
+ stem: x̆аc.
+ gramm: n,f
+ gloss: вода.f
+ paradigm: NOUN
+ trans_ru: вода
+
+-lexeme
+ lex: x̆ār
+ stem: x̆ār.
+ gramm: n
+ gloss: страна
+ paradigm: NOUN
+ trans_ru: страна, город
+
+-lexeme
+ lex: x̆armindagī
+ stem: x̆armindagī.
+ gramm: n
+ gloss: стыд
+ paradigm: NOUN
+ trans_ru: стыд
+
+-lexeme
+ lex: x̆arpöǰ
+ stem: x̆arpöǰ.
+ gramm: n
+ gloss: лягушка
+ paradigm: NOUN
+ trans_ru: лягушка
+
+-lexeme
+ lex: paδēnd
+ stem: paδēnd.|paδend.
+ gramm: n
+ gloss: порог
+ paradigm: NOUN
+ trans_ru: рама двери, косяк, порог
+
+-lexeme
+ lex: x̆ayontow
+ stem: .x̆ayōn.|.x̆ayōn.
+ gramm: n
+ gloss: обучать_читать.npst|обучать_читать.pst
+ paradigm: VERB
+ trans_ru: обучать читать
+
+-lexeme
+ lex: x̆ikōr
+ stem: x̆ikōr.|x̆ikor.
+ gramm: n
+ gloss: охота
+ paradigm: NOUN
+ trans_ru: охота
+
+-lexeme
+ lex: x̆inʒūm
+ stem: x̆inʒūm.|x̆īnʒūm.
+ gramm: n
+ gloss: колдунья
+ paradigm: NOUN
+ trans_ru: колдунья
+
+-lexeme
+ lex: x̆ōǰ
+ stem: x̆ōǰ.|x̆oǰ.
+ gramm: n
+ gloss: страх
+ paradigm: NOUN
+ trans_ru: страх, боязнь
+
+-lexeme
+ lex: x̆öǰ
+ stem: x̆öǰ.|x̌oǰ.
+ gramm: n
+ gloss: бык
+ paradigm: NOUN
+ trans_ru: бык, вол
+
+-lexeme
+ lex: x̆ūʒ
+ stem: x̆ūʒ.|x̆ūʒ
+ gramm: n
+ gloss: ветер
+ paradigm: NOUN
+ trans_ru: ветер.
+
+-lexeme
+ lex: x̆ūn
+ stem: x̆ūn.
+ gramm: n
+ gloss: зад
+ paradigm: NOUN
+ trans_ru: зад, задний проход
+
+-lexeme
+ lex: yax
+ stem: yax.
+ gramm: n
+ gloss: сестра
+ paradigm: NOUN
+ trans_ru: сестра
+
+-lexeme
+ lex: уaxīʒ
+ stem: уaxīʒ.|yaxīǰ.
+ gramm: n
+ gloss: неродная_сестра
+ paradigm: NOUN
+ trans_ru: неродная сестра
+
+-lexeme
+ lex: yīd
+ stem: yīd.
+ gramm: f,n
+ gloss: мост.f
+ paradigm: NOUN
+ trans_ru: мост
+
+-lexeme
+ lex: yīl
+ stem: yīl.
+ gramm: n
+ gloss: летовье.
+ paradigm: NOUN
+ trans_ru: летовье
+
+-lexeme
+ lex: palak
+ stem: palak.
+ gramm: n
+ gloss: портянки.
+ paradigm: NOUN
+ trans_ru: портянки, обмотки
+
+-lexeme
+ lex: pālaw
+ stem: pālaw.
+ gramm: n
+ gloss: бок
+ paradigm: NOUN
+ trans_ru: бок, край
+
+-lexeme
+ lex: pālawōn
+ stem: pālawōn.|pālawon.
+ gramm: n
+ gloss: богатырь
+ paradigm: NOUN
+ trans_ru: богатырь, борец
+
+-lexeme
+ lex: рār
+ stem: рār.
+ gramm: n
+ gloss: перо
+ paradigm: NOUN
+ trans_ru: крыло, перо
+
+-lexeme
+ lex: parā
+ stem: parā.
+ gramm: n
+ gloss: гребень
+ paradigm: NOUN
+ trans_ru: гребень, карниз (в горах); ребро, грань, острие
+
+-lexeme
+ lex: yōc
+ stem: yōc.|yoc.
+ gramm: n
+ gloss: огонь
+ paradigm: NOUN
+ trans_ru: огонь
+
+-lexeme
+ lex: yōr
+ stem: yōr.|yor.
+ gramm: n
+ gloss: товарищ
+ paradigm: NOUN
+ trans_ru: товарищ, друг
+
+-lexeme
+ lex: yo-wlo
+ stem: yo-wlo.|yo-wilo.
+ gramm: n
+ gloss: возглас_мольбы
+ paradigm: NOUN
+ trans_ru: возглас мольбы
+
+-lexeme
+ lex: yōwǰ
+ stem: yōwǰ.|yowǰ.
+ gramm: n
+ gloss: мука
+ paradigm: NOUN
+ trans_ru: мука
+
+-lexeme
+ lex: yōx̆k
+ stem: yōx̆k.|yox̆k.
+ gramm: n
+ gloss: слеза
+ paradigm: NOUN
+ trans_ru: слеза
+
+-lexeme
+ lex: yūrx
+ stem: yūrx.
+ gramm: n
+ gloss: медведь
+ paradigm: NOUN
+ trans_ru: медведь
+
+-lexeme
+ lex: zabōn
+ stem: zabōn.|zabon.
+ gramm: n
+ gloss: язык.
+ paradigm: NOUN
+ trans_ru: язык (речь)
+
+-lexeme
+ lex: zalūl
+ stem: zalūl.
+ gramm: n
+ gloss: нужда
+ paradigm: NOUN
+ trans_ru: нужда, надобность
+
+-lexeme
+ lex: zamōnā
+ stem: zamōnā.|zamonā.
+ gramm: n
+ gloss: время.
+ paradigm: NOUN
+ trans_ru: время, эпоха
+
+-lexeme
+ lex: zār
+ stem: zār.
+ gramm: n
+ gloss: повреждение
+ paradigm: NOUN
+ trans_ru: повреждение, рана
+
+-lexeme
+ lex: zarbī
+ stem: zarbī.
+ gramm: n
+ gloss: вред
+ paradigm: NOUN
+ trans_ru: вред
+
+-lexeme
+ lex: zarēz
+ stem: zarēz.|zarez.
+ gramm: f,n
+ gloss: куропатка.f
+ paradigm: NOUN
+ trans_ru: куропатка
+
+-lexeme
+ lex: zaxmī
+ stem: zaxmī.
+ gramm: n
+ gloss: ранение
+ paradigm: NOUN
+ trans_ru: ранение, раненый
+
+-lexeme
+ lex: zēmb
+ stem: zēmbā.|zēmb.
+ gramm: n
+ gloss: край
+ paradigm: NOUN
+ trans_ru: берег
+
+-lexeme
+ lex: zīl
+ stem: zīl.
+ gramm: n,f
+ gloss: струна.f
+ paradigm: NOUN
+ trans_ru: струна
+
+-lexeme
+ lex: zimārδ
+ stem: zimārδ.
+ gramm: n
+ gloss: земля
+ paradigm: NOUN
+ trans_ru: земля
+
+-lexeme
+ lex: zimc
+ stem: zimc.
+ gramm: f,n
+ gloss: участок.f
+ paradigm: NOUN
+ trans_ru: участок, полоса земли
+
+-lexeme
+ lex: zimistōn
+ stem: zimistōn.|zimiston.
+ gramm: f,n
+ gloss: зима.f
+ paradigm: NOUN
+ trans_ru: зима
+
+-lexeme
+ lex: zindagī
+ stem: zindagī.|zíndagonī.
+ gramm: n
+ gloss: жизнь
+ paradigm: NOUN
+ trans_ru: жизнь
+
+-lexeme
+ lex: zirē
+ stem: zirē.|zire.
+ gramm: n
+ gloss: оскаленный (о зубах)
+ paradigm: NOUN
+ trans_ru: оскаленный (о зубах)
+
+-lexeme
+ lex: ziv
+ stem: ziv.
+ gramm: n
+ gloss: язык
+ paradigm: NOUN
+ trans_ru: язык, речь
+
+-lexeme
+ lex: ziyōn
+ stem: ziyōn.|ziyon.
+ gramm: n
+ gloss: ущерб
+ paradigm: NOUN
+ trans_ru: ущерб, изъян
+
+-lexeme
+ lex: zōn
+ stem: zōn.|zon.
+ gramm: n
+ gloss: колено
+ paradigm: NOUN
+ trans_ru: колено, колени
+
+-lexeme
+ lex: zōrδ
+ stem: zōrδ.|zorδ.
+ gramm: n
+ gloss: сердце
+ paradigm: NOUN
+ trans_ru: сердце
+
+-lexeme
+ lex: zōrgī
+ stem: zōrgī.|zorgī.
+ gramm: n
+ gloss: просьба
+ paradigm: NOUN
+ trans_ru: просьба, мольба
+
+-lexeme
+ lex: tör-zēx̆tak
+ stem: tör-zēx̆tak.|tör-zex̆tak.
+ gramm: n
+ gloss: состязание в переплыве реки
+ paradigm: NOUN
+ trans_ru: состязание в переплыве реки
+
+-lexeme
+ lex: zulm
+ stem: zulm.
+ gramm: n
+ gloss: жестокий.
+ paradigm: NOUN
+ trans_ru: жестокий, притеснитель
+
+-lexeme
+ lex: zūrī
+ stem: zūrī.
+ gramm: n
+ gloss: сила
+ paradigm: NOUN
+ trans_ru: сила
+
+-lexeme
+ lex: žaw
+ stem: žaw.
+ gramm: n
+ gloss: корова
+ paradigm: NOUN
+ trans_ru: корова
+
+-lexeme
+ lex: žēr
+ stem: žēr.|žer.
+ gramm: f,n
+ gloss: камень.f
+ paradigm: NOUN
+ trans_ru: камень
+
+-lexeme
+ lex: žinīž
+ stem: žinīž.
+ gramm: n
+ gloss: снег
+ paradigm: NOUN
+ trans_ru: снег
+
+-lexeme
+ lex: žirex
+ stem: žirex.|žirīx.
+ gramm: n
+ gloss: узел
+ paradigm: NOUN
+ trans_ru: узел
+
+-lexeme
+ lex: žöv
+ stem: žöv.
+ gramm: n
+ gloss: амбар
+ paradigm: NOUN
+ trans_ru: амбар
+
+-lexeme
+ lex: žöwǰax̆
+ stem: žöwǰax̆.
+ gramm: n
+ gloss: любовь
+ paradigm: NOUN
+ trans_ru: любовь
+
+-lexeme
+ lex: žöz
+ stem: žöz.
+ gramm: n
+ gloss: дрова
+ paradigm: NOUN
+ trans_ru: дрова, топливо
+
+-lexeme
+ lex: paranda
+ stem: paranda.
+ gramm: f,n
+ gloss: птица.f
+ paradigm: NOUN
+ trans_ru: птица, птицы
+
+-lexeme
+ lex: раrаx̌
+ stem: раrаx̌.
+ gramm: n
+ gloss: прыжок
+ paradigm: NOUN
+ trans_ru: прыжок
+
+-lexeme
+ lex: parδā
+ stem: parδā.
+ gramm: n
+ gloss: завеса
+ paradigm: NOUN
+ trans_ru: оболочка; завеса, занавес
+
+-lexeme
+ lex: parī
+ stem: parī.
+ gramm: n
+ gloss: пэри.
+ paradigm: NOUN
+ trans_ru: пэри
+
+-lexeme
+ lex: pārk
+ stem: pārk.
+ gramm: n
+ gloss: листок
+ paradigm: NOUN
+ trans_ru: лист, листок (дерева)
+
+-lexeme
+ lex: parwōs
+ stem: parwōs.|parwos.
+ gramm: n
+ gloss: прошлый_год
+ paradigm: NOUN
+ trans_ru: прошлый год, в прошлом году
+
+-lexeme
+ lex: paryēnd
+ stem: paryēnd.
+ gramm: f,n
+ gloss: овринг.f
+ paradigm: NOUN
+ trans_ru: труднопроходимое место в горах над пропастью, оврынг
+
+-lexeme
+ lex: patiš
+ stem: patiš.
+ gramm: n
+ gloss: двоюродный_брат
+ paradigm: NOUN
+ trans_ru: двоюродный брат, двоюродная сестра
+
+-lexeme
+ lex: paygā
+ stem: paygā.
+ gramm: n
+ gloss: пол
+ paradigm: NOUN
+ trans_ru: пол
+
+-lexeme
+ lex: рēс
+ stem: рēс.|рeс.
+ gramm: n
+ gloss: лицо
+ paradigm: NOUN
+ trans_ru: лицо; сторона
+
+-lexeme
+ lex: pēδ
+ stem: pēδ.|peδ.
+ gramm: n
+ gloss: нога
+ paradigm: NOUN
+ trans_ru: нога, ноги
+
+-lexeme
+ lex: рēх
+ stem: рēх.|рeх.
+ gramm: n
+ gloss: обувь
+ paradigm: NOUN
+ trans_ru: местная обувь
+
+-lexeme
+ lex: dil
+ stem: dil.
+ gramm: n
+ gloss: сердце
+ paradigm: NOUN
+ trans_ru: сердце (в привычных сочетаниях)
+
+-lexeme
+ lex: dil-ǰigār
+ stem: dil-ǰigār.
+ gramm: n
+ gloss: сердце
+ paradigm: NOUN
+ trans_ru: сердце и печень, внутренности
+
+-lexeme
+ lex: pid
+ stem: pid.
+ gramm: n,m
+ gloss: отец
+ paradigm: NOUN
+ trans_ru: отец
+
+-lexeme
+ lex: dirūɣ
+ stem: dirūɣ.|durūɣ.
+ gramm: n
+ gloss: ложь
+ paradigm: NOUN
+ trans_ru: ложь, неправда
+
+-lexeme
+ lex: dišād
+ stem: dišād.
+ gramm: n
+ gloss: крыша
+ paradigm: NOUN
+ trans_ru: крыша
+
+-lexeme
+ lex: divör
+ stem: divör.|duvör.
+ gramm: n
+ gloss: дверь
+ paradigm: NOUN
+ trans_ru: дверь
+
+-lexeme
+ lex: dōd
+ stem: dōd.|dod.
+ gramm: n
+ gloss: дядя.
+ paradigm: NOUN
+ trans_ru: дядя
+
+-lexeme
+ lex: dōman
+ stem: dōman.|doman.
+ gramm: n
+ gloss: подол
+ paradigm: NOUN
+ trans_ru: подол
+
+-lexeme
+ lex: dōmōd
+ stem: dōmōd.|domod.
+ gramm: n
+ gloss: зять
+ paradigm: NOUN
+ trans_ru: зять (муж дочери)
+
+-lexeme
+ lex: dōr
+ stem: dōr.|dor.
+ gramm: n
+ gloss: виселица
+ paradigm: NOUN
+ trans_ru: виселица
+
+-lexeme
+ lex: dōrū
+ stem: dōrū.|dorū.
+ gramm: f,n
+ gloss: лекарство.f
+ paradigm: NOUN
+ trans_ru: лекарство, снадобье
+
+-lexeme
+ lex: dōw
+ stem: dōw.|dow.
+ gramm: n
+ gloss: намерение
+ paradigm: NOUN
+ trans_ru: намерение, цель, желание
+
+-lexeme
+ lex: dūδ
+ stem: dūδ.
+ gramm: n
+ gloss: очередь
+ paradigm: NOUN
+ trans_ru: очередь, черед
+
+-lexeme
+ lex: dūlōx
+ stem: dūlōx.|dūlox.
+ gramm: n
+ gloss: поле
+ paradigm: NOUN
+ trans_ru: поле, участок земли в гора
+
+-lexeme
+ lex: dūr
+ stem: dūr.
+ gramm: f,n
+ gloss: ящик.f
+ paradigm: NOUN
+ trans_ru: ящик, корзина для зерна (на мельнице)
+
+-lexeme
+ lex: piɣōm
+ stem: piɣōm.|piɣom.
+ gramm: f,n
+ gloss: послание.f
+ paradigm: NOUN
+ trans_ru: послание, сообщение (с посланным), весть
+
+-lexeme
+ lex: pōdx̆ō
+ stem: pōdx̆ō.|podx̆o.|potx̆o.
+ gramm: n
+ gloss: царь
+ paradigm: NOUN
+ trans_ru: царь
+
+-lexeme
+ lex: pōdx̆ōyī
+ stem: pōdx̆ōyī.|podx̆oyī.
+ gramm: n
+ gloss: царство
+ paradigm: NOUN
+ trans_ru: царство, царствование
+
+-lexeme
+ lex: dux̌man
+ stem: dux̌man.
+ gramm: n
+ gloss: враг
+ paradigm: NOUN
+ trans_ru: враг
+
+-lexeme
+ lex: pōdx̆ōbačā
+ stem: pōdx̆ōbačā.|podx̆obačā
+ gramm: n,m
+ gloss: царевич
+ paradigm: NOUN
+ trans_ru: царский сын, царевич
+
+-lexeme
+ lex: pōdx̆ōduxtar
+ stem: pōdx̆ōduxtar.|podx̆oduxtar.
+ gramm: n
+ gloss: царевна
+ paradigm: NOUN
+ trans_ru: царская дочь, царевна
+
+-lexeme
+ lex: pōnd
+ stem: pōnd.|pond.
+ gramm: f,n
+ gloss: дорога.f
+ paradigm: NOUN
+ trans_ru: дорога, путь
+
+-lexeme
+ lex: pōθ
+ stem: pōθ.|poθ.
+ gramm: n
+ gloss: пуля
+ paradigm: NOUN
+ trans_ru: пуля
+
+-lexeme
+ lex: pöδ
+ stem: pöδ.
+ gramm: n
+ gloss: след.
+ paradigm: NOUN
+ trans_ru: след
+
+-lexeme
+ lex: pöδ
+ stem: pöδ.
+ gramm: f,n
+ gloss: западня.f
+ paradigm: NOUN
+ trans_ru: западня, ловушка
+
+-lexeme
+ lex: pöδ
+ stem: pöδ.
+ gramm: n
+ gloss: раз
+ paradigm: NOUN
+ trans_ru: раз
+
+-lexeme
+ lex: pös
+ stem: pös.
+ gramm: n
+ gloss: голова
+ paradigm: NOUN
+ trans_ru: штука (голова) мелкого рогатого скота, единица стоимости
+
+-lexeme
+ lex: puc
+ stem: puc.|pac.
+ gramm: n
+ gloss: сын.sg|сын.pl
+ paradigm: NOUN
+ trans_ru: сын
+
+-lexeme
+ lex: pucdōrī
+ stem: pucdōrī.|pucdorī.
+ gramm: n
+ gloss: сыновство
+ paradigm: NOUN
+ trans_ru: сыновние обязанности, сыновство
+
+-lexeme
+ lex: pūg
+ stem: pūg.
+ gramm: f,n
+ gloss: отмель.f
+ paradigm: NOUN
+ trans_ru: брод через реку, отмель
+
+-lexeme
+ lex: pugī
+ stem: pugī.
+ gramm: n
+ gloss: мелкое_место_в_реке
+ paradigm: NOUN
+ trans_ru: мелкое место в реке
+
+-lexeme
+ lex: pūrg
+ stem: pūrg.
+ gramm: n
+ gloss: мышь
+ paradigm: NOUN
+ trans_ru: мышь
+
+-lexeme
+ lex: pūst
+ stem: pūst.
+ gramm: f,n
+ gloss: шкура.f
+ paradigm: NOUN
+ trans_ru: шкура, кожа
+
+-lexeme
+ lex: pūx̆ōk
+ stem: pūx̆ōk.|pūx̆ok.
+ gramm: n
+ gloss: одежда
+ paradigm: NOUN
+ trans_ru: одежда, платье
+
+-lexeme
+ lex: pux̆tā
+ stem: pux̆tā.
+ gramm: f,n
+ gloss: нагорье.f
+ paradigm: NOUN
+ trans_ru: нагорье, склоны гор
+
+-lexeme
+ lex: qabal
+ stem: qabal.|qabalak.
+ gramm: n
+ gloss: огород
+ paradigm: NOUN
+ trans_ru: сад, огород
+
+-lexeme
+ lex: qābr
+ stem: qābr.
+ gramm: n
+ gloss: могила
+ paradigm: NOUN
+ trans_ru: могила
+
+-lexeme
+ lex: diraxtzōr
+ stem: diraxtzōr.|diraxtzor.|daraxtzor.
+ gramm: n
+ gloss: лес
+ paradigm: NOUN
+ trans_ru: лес, роща, заросли
+
+-lexeme
+ lex: duzd
+ stem: duzd.
+ gramm: m,n
+ gloss: вор.m
+ paradigm: NOUN
+ trans_ru: вор, воры
+
+-lexeme
+ lex: δandōn
+ stem: δandōn.|δandon.
+ gramm: n
+ gloss: зуб
+ paradigm: NOUN
+ trans_ru: зуб, зубы
+
+-lexeme
+ lex: δēd
+ stem: δēd.|δed.
+ gramm: n
+ gloss: война
+ paradigm: NOUN
+ trans_ru: война, бой, сражение
+
+-lexeme
+ lex: δōc
+ stem: δōc.|δoc.
+ gramm: f,n
+ gloss: серп.f
+ paradigm: NOUN
+ trans_ru: серп
+
+-lexeme
+ lex: δōrg
+ stem: δōrg.|δorg.
+ gramm: n
+ gloss: палка
+ paradigm: NOUN
+ trans_ru: палка, деревяшка
+
+-lexeme
+ lex: δöst
+ stem: δöst.|δost.
+ gramm: n
+ gloss: рука
+ paradigm: NOUN
+ trans_ru: рука, руки
+
+-lexeme
+ lex: δud
+ stem: δud.
+ gramm: n
+ gloss: дым
+ paradigm: NOUN
+ trans_ru: дым
+
+-lexeme
+ lex: δum
+ stem: δum.
+ gramm: n
+ gloss: хвост
+ paradigm: NOUN
+ trans_ru: хвост
+
+-lexeme
+ lex: ēkzamín
+ stem: ēkzamín.|ēkzamín.|ekzamín.|ekzamin.
+ gramm: n
+ gloss: экзамен
+ paradigm: NOUN
+ trans_ru: экзамен
+
+-lexeme
+ lex: fānd
+ stem: fānd.
+ gramm: n
+ gloss: обман
+ paradigm: NOUN
+ trans_ru: обман, хитрость
+
+-lexeme
+ lex: farmōn
+ stem: farmōn.|farmon.
+ gramm: f,n
+ gloss: приказ.f
+ paradigm: NOUN
+ trans_ru: приказ, распоряжение
+
+-lexeme
+ lex: fasli
+ stem: fásli.|fasli.
+ gramm: f,n
+ gloss: сезон.f
+ paradigm: NOUN
+ trans_ru: время года, сезон
+
+-lexeme
+ lex: fasōn
+ stem: fasōn.|fason.
+ gramm: n
+ gloss: роскошный
+ paradigm: NOUN
+ trans_ru: роскошный
+
+-lexeme
+ lex: fēl
+ stem: fēl.|fel.
+ gramm: n
+ gloss: нрав.m
+ paradigm: NOUN
+ trans_ru: нрав, характер
+
+-lexeme
+ lex: fíkri
+ stem: fíkri.|fikri.
+ gramm: n
+ gloss: мысль.
+ paradigm: NOUN
+ trans_ru: мысль, дума
+
+-lexeme
+ lex: firēbbōzī
+ stem: firēbbōzī.|firebbozī.
+ gramm: n
+ gloss: хитрость
+ paradigm: NOUN
+ trans_ru: хитрость, интрига, уловка
+
+-lexeme
+ lex: fōyidā
+ stem: fōyidā.|foyidā.
+ gramm: n
+ gloss: польза
+ paradigm: NOUN
+ trans_ru: польза, выгода
+
+-lexeme
+ lex: galīm
+ stem: galīm.
+ gramm: f,n
+ gloss: шерстяной_халат.f
+ paradigm: NOUN
+ trans_ru: шерстяной халат
+
+-lexeme
+ lex: gāp
+ stem: gāp.
+ gramm: n
+ gloss: cлово
+ paradigm: NOUN
+ trans_ru: cлово, речь; дело, обстоятельство
+
+-lexeme
+ lex: garδā
+ stem: garδā.
+ gramm: n
+ gloss: хлеб
+ paradigm: NOUN
+ trans_ru: хлеб
+
+-lexeme
+ lex: garmax̌
+ stem: garmax̌.
+ gramm: n
+ gloss: жара
+ paradigm: NOUN
+ trans_ru: жар, жара
+
+-lexeme
+ lex: gird
+ stem: gird.
+ gramm: n
+ gloss: круг
+ paradigm: NOUN
+ trans_ru: круг, кружок
+
+-lexeme
+ lex: gögird
+ stem: gögird.
+ gramm: n
+ gloss: спички
+ paradigm: NOUN
+ trans_ru: спички
+
+-lexeme
+ lex: granīc
+ stem: granīc.
+ gramm: n
+ gloss: граница
+ paradigm: NOUN
+ trans_ru: граница
+
+-lexeme
+ lex: gūg
+ stem: gūg.|ǰūg.
+ gramm: n
+ gloss: жучок
+ paradigm: NOUN
+ trans_ru: жучок, тля, вредитель растений
+
+-lexeme
+ lex: gul
+ stem: gul.
+ gramm: n
+ gloss: цветок
+ paradigm: NOUN
+ trans_ru: цветок
+
+-lexeme
+ lex: gulzōr
+ stem: gulzōr.|gulzor.
+ gramm: n
+ gloss: цветник
+ paradigm: NOUN
+ trans_ru: цветник
+
+-lexeme
+ lex: gūx̌t
+ stem: gūx̌t.
+ gramm: n
+ gloss: мясо
+ paradigm: NOUN
+ trans_ru: мясо
+
+-lexeme
+ lex: guzar
+ stem: guzar.
+ gramm: n
+ gloss: жизнь
+ paradigm: NOUN
+ trans_ru: жизнь, cтоянка (в пути)
+
+-lexeme
+ lex: guzar
+ stem: guzar.
+ gramm: f,n
+ gloss: брод.f
+ paradigm: NOUN
+ trans_ru: место перехода через реку, брод
+
+-lexeme
+ lex: ɣāc
+ stem: ɣāc.
+ gramm: f,n
+ gloss: девушка
+ paradigm: NOUN
+ trans_ru: девушка
+
+-lexeme
+ lex: ɣaδā
+ stem: ɣaδā.
+ gramm: n
+ gloss: юноша
+ paradigm: NOUN
+ trans_ru: юноша, парень, мальчик
+
+-lexeme
+ lex: ɣalbīr
+ stem: ɣalbīr.
+ gramm: f,n
+ gloss: решето.f
+ paradigm: NOUN
+ trans_ru: решето, сито
+
+-lexeme
+ lex: ɣalimat
+ stem: ɣalimat.
+ gramm: n
+ gloss: удача
+ paradigm: NOUN
+ trans_ru: счастливый случай, удача, подарок судьбы
+
+-lexeme
+ lex: ɣam
+ stem: ɣam.
+ gramm: n
+ gloss: печаль
+ paradigm: NOUN
+ trans_ru: печаль, забота, страдание
+
+-lexeme
+ lex: ɣēm
+ stem: ɣēm.|ɣem.
+ gramm: f,n
+ gloss: вход.f
+ paradigm: NOUN
+ trans_ru: вход, входное отверстие, горловина; рот, пасть
+
+-lexeme
+ lex: ɣū
+ stem: ɣū.
+ gramm: n
+ gloss: ухо
+ paradigm: NOUN
+ trans_ru: ухо, уши; слух
+
+-lexeme
+ lex: ɣubōr
+ stem: ɣubōr.|ɣubor.
+ gramm: n
+ gloss: пыль
+ paradigm: NOUN
+ trans_ru: пыль
+
+-lexeme
+ lex: ɣūnǰ
+ stem: ɣūnǰ.
+ gramm: n
+ gloss: волосы
+ paradigm: NOUN
+ trans_ru: волосы
+
+-lexeme
+ lex: ɣurgōw
+ stem: ɣurgōw.|ɣurgow.
+ gramm: n
+ gloss: бык-производитель
+ paradigm: NOUN
+ trans_ru: бык-производитель
+
+-lexeme
+ lex: ɣ̌an
+ stem: ɣ̌an.
+ gramm: n,f
+ gloss: жена
+ paradigm: NOUN
+ trans_ru: жена
+
+-lexeme
+ lex: ɣ̌anʒīr
+ stem: ɣ̌anʒīr.
+ gramm: n
+ gloss: цепь
+ paradigm: NOUN
+ trans_ru: цепь
+
+-lexeme
+ lex: ɣ̌anik
+ stem: ɣ̌anik.
+ gramm: n,f
+ gloss: женщина
+ paradigm: NOUN
+ trans_ru: женщина
+
+-lexeme
+ lex: ɣ̌anīʒ
+ stem: ɣ̌anīʒ.|ɣ̌anīǰ.
+ gramm: n,f
+ gloss: невеста
+ paradigm: NOUN
+ trans_ru: невеста
+
+-lexeme
+ lex: ɣ̌īw
+ stem: ɣ̌īw.
+ gramm: n
+ gloss: охота
+ paradigm: NOUN
+ trans_ru: охота
+
+-lexeme
+ lex: x̌ikōr
+ stem: x̌ikōr.|x̌ikor.
+ gramm: n
+ gloss: охота
+ paradigm: NOUN
+ trans_ru: охота
+
+-lexeme
+ lex: ilōǰ
+ stem: ilōǰ.|iloǰ.|yiloǰ.
+ gramm: n
+ gloss: средство
+ paradigm: NOUN
+ trans_ru: средство, выход (из положения)
+
+-lexeme
+ lex: ilōq
+ stem: ilōq.|iloq.|ayloq.
+ gramm: n
+ gloss: отгонное_пастбище
+ paradigm: NOUN
+ trans_ru: отгонное пастбище
+
+-lexeme
+ lex: indōm
+ stem: indōm.|indom.
+ gramm: n
+ gloss: части_тела
+ paradigm: NOUN
+ trans_ru: члены, части тела
+
+-lexeme
+ lex: ingax̌t
+ stem: ingax̌t.
+ gramm: f,n
+ gloss: палец.f
+ paradigm: NOUN
+ trans_ru: палец
+
+-lexeme
+ lex: inistitūt
+ stem: inistitūt.
+ gramm: n
+ gloss: институт
+ paradigm: NOUN
+ trans_ru: институт
+
+-lexeme
+ lex: injōm,
+ stem: injōm.|injom.|injemot.
+ gramm: n
+ gloss: добро
+ paradigm: NOUN
+ trans_ru: добро, имущество
+
+-lexeme
+ lex: intiōm
+ stem: intiōm.|intiom.
+ gramm: f,n
+ gloss: экзамен.f
+ paradigm: NOUN
+ trans_ru: экзамен, зачет
+
+-lexeme
+ lex: istilōw
+ stem: istilōw.|istilow.
+ gramm: f,n
+ gloss: столовая.f
+ paradigm: NOUN
+ trans_ru: столовая
+
+-lexeme
+ lex: ǰaōn
+ stem: ǰaōn.|ǰaon.
+ gramm: n
+ gloss: мир
+ paradigm: NOUN
+ trans_ru: мир, свет
+
+-lexeme
+ lex: ǰawōb
+ stem: ǰawōb.|ǰawob.
+ gramm: n
+ gloss: ответ
+ paradigm: NOUN
+ trans_ru: ответ
+
+-lexeme
+ lex: ǰawōl
+ stem: ǰawōl.|ǰawol.
+ gramm: f,n
+ gloss: мешок.f
+ paradigm: NOUN
+ trans_ru: мешок
+
+-lexeme
+ lex: qōp
+ stem: qōp.|qop.
+ gramm: f,n
+ gloss: мешок.f
+ paradigm: NOUN
+ trans_ru: мешок
+
+-lexeme
+ lex: qöč
+ stem: qöč.|qoč.
+ gramm: n
+ gloss: живот
+ paradigm: NOUN
+ trans_ru: живот, утроба
+
+-lexeme
+ lex: qūl
+ stem: qūl.
+ gramm: f,n
+ gloss: озеро.f
+ paradigm: NOUN
+ trans_ru: озеро, пруд
+
+-lexeme
+ lex: ǰingāl
+ stem: ǰingāl.
+ gramm: f,n
+ gloss: лес.f
+ paradigm: NOUN
+ trans_ru: лес, заросли
+
+-lexeme
+ lex: ǰiraɣ-piraɣ
+ stem: ǰiraɣ-piraɣ.
+ gramm: f,n
+ gloss: писк.f
+ paradigm: NOUN
+ trans_ru: (звукоподраж.) писк, визг, плач.
+
+-lexeme
+ lex: ǰō
+ stem: ǰō.|ǰo.
+ gramm: n
+ gloss: место
+ paradigm: NOUN
+ trans_ru: место
+
+-lexeme
+ lex: ǰōy
+ stem: ǰōy.|ǰoy.
+ gramm: n
+ gloss: [р.] место.
+ paradigm: NOUN
+ trans_ru: [р.] место
+
+-lexeme
+ lex: ǰōn
+ stem: ǰōn.|ǰon.
+ gramm: n
+ gloss: душа
+ paradigm: NOUN
+ trans_ru: душа, дух
+
+-lexeme
+ lex: ǰul
+ stem: .ǰul.
+ gramm: n
+ gloss: тряпка
+ paradigm: NOUN
+ trans_ru: тряпка
+
+-lexeme
+ lex: ǰumā
+ stem: ǰumā.
+ gramm: n
+ gloss: пятница
+ paradigm: NOUN
+ trans_ru: пятница
+
+-lexeme
+ lex: kabōb
+ stem: kabōb.|kabob.
+ gramm: n
+ gloss: жаркое
+ paradigm: NOUN
+ trans_ru: жаркое
+
+-lexeme
+ lex: kačkūl
+ stem: kačkūl.
+ gramm: f,n
+ gloss:  миска.f
+ paradigm: NOUN
+ trans_ru: деревянная большая миска
+
+-lexeme
+ lex: kud
+ stem: kud.|kid.|kad.
+ gramm: f,n
+ gloss: собака.f.sg|собака.f.sg|собака.f.pl
+ paradigm: NOUN
+ trans_ru: собака
+
+-lexeme
+ lex: kumur
+ stem: kumur.
+ gramm: n
+ gloss: козел-производитель
+ paradigm: NOUN
+ trans_ru: козел-производитель
+
+-lexeme
+ lex: kāl
+ stem: kāl.
+ gramm: n
+ gloss: голова
+ paradigm: NOUN
+ trans_ru: голова
+
+-lexeme
+ lex: kaltak
+ stem: kaltak.
+ gramm: n
+ gloss: палка
+ paradigm: NOUN
+ trans_ru: палка
+
+-lexeme
+ lex: kalwōr
+ stem: kalwōr.|kalwor.
+ gramm: n
+ gloss: мешок
+ paradigm: NOUN
+ trans_ru: небольшой кожаный мешок
+
+-lexeme
+ lex: kalxōz
+ stem: kalxōz.|kalxoz.
+ gramm: n
+ gloss: колхоз
+ paradigm: NOUN
+ trans_ru: колхоз
+
+-lexeme
+ lex: kaman
+ stem: kamand.|kaman.
+ gramm: n
+ gloss: веревка
+ paradigm: NOUN
+ trans_ru: канат, веревка
+
+-lexeme
+ lex: kampīr
+ stem: kampīr.
+ gramm: n
+ gloss: старуха
+ paradigm: NOUN
+ trans_ru: старуха
+
+-lexeme
+ lex: kapör
+ stem: kapör.|kapor.
+ gramm: n
+ gloss: сорт тыквы
+ paradigm: NOUN
+ trans_ru: сорт тыквы
+
+-lexeme
+ lex: kargas
+ stem: kargas.
+ gramm: f,n
+ gloss: коршун.f
+ paradigm: NOUN
+ trans_ru: коршун, хищная птица
+
+-lexeme
+ lex: karx̌opc
+ stem: karx̌opc.
+ gramm: f,n
+ gloss: сорока.f
+ paradigm: NOUN
+ trans_ru: соро́ка
+
+-lexeme
+ lex: kāwn
+ stem: kāwn.
+ gramm: n
+ gloss: половина
+ paradigm: NOUN
+ trans_ru: половина
+
+-lexeme
+ lex: kax̌t
+ stem: kax̌t.
+ gramm: n
+ gloss: зерно
+ paradigm: NOUN
+ trans_ru: зерно, посев, хлеб на корню
+
+-lexeme
+ lex: kāzōr
+ stem: kāzōr.|kāzor.
+ gramm: n
+ gloss: огород
+ paradigm: NOUN
+ trans_ru: огород
+
+-lexeme
+ lex: kimur
+ stem: kimur.
+ gramm: n
+ gloss: каменный уголь
+ paradigm: NOUN
+ trans_ru: каменный уголь
+
+-lexeme
+ lex: kīnō
+ stem: kīnō.|kīno.
+ gramm: n
+ gloss: кино
+ paradigm: NOUN
+ trans_ru: кино
+
+-lexeme
+ lex: kinōrā
+ stem: kinōrā.|kinorā.
+ gramm: n
+ gloss: сторона
+ paradigm: NOUN
+ trans_ru: сторона, край, окрестность
+
+-lexeme
+ lex: kitōb
+ stem: kitōb.|kitob.
+ gramm: f,n
+ gloss: книга.f
+ paradigm: NOUN
+ trans_ru: книга
+
+-lexeme
+ lex: kōčōr
+ stem: kōčōr.|kočor.
+ gramm: n
+ gloss: вещь
+ paradigm: NOUN
+ trans_ru: вещь
+
+-lexeme
+ lex: kōɣaz
+ stem: kōɣaz.|koɣaz.
+ gramm: n
+ gloss: бумага
+ paradigm: NOUN
+ trans_ru: бумага
+
+-lexeme
+ lex: kōlā
+ stem: kōlā.|kolā.
+ gramm: n
+ gloss: ткань
+ paradigm: NOUN
+ trans_ru: ткань, мануфактура
+
+-lexeme
+ lex: kōr
+ stem: kōr.|kor.
+ gramm: n
+ gloss: дело
+ paradigm: NOUN
+ trans_ru: дело, работа
+
+-lexeme
+ lex: kōrkun
+ stem: kōrkun.|korkun.
+ gramm: n
+ gloss: работник
+ paradigm: NOUN
+ trans_ru: работник
+
+-lexeme
+ lex: kōrindigī
+ stem: kōrindigī.|korindigī.
+ gramm: n
+ gloss: действия
+ paradigm: NOUN
+ trans_ru: действия
+
+-lexeme
+ lex: köl
+ stem: köl.
+ gramm: n
+ gloss: голова
+ paradigm: NOUN
+ trans_ru: голова
+
+-lexeme
+ lex: kū
+ stem: kū.
+ gramm: m,f,n
+ gloss: гора
+ paradigm: NOUN
+ trans_ru: гора
+
+-lexeme
+ lex: kunǰ
+ stem: kunǰ.
+ gramm: n
+ gloss: угол
+ paradigm: NOUN
+ trans_ru: передняя часть жилого помещения; угол
+
+-lexeme
+ lex: kūrā
+ stem: kūrā.
+ gramm: n
+ gloss: кузнечный горн
+ paradigm: NOUN
+ trans_ru: кузнечный горн
+
+-lexeme
+ lex: kurtā
+ stem: kurtā.
+ gramm: n
+ gloss: платье
+ paradigm: NOUN
+ trans_ru: платье, рубашка
+
+-lexeme
+ lex: kuzā
+ stem: kuzā.
+ gramm: f,n
+ gloss: кувшин.f
+ paradigm: NOUN
+ trans_ru: кувшин
+
+-lexeme
+ lex: lafkā
+ stem: lafkā
+ gramm: f,n
+ gloss: лавка.f
+ paradigm: NOUN
+ trans_ru: лавка (торговая)
+
+-lexeme
+ lex: lax̌kar
+ stem: lax̌kar.
+ gramm: n
+ gloss: войско
+ paradigm: NOUN
+ trans_ru: войско
+
+-lexeme
+ lex: lažōr
+ stem: lažōr.|lažor.
+ gramm: n
+ gloss: древесный уголь
+ paradigm: NOUN
+ trans_ru: древесный уголь
+
+-lexeme
+ lex: lēks
+ stem: lēks.|leks.
+ gramm: n
+ gloss: занятия
+ paradigm: NOUN
+ trans_ru: лекции, занятия
+
+-lexeme
+ lex: lēq
+ stem: lēq.|leq.
+ gramm: f,n
+ gloss: тряпье.f
+ paradigm: NOUN
+ trans_ru: изношенный, ветхий; тряпье, обноски
+
+-lexeme
+ lex: liqōb
+ stem: liqōb.|liqob.
+ gramm: n
+ gloss: личина
+ paradigm: NOUN
+ trans_ru: личина
+
+-lexeme
+ lex: līng
+ stem: līng.
+ gramm: n
+ gloss: нога
+ paradigm: NOUN
+ trans_ru: нога, ноги
+
+-lexeme
+ lex: luqmā
+ stem: luqmā.
+ gramm: n
+ gloss: кусок
+ paradigm: NOUN
+ trans_ru: кусок (пищи)
+
+-lexeme
+ lex: maδōr
+ stem: maδōr.|maδor.
+ gramm: n
+ gloss: полдень
+ paradigm: NOUN
+ trans_ru: полдень
+
+-lexeme
+ lex: magazīn
+ stem: magazīn.
+ gramm: n
+ gloss: магазин
+ paradigm: NOUN
+ trans_ru: магазин
+
+-lexeme
+ lex: maǰlis
+ stem: maǰlis.
+ gramm: n
+ gloss: собрание
+ paradigm: NOUN
+ trans_ru: собрание
+
+-lexeme
+ lex: māk
+ stem: māk.
+ gramm: n
+ gloss: шея
+ paradigm: NOUN
+ trans_ru: шея
+
+-lexeme
+ lex: qad
+ stem: qad.|qād.
+ gramm: n
+ gloss: рост
+ paradigm: NOUN
+ trans_ru: рост, стан
+
+-lexeme
+ lex: qafas
+ stem: qafas.
+ gramm: n
+ gloss: клетка
+ paradigm: NOUN
+ trans_ru: клетка
+
+-lexeme
+ lex: qalā
+ stem: qalā.
+ gramm: n
+ gloss: зaмок
+ paradigm: NOUN
+ trans_ru: зaмок, крепость
+
+-lexeme
+ lex: qalam
+ stem: qalam.
+ gramm: n
+ gloss: карандаш
+ paradigm: NOUN
+ trans_ru: карандаш, перо
+
+-lexeme
+ lex: qāp
+ stem: qāp.
+ gramm: n
+ gloss: ладонь
+ paradigm: NOUN
+ trans_ru: горсть, захват, ладонь
+
+-lexeme
+ lex: qār
+ stem: qār.
+ gramm: n
+ gloss: ярость
+ paradigm: NOUN
+ trans_ru: ярость, гнев, злоба
+
+-lexeme
+ lex: qārz,
+ stem: qārz.|qārzī
+ gramm: n
+ gloss: долг
+ paradigm: NOUN
+ trans_ru: долг, причитающееся
+
+-lexeme
+ lex: qasōb
+ stem: qasōb.|qasob.
+ gramm: n
+ gloss: палач
+ paradigm: NOUN
+ trans_ru: палач
+
+-lexeme
+ lex: mālā
+ stem: mālā.
+ gramm: n
+ gloss: строение
+ paradigm: NOUN
+ trans_ru: строение, здание, жилище, дом, дворец
+
+-lexeme
+ lex: maktab
+ stem: maktab.
+ gramm: n
+ gloss: школа
+ paradigm: NOUN
+ trans_ru: школа
+
+-lexeme
+ lex: mānī
+ stem: mānī.
+ gramm: n
+ gloss: значение
+ paradigm: NOUN
+ trans_ru: смысл, значение
+
+-lexeme
+ lex: maqsad
+ stem: maqsad.
+ gramm: n
+ gloss: цель
+ paradigm: NOUN
+ trans_ru: цель, стремление, желание
+
+-lexeme
+ lex: mardīnā
+ stem: mardīnā.
+ gramm: n
+ gloss: мужчина
+ paradigm: NOUN
+ trans_ru: мужчина
+
+-lexeme
+ lex: qīl
+ stem: qīl.
+ gramm: n
+ gloss: волосок
+ paradigm: NOUN
+ trans_ru: волос, волосок
+
+-lexeme
+ lex: mardum
+ stem: mardum.
+ gramm: n
+ gloss: народ
+ paradigm: NOUN
+ trans_ru: народ, люди
+
+-lexeme
+ lex: qīnī
+ stem: qīnī.
+ gramm: n
+ gloss: затруднение
+ paradigm: NOUN
+ trans_ru: затруднение, трудность
+
+-lexeme
+ lex: qismat
+ stem: qismat.
+ gramm: n
+ gloss: судьба
+ paradigm: NOUN
+ trans_ru: судьба, провидение
+
+-lexeme
+ lex: markāb
+ stem: markāb.
+ gramm: f,n
+ gloss: осел.f
+ paradigm: NOUN
+ trans_ru: осел
+
+-lexeme
+ lex: qišlōq
+ stem: qišlōq.|qišloq.
+ gramm: n
+ gloss: кишлак
+ paradigm: NOUN
+ trans_ru: кишлак
+
+-lexeme
+ lex: šār
+ stem: šār.
+ gramm: f,n
+ gloss: осел.f
+ paradigm: NOUN
+ trans_ru: осел, ослица
+
+-lexeme
+ lex: qūlī
+ stem: qūlī.
+ gramm: n
+ gloss: омут
+ paradigm: NOUN
+ trans_ru: глубокое место, омут
+
+-lexeme
+ lex: maskā
+ stem: maskā.
+ gramm: f,n
+ gloss: сливочное_масло.f
+ paradigm: NOUN
+ trans_ru: сливочное масло
+
+-lexeme
+ lex: qulf
+ stem: qulf.
+ gramm: n
+ gloss: замок
+ paradigm: NOUN
+ trans_ru: замóк
+
+-lexeme
+ lex: māw
+ stem: māw.
+ gramm: n
+ gloss: овца
+ paradigm: NOUN
+ trans_ru: овца
+
+-lexeme
+ lex: mawöǰ
+ stem: mawöǰ.
+ gramm: n
+ gloss: баран
+ paradigm: NOUN
+ trans_ru: баран
+
+-lexeme
+ lex: max̌
+ stem: max̌.
+ gramm: f,n
+ gloss: горох.f
+ paradigm: NOUN
+ trans_ru: горох
+
+-lexeme
+ lex: mēmōn
+ stem: mēmōn.|memon.
+ gramm: n
+ gloss: гость
+ paradigm: NOUN
+ trans_ru: гость, гости
+
+-lexeme
+ lex: mēnatōnā
+ stem: mēnatōnā.|menatonā.
+ gramm: n
+ gloss: причитающееся
+ paradigm: NOUN
+ trans_ru: должное, причитающееся, награда
+
+-lexeme
+ lex: mēsn,
+ stem: mēsn.|mesn.|mesk.
+ gramm: n
+ gloss: дудка
+ paradigm: NOUN
+ trans_ru: зонтичное растение, дудка
+
+-lexeme
+ lex: rabāx̌
+ stem: rabāx̌.
+ gramm: n
+ gloss: низ
+ paradigm: NOUN
+ trans_ru: низ, внизу
+
+-lexeme
+ lex: rabōb
+ stem: rabōb.|rabob.
+ gramm: f,n
+ gloss: рабаб.f
+ paradigm: NOUN
+ trans_ru: рабаб, струнный музыкальный инструмент
+
+-lexeme
+ lex: rad
+ stem: rad.
+ gramm: f,n
+ gloss: радио.f
+ paradigm: NOUN
+ trans_ru: радио
+
+-lexeme
+ lex: raδōn
+ stem: raδōn.|arδon.|raδon.
+ gramm: f,n
+ gloss: очаг.f
+ paradigm: NOUN
+ trans_ru: очаг
+
+-lexeme
+ lex: rafc
+ stem: rafc.
+ gramm: f,n
+ gloss: веник.f
+ paradigm: NOUN
+ trans_ru: веник
+
+-lexeme
+ lex: ramb-a-ramb
+ stem: ramb-a-ramb.
+ gramm: n
+ gloss: топот
+ paradigm: NOUN
+ trans_ru: топот, грохот, гул
+
+-lexeme
+ lex: ramiyān
+ stem: ramiyān.
+ gramm: n
+ gloss: наставление.
+ paradigm: NOUN
+ trans_ru: наставление, поучение
+
+-lexeme
+ lex: rang
+ stem: rang.
+ gramm: n
+ gloss: род
+ paradigm: NOUN
+ trans_ru: род, сорт, вид; употр. в сложениях
+
+-lexeme
+ lex: raqam
+ stem: raqam.
+ gramm: n
+ gloss: сорт
+ paradigm: NOUN
+ trans_ru: сорт, вид
+
+-lexeme
+ lex: rayīs
+ stem: rayīs.
+ gramm: n
+ gloss: председатель
+ paradigm: NOUN
+ trans_ru: председатель
+
+-lexeme
+ lex: razēn
+ stem: razēn.|razen.
+ gramm: n
+ gloss: дочь
+ paradigm: NOUN
+ trans_ru: дочь
+
+-lexeme
+ lex: razēnīʒ
+ stem: razēnīʒ.|razenīʒ.
+ gramm: n
+ gloss: падчерица
+ paradigm: NOUN
+ trans_ru: падчерица
+
+-lexeme
+ lex: rēzak
+ stem: rēzak.|rezak.
+ gramm: n
+ gloss: часть_нар_за_очагом
+ paradigm: NOUN
+ trans_ru: часть нар за очагом
+
+-lexeme
+ lex: risq
+ stem: risq.
+ gramm: n
+ gloss: пропитание
+ paradigm: NOUN
+ trans_ru: пропитание, хлеб насущный
+
+-lexeme
+ lex: rōn
+ stem: rōn.|ron.
+ gramm: n
+ gloss: ниша для полки
+ paradigm: NOUN
+ trans_ru: ниша для полки
+
+-lexeme
+ lex: rubōyī
+ stem: rubōyī.|ruboyī.
+ gramm: f,n
+ gloss: четверостишие.f
+ paradigm: NOUN
+ trans_ru: лирические стихи (четверостишие)
+
+-lexeme
+ lex: ručka
+ stem: ručka.
+ gramm: n
+ gloss: перо
+ paradigm: NOUN
+ trans_ru: ручка, перо
+
+-lexeme
+ lex: rūɣan
+ stem: rūɣan.
+ gramm: n
+ gloss: масло
+ paradigm: NOUN
+ trans_ru: масло
+
+-lexeme
+ lex: rūpc
+ stem: rūpc.
+ gramm: f,n
+ gloss: лиса.f
+ paradigm: NOUN
+ trans_ru: лиса, лисица
+
+-lexeme
+ lex: ruxn
+ stem: ruxn.
+ gramm: n
+ gloss: свет
+ paradigm: NOUN
+ trans_ru: свет, рассвет
+
+-lexeme
+ lex: ruxsat
+ stem: ruxsat.
+ gramm: n
+ gloss: разрешение
+ paradigm: NOUN
+ trans_ru: разрешение, позволение уйти, уехать
+
+-lexeme
+ lex: rūz
+ stem: rūz.
+ gramm: n
+ gloss: день
+ paradigm: NOUN
+ trans_ru: день, время
+
+-lexeme
+ lex: rūzm
+ stem: rūzm.
+ gramm: n
+ gloss: окно_в_крыше
+ paradigm: NOUN
+ trans_ru: окно в крыше
+
+-lexeme
+ lex: sadōs
+ stem: sadōs.|sados.
+ gramm: n
+ gloss: позапрошлый_год
+ paradigm: NOUN
+ trans_ru: позапрошлый год
+
+-lexeme
+ lex: safar
+ stem: safar.
+ gramm: n
+ gloss: путешествие
+ paradigm: NOUN
+ trans_ru: путешествие, странствие
+
+-lexeme
+ lex: safēd
+ stem: safēd.|safed.
+ gramm: n
+ gloss: белый
+ paradigm: NOUN
+ trans_ru: белый
+
+-lexeme
+ lex: mūysafēd
+ stem: mūysafēd.|mūysafed.
+ gramm: n
+ gloss: старик
+ paradigm: NOUN
+ trans_ru: старик
+
+-lexeme
+ lex: safēdgāl
+ stem: safēdgāl.|safedgāl.
+ gramm: n
+ gloss: старуха
+ paradigm: NOUN
+ trans_ru: старуха
+
+-lexeme
+ lex: salōm
+ stem: salōm.|salom.
+ gramm: n
+ gloss: приветствие
+ paradigm: NOUN
+ trans_ru: приветствие
+
+-lexeme
+ lex: sandūq
+ stem: sandūq.
+ gramm: f,n
+ gloss: сундук.f
+ paradigm: NOUN
+ trans_ru: сундук, ящик
+
+-lexeme
+ lex: sār
+ stem: sār.
+ gramm: n
+ gloss: завтра
+ paradigm: NOUN
+ trans_ru: завтра
+
+-lexeme
+ lex: sārī
+ stem: sārī.
+ gramm: n
+ gloss: утро
+ paradigm: NOUN
+ trans_ru: утро, утром
+
+-lexeme
+ lex: savʒā
+ stem: savʒā.|savzā.
+ gramm: n
+ gloss: зелень
+ paradigm: NOUN
+ trans_ru: зелень, поросль, росток
+
+-lexeme
+ lex: sawdōgār,
+ stem: sawdōgār.|sawdogār.|sawdogar.
+ gramm: n
+ gloss: купец
+ paradigm: NOUN
+ trans_ru: купец
+
+-lexeme
+ lex: sawōl
+ stem: sawōl.|sawol.
+ gramm: n
+ gloss: вопрос
+ paradigm: NOUN
+ trans_ru: вопрос
+
+-lexeme
+ lex: siwōr
+ stem: siwōr.|siwor.|suwor.|sawor.
+ gramm: n
+ gloss: всадник
+ paradigm: NOUN
+ trans_ru: верховой, всадник
+
+-lexeme
+ lex: sāwn
+ stem: sāwn.
+ gramm: f,n
+ gloss: змея.f
+ paradigm: NOUN
+ trans_ru: название большой змеи (в поверьях)
+
+-lexeme
+ lex: sayl
+ stem: sayli.|sayl.
+ gramm: n
+ gloss: прогулка
+ paradigm: NOUN
+ trans_ru: прогулка, развлекательное путешествие
+
+-lexeme
+ lex: Sēmurɣ
+ stem: Sēmurɣ.|Semurɣ.
+ gramm: n
+ gloss: Симург
+ paradigm: NOUN
+ trans_ru: Симург, сказочная птица
+
+-lexeme
+ lex: sipāw
+ stem: sipāw.
+ gramm: f,n
+ gloss: вошь.f
+ paradigm: NOUN
+ trans_ru: вошь
+
+-lexeme
+ lex: sitūr
+ stem: sitūr.|sutūr.
+ gramm: n
+ gloss: крупный_рогатый_скот
+ paradigm: NOUN
+ trans_ru: крупный рогатый скот
+
+-lexeme
+ lex: sīx
+ stem: sīx.
+ gramm: n
+ gloss: sīx
+ paradigm: NOUN
+ trans_ru: sīx
+
+-lexeme
+ lex: gögird-sīx
+ stem: gögird-sīx.
+ gramm: f,n
+ gloss: спичка.f
+ paradigm: NOUN
+ trans_ru: спичка
+
+-lexeme
+ lex: sōat
+ stem: sōat.|soat
+ gramm: f,n
+ gloss: час.f
+ paradigm: NOUN
+ trans_ru: час, часы
+
+-lexeme
+ lex: sōl
+ stem: sōl.|sol.
+ gramm: f,n
+ gloss: год.f
+ paradigm: NOUN
+ trans_ru: год
+
+-lexeme
+ lex: sōxt
+ stem: sōxt.|soxt.
+ gramm: n
+ gloss: вид
+ paradigm: NOUN
+ trans_ru: вид
+
+-lexeme
+ lex: sōyā
+ stem: sōyā.|soyā.
+ gramm: n
+ gloss: тень
+ paradigm: NOUN
+ trans_ru: тень
+
+-lexeme
+ lex: sōyib
+ stem: sōyib.|soyib.
+ gramm: n
+ gloss: хозяин
+ paradigm: NOUN
+ trans_ru: хозяин
+
+-lexeme
+ lex: sūg
+ stem: sūg.
+ gramm: f,n
+ gloss: сказка.f
+ paradigm: NOUN
+ trans_ru: сказка
+
+-lexeme
+ lex: sumb
+ stem: sumb.
+ gramm: n
+ gloss: копыто
+ paradigm: NOUN
+ trans_ru: копыто
+
+-lexeme
+ lex: sūmka
+ stem: sūmka.
+ gramm: f,n
+ gloss: сумка.f
+ paradigm: NOUN
+ trans_ru: сумка
+
+-lexeme
+ lex: sūr
+ stem: sūr.
+ gramm: n
+ gloss: свадьба
+ paradigm: NOUN
+ trans_ru: свадьба
+
+-lexeme
+ lex: sūrat
+ stem: sūrat.
+ gramm: n
+ gloss: облик
+ paradigm: NOUN
+ trans_ru: облик, образ
+
+-lexeme
+ lex: surōq
+ stem: surōq.|suroq.
+ gramm: n
+ gloss: поиски
+ paradigm: NOUN
+ trans_ru: поиски
+
+-lexeme
+ lex: sux̆
+ stem: sux̆.
+ gramm: n
+ gloss: легкие
+ paradigm: NOUN
+ trans_ru: легкие
+
+-lexeme
+ lex: šaɣ
+ stem: šaɣ.
+ gramm: n
+ gloss: терновник
+ paradigm: NOUN
+ trans_ru: терновник
+
+-lexeme
+ lex: šamšēr
+ stem: šamšēr.|šamšer.
+ gramm: f,n
+ gloss: меч.f
+ paradigm: NOUN
+ trans_ru: меч
+
+-lexeme
+ lex: šart
+ stem: šart.
+ gramm: f,n
+ gloss: условие.f
+ paradigm: NOUN
+ trans_ru: условие; задача
+
+-lexeme
+ lex: šarvidō
+ stem: šarvidō.|šarvido.
+ gramm: f,n
+ gloss: ручей.f
+ paradigm: NOUN
+ trans_ru: ручей
+
+-lexeme
+ lex: šēr
+ stem: šēr.|šer.
+ gramm: f,n
+ gloss: лев.f
+ paradigm: NOUN
+ trans_ru: лев
+
+-lexeme
+ lex: šōš
+ stem: šōš.|šoš.
+ gramm: n
+ gloss: песок
+ paradigm: NOUN
+ trans_ru: песок
+
+-lexeme
+ lex: šitōyī
+ stem: šitōyī.|šitoyī.
+ gramm: n
+ gloss: холод
+ paradigm: NOUN
+ trans_ru: холод
+
+-lexeme
+ lex: šög
+ stem: šög.
+ gramm: n
+ gloss: теленок
+ paradigm: NOUN
+ trans_ru: теленок
+
+-lexeme
+ lex: šör
+ stem: šör.
+ gramm: n
+ gloss: осел-самец
+ paradigm: NOUN
+ trans_ru: осел-самец
+
+-lexeme
+ lex: tadōd
+ stem: tadōd.|tadod.
+ gramm: n
+ gloss: поучение
+ paradigm: NOUN
+ trans_ru: поучение, предупреждение, наказ
+
+-lexeme
+ lex: tafāwsk
+ stem: tafāwsk.|tufāwsk.
+ gramm: f,n
+ gloss: змея.f
+ paradigm: NOUN
+ trans_ru: змея
+
+-lexeme
+ lex: tagōv
+ stem: tagōv.|tagov.
+ gramm: n
+ gloss: низ
+ paradigm: NOUN
+ trans_ru: низ, вниз, внизу
+
+-lexeme
+ lex: tamōkū
+ stem: tamōkū.|tamokū.
+ gramm: n
+ gloss: табак
+ paradigm: NOUN
+ trans_ru: табак
+
+-lexeme
+ lex: tamōm
+ stem: tamōm.|tamom.
+ gramm: n
+ gloss: конец
+ paradigm: NOUN
+ trans_ru: конец
+
+-lexeme
+ lex: tamōšō
+ stem: tamōšō.|tamošo.|tamox̆o.
+ gramm: n
+ gloss: [р.] зрелище.
+ paradigm: NOUN
+ trans_ru: зрелище, развлечение
+
+-lexeme
+ lex: tanā
+ stem: tanā.
+ gramm: n
+ gloss: тело
+ paradigm: NOUN
+ trans_ru: тело, туловище
+
+-lexeme
+ lex: tangī
+ stem: tangī.
+ gramm: n
+ gloss: стеснение
+ paradigm: NOUN
+ trans_ru: утеснение, стеснение
+
+-lexeme
+ lex: tangā
+ stem: tangā.
+ gramm: n
+ gloss: таньга
+ paradigm: NOUN
+ trans_ru: таньга (монета)
+
+-lexeme
+ lex: tanōv
+ stem: tanōv.|tanov.
+ gramm: n
+ gloss: нитка
+ paradigm: NOUN
+ trans_ru: нитка
+
+-lexeme
+ lex: taraf
+ stem: taraf.
+ gramm: n
+ gloss: сторона
+ paradigm: NOUN
+ trans_ru: сторона
+
+-lexeme
+ lex: tavāng
+ stem: tavāng.
+ gramm: n
+ gloss: ящик
+ paradigm: NOUN
+ trans_ru: ящик для ссыпки муки на мельнице
+
+-lexeme
+ lex: tavar
+ stem: tavar.
+ gramm: f,n
+ gloss: топор.f
+ paradigm: NOUN
+ trans_ru: топор
+
+-lexeme
+ lex: tāx
+ stem: tāx.
+ gramm: f,n
+ gloss: гора.f
+ paradigm: NOUN
+ trans_ru: гора, скала
+
+-lexeme
+ lex: taxmurɣ
+ stem: taxmurɣ.
+ gramm: f,n
+ gloss: яйцо.f
+ paradigm: NOUN
+ trans_ru: яйцо
+
+-lexeme
+ lex: tāxt
+ stem: tāxt.
+ gramm: n
+ gloss: тахта
+ paradigm: NOUN
+ trans_ru: трон, тахта
+
+-lexeme
+ lex: taxt-at
+ stem: táxt-at.
+ gramm: n
+ gloss: счастье-add
+ paradigm: NOUN
+ trans_ru: счастье и
+
+-lexeme
+ lex: baxt
+ stem: baxt.
+ gramm: n
+ gloss: благополучие
+ paradigm: NOUN
+ trans_ru: благополучие
+
+-lexeme
+ lex: tilism
+ stem: tilism.
+ gramm: n
+ gloss: талисман
+ paradigm: NOUN
+ trans_ru: талисман
+
+-lexeme
+ lex: tillō
+ stem: tillō.|tillo.
+ gramm: n
+ gloss: золото
+ paradigm: NOUN
+ trans_ru: золото
+
+-lexeme
+ lex: tīrmō
+ stem: tīrmō.|tīrmo.
+ gramm: f,n
+ gloss: осень.f
+ paradigm: NOUN
+ trans_ru: осень

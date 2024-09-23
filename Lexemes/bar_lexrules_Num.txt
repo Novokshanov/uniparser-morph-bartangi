@@ -1,0 +1,223 @@
+-lexeme
+ lex: wūvd
+ stem: .wūvd.
+ gramm: num
+ gloss: семь
+ paradigm: NUM
+ trans_ru: семь
+
+-lexeme
+ lex: ūvd
+ stem: .ūvd.
+ gramm: num
+ gloss: семь
+ paradigm: NUM
+ trans_ru: семь
+
+-lexeme
+ lex: ūvd
+ stem: .ūvd.
+ gramm: num
+ gloss: семь
+ paradigm: NUM
+ trans_ru: семь
+
+-lexeme
+ lex: aray
+ stem: .aray.
+ gramm: num
+ gloss: три (числительное)
+ paradigm: NUM
+ trans_ru: три (числительное)
+
+-lexeme
+ lex: aray
+ stem: .aray.
+ gramm: num
+ gloss: три (числительное)
+ paradigm: NUM
+ trans_ru: три (числительное)
+
+-lexeme
+ lex: arāy
+ stem: .arāy.
+ gramm: num
+ gloss: три (числительное)
+ paradigm: NUM
+ trans_ru: три (числительное)
+
+-lexeme
+ lex: azōr
+ stem: .azōr.
+ gramm: num
+ gloss: тысяча
+ paradigm: NUM
+ trans_ru: тысяча
+
+-lexeme
+ lex: bīst
+ stem: .bīst.
+ gramm: num
+ gloss: двадцать
+ paradigm: NUM
+ trans_ru: двадцать
+
+-lexeme
+ lex: cavū̊r
+ stem: .cavū̊r.
+ gramm: num
+ gloss: четыре
+ paradigm: NUM
+ trans_ru: четыре
+
+-lexeme
+ lex: cavṓr
+ stem: .cavṓr.
+ gramm: num
+ gloss: четыре
+ paradigm: NUM
+ trans_ru: четыре
+
+-lexeme
+ lex: čil
+ stem: .čil.
+ gramm: num
+ gloss: сорок
+ paradigm: NUM
+ trans_ru: сорок
+
+-lexeme
+ lex: varθ
+ stem: .varθ.
+ gramm: num
+ gloss: оба
+ paradigm: NUM
+ trans_ru: оба
+
+-lexeme
+ lex: wax̆t
+ stem: .wax̆t.
+ gramm: num
+ gloss: восемь
+ paradigm: NUM
+ trans_ru: восемь
+
+-lexeme
+ lex: xöw
+ stem: .xöw.
+ gramm: num
+ gloss: шесть
+ paradigm: NUM
+ trans_ru: шесть
+
+-lexeme
+ lex: xůw
+ stem: .xůw.
+ gramm: num
+ gloss: шесть
+ paradigm: NUM
+ trans_ru: шесть
+
+-lexeme
+ lex: yak
+ stem: .yak.
+ gramm: num
+ gloss: один
+ paradigm: NUM
+ trans_ru: один
+
+-lexeme
+ lex: yakum
+ stem: .yakum.
+ gramm: num
+ gloss: первый, во-первых.
+ paradigm: NUM
+ trans_ru: первый, во-первых.
+
+-lexeme
+ lex: i
+ stem: .i.
+ gramm: num
+ gloss: приименная форма числительного yīw
+ paradigm: NUM
+ trans_ru: приименная форма числительного yīw
+
+-lexeme
+ lex: yi
+ stem: .yi.
+ gramm: num
+ gloss: приименная форма числительного yīw
+ paradigm: NUM
+ trans_ru: приименная форма числительного yīw
+
+-lexeme
+ lex: yīw
+ stem: .yīw.
+ gramm: num
+ gloss: субстантивн. форма числительного 'один’
+ paradigm: NUM
+ trans_ru: субстантивн. форма числительного 'один’
+
+-lexeme
+ lex: yīw
+ stem: .yīw.
+ gramm: num
+ gloss: субстантивн. форма числительного 'один’
+ paradigm: NUM
+ trans_ru: субстантивн. форма числительного 'один’
+
+-lexeme
+ lex: īw
+ stem: .īw.
+ gramm: num
+ gloss: субстантивн. форма числительного 'один’
+ paradigm: NUM
+ trans_ru: субстантивн. форма числительного 'один’
+
+-lexeme
+ lex: pīnӡ
+ stem: .pīnӡ.
+ gramm: num
+ gloss: пять
+ paradigm: NUM
+ trans_ru: пять
+
+-lexeme
+ lex: duwōzdā
+ stem: .duwōzdā.
+ gramm: num
+ gloss: двенадцать
+ paradigm: NUM
+ trans_ru: двенадцать
+
+-lexeme
+ lex: δaw
+ stem: .δaw.
+ gramm: num
+ gloss: два
+ paradigm: NUM
+ trans_ru: два
+
+-lexeme
+ lex: δos
+ stem: .δos.
+ gramm: num
+ gloss: десять
+ paradigm: NUM
+ trans_ru: десять
+
+-lexeme
+ lex: δus
+ stem: .δus.
+ gramm: num
+ gloss: десять
+ paradigm: NUM
+ trans_ru: десять
+
+-lexeme
+ lex: i
+ stem: .i.
+ gramm: num
+ gloss: вариант числительного yi (один), встречающийся преимущественн. в сложениях
+ paradigm: NUM
+ trans_ru: вариант числительного yi (один), встречающийся преимущественн. в сложениях
