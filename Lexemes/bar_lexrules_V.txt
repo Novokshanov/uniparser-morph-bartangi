@@ -3554,63 +3554,103 @@
  trans_ru: отрывать, вырывать, отламывать, отрезать
 
 -lexeme
- lex: paniʒ.paniʒ
+ lex: раnаwdow
  stem: .paniʒ.
  gramm: npst,v
- gloss: надевать (одежду).npst
+ gloss: надевать.npst
  paradigm: VERB
  trans_ru: надевать (одежду), одеваться
 
 -lexeme
- lex: panawd
+ lex: раnаwdow
  stem: .panawd.
  gramm: pst,v
- gloss: надевать (одежду).pst
+ gloss: надевать.pst
  paradigm: VERB
  trans_ru: надевать (одежду), одеваться
 
 -lexeme
- lex: panī́zd
- stem: .panī́zd.
+ lex: раnаwdow
+ stem: .panīzd.
  gramm: 3sg,npst,v
- gloss: надевать (одежду).3sg.npst
+ gloss: надевать.npst.3sg
  paradigm: VERB
  trans_ru: надевать (одежду), одеваться
 
 -lexeme
- lex: panáwǰ
- stem: .panáwǰ.
+ lex: раnаwdow
+ stem: .panawǰ.
  gramm: pf,v
- gloss: надевать (одежду).pf
+ gloss: надевать.pf
  paradigm: VERB
  trans_ru: надевать (одежду), одеваться
 
 -lexeme
- lex: paniʒōn
- stem: .paniʒōn.
+ lex: раnаwdow
+ stem: .раnаwdow.
+ gramm: inf1,v
+ gloss: надевать.inf1
+ paradigm: VERB
+ trans_ru: надевать (одежду), одеваться
+
+-lexeme
+ lex: раnаwdow
+ stem: .раnаwd.
+ gramm: inf2,v
+ gloss: надевать.inf2
+ paradigm: VERB
+ trans_ru: надевать (одежду), одеваться
+
+-lexeme
+ lex: paniʒontow
+ stem: .paniʒon.
  gramm: npst,v
- gloss: .npst
+ gloss: одевать.npst
  paradigm: VERB
- trans_ru: 
+ trans_ru: одевать кого-либо, давать одежду
 
 -lexeme
- lex: paniʒṓnt
- stem: .paniʒṓnt.
+ lex: paniʒontow
+ stem: .paniʒont.
  gramm: 3sg,npst,v
- gloss: .3sg.npst
+ gloss: одевать.npst.3sg
  paradigm: VERB
- trans_ru: 
+ trans_ru: одевать кого-либо, давать одежду
 
 -lexeme
- lex: paniʒṓnč
- stem: .paniʒṓnč.
+ lex: paniʒontow
+ stem: .paniʒont.
+ gramm: pst,v
+ gloss: одевать.pst
+ paradigm: VERB
+ trans_ru: одевать кого-либо, давать одежду
+
+-lexeme
+ lex: paniʒontow
+ stem: .paniʒonč.
  gramm: pf,v
- gloss: .pf
+ gloss: одевать.pf
  paradigm: VERB
- trans_ru: 
+ trans_ru: одевать кого-либо, давать одежду
 
 -lexeme
- lex: zān
+ lex: paniʒontow
+ stem: .paniʒontow.
+ gramm: inf1,v
+ gloss: одевать.inf1
+ paradigm: VERB
+ trans_ru: одевать кого-либо, давать одежду
+
+-lexeme
+ lex: paniʒontow
+ stem: .paniʒont.
+ gramm: inf2,v
+ gloss: одевать.inf2
+ paradigm: VERB
+ trans_ru: одевать кого-либо, давать одежду
+
+-lexeme
+ lex: zedow
  stem: .zān.
  gramm: npst,v
  gloss: убивать.npst
@@ -3618,7 +3658,23 @@
  trans_ru: убивать
 
 -lexeme
- lex: zöǰ
+ lex: zedow
+ stem: .zent.
+ gramm: 3sg,npst,v
+ gloss: убивать.npst.3sg
+ paradigm: VERB
+ trans_ru: убивать
+
+-lexeme
+ lex: zedow
+ stem: .zöd.
+ gramm: pst,v
+ gloss: убивать.pst
+ paradigm: VERB
+ trans_ru: убивать
+
+-lexeme
+ lex: zedow
  stem: .zöǰ.
  gramm: pf,v
  gloss: убивать.pf
@@ -3626,23 +3682,71 @@
  trans_ru: убивать
 
 -lexeme
- lex: zarwī
+ lex: zedow
+ stem: .zedow.
+ gramm: inf1,v
+ gloss: убивать.inf1
+ paradigm: VERB
+ trans_ru: убивать
+
+-lexeme
+ lex: zedow
+ stem: .zed.
+ gramm: inf2,v
+ gloss: убивать.inf2
+ paradigm: VERB
+ trans_ru: убивать
+
+-lexeme
+ lex: zarvidow
  stem: .zarwī.
  gramm: npst,v
- gloss: .npst
+ gloss: скручивать.npst
  paradigm: VERB
- trans_ru: 
+ trans_ru: скручивать; свивать, мотать
 
 -lexeme
- lex: zarvíǰ
- stem: .zarvíǰ.
+ lex: zarvidow
+ stem: .zarwīd.
+ gramm: 3sg,npst,v
+ gloss: скручивать.npst.3sg
+ paradigm: VERB
+ trans_ru: скручивать; свивать, мотать
+
+-lexeme
+ lex: zarvidow
+ stem: .zarvid.
+ gramm: pst,v
+ gloss: скручивать.pst
+ paradigm: VERB
+ trans_ru: скручивать; свивать, мотать
+
+-lexeme
+ lex: zarvidow
+ stem: .zarviǰ.
  gramm: pf,v
- gloss: .pf
+ gloss: скручивать.pf
  paradigm: VERB
- trans_ru: 
+ trans_ru: скручивать; свивать, мотать
 
 -lexeme
- lex: ziban
+ lex: zarvidow
+ stem: .zarvidow.
+ gramm: inf1,v
+ gloss: скручивать.inf1
+ paradigm: VERB
+ trans_ru: скручивать; свивать, мотать
+
+-lexeme
+ lex: zarvidow
+ stem: .zarvid.
+ gramm: inf2,v
+ gloss: скручивать.inf2
+ paradigm: VERB
+ trans_ru: скручивать; свивать, мотать
+
+-lexeme
+ lex: zibidow
  stem: .ziban.
  gramm: npst,v
  gloss: прыгнуть.npst
@@ -3650,31 +3754,71 @@
  trans_ru: прыгнуть, взлететь, убежать
 
 -lexeme
- lex: zibúǰ
- stem: .zibúǰ.
+ lex: zibidow
+ stem: .zibīnt.
+ gramm: 3sg,npst,v
+ gloss: прыгнуть.npst.3sg
+ paradigm: VERB
+ trans_ru: прыгнуть, взлететь, убежать
+
+-lexeme
+ lex: zibidow
+ stem: .zibud.
+ gramm: pst,v
+ gloss: прыгнуть.pst
+ paradigm: VERB
+ trans_ru: прыгнуть, взлететь, убежать
+
+-lexeme
+ lex: zibidow
+ stem: .zibad.
+ gramm: pst,f,pl,v
+ gloss: прыгнуть.pst
+ paradigm: VERB
+ trans_ru: прыгнуть, взлететь, убежать
+
+-lexeme
+ lex: zibidow
+ stem: .zibuǰ.
  gramm: pf,m,v
  gloss: прыгнуть.pf.m
  paradigm: VERB
  trans_ru: прыгнуть, взлететь, убежать
 
 -lexeme
- lex: zibáǰ
- stem: .zibáǰ.
- gramm: pf,mн,v
- gloss: прыгнуть.pf.mн
+ lex: zibidow
+ stem: .zibaǰ.
+ gramm: pf,pl,v
+ gloss: прыгнуть.pf.pl
  paradigm: VERB
  trans_ru: прыгнуть, взлететь, убежать
 
 -lexeme
- lex: zibíc
- stem: .zibíc.
+ lex: zibidow
+ stem: .zibic.
  gramm: pf,f,v
  gloss: прыгнуть.pf.f
  paradigm: VERB
  trans_ru: прыгнуть, взлететь, убежать
 
 -lexeme
- lex: zidār
+ lex: zibidow
+ stem: .zibidow.
+ gramm: inf1,v
+ gloss: прыгнуть.inf1
+ paradigm: VERB
+ trans_ru: прыгнуть, взлететь, убежать
+
+-lexeme
+ lex: zibidow
+ stem: .zibid.
+ gramm: inf2,v
+ gloss: прыгнуть.inf2
+ paradigm: VERB
+ trans_ru: прыгнуть, взлететь, убежать
+
+-lexeme
+ lex: zidegow
  stem: .zidār.
  gramm: npst,v
  gloss: подметать.npst
@@ -3682,7 +3826,7 @@
  trans_ru: подметать
 
 -lexeme
- lex: zidūg
+ lex: zidegow
  stem: .zidūg.
  gramm: pst,v
  gloss: подметать.pst
@@ -3690,23 +3834,39 @@
  trans_ru: подметать
 
 -lexeme
- lex: zidḗrd
- stem: .zidḗrd.
+ lex: zidegow
+ stem: .ziderd.
  gramm: 3sg,npst,v
- gloss: подметать.3sg.npst
+ gloss: подметать.npst.3sg
  paradigm: VERB
  trans_ru: подметать
 
 -lexeme
- lex: zidū́ǰ
- stem: .zidū́ǰ.
+ lex: zidegow
+ stem: .zidūǰ.
  gramm: pf,v
  gloss: подметать.pf
  paradigm: VERB
  trans_ru: подметать
 
 -lexeme
- lex: zidarδ
+ lex: zidegow
+ stem: .zidegow.
+ gramm: inf1,v
+ gloss: подметать.inf1
+ paradigm: VERB
+ trans_ru: подметать
+
+-lexeme
+ lex: zidegow
+ stem: .zideg.
+ gramm: inf2,v
+ gloss: подметать.inf2
+ paradigm: VERB
+ trans_ru: подметать
+
+-lexeme
+ lex: zidix̆tow
  stem: .zidarδ.
  gramm: npst,v
  gloss: разрываться.npst
@@ -3714,31 +3874,71 @@
  trans_ru: разрываться, обрываться, рваться
 
 -lexeme
- lex: zidúx̆č
- stem: .zidúx̆č.
+ lex: zidix̆tow
+ stem: .zidarδd.
+ gramm: 3sg,npst,v
+ gloss: разрываться.npst.3sg
+ paradigm: VERB
+ trans_ru: разрываться, обрываться, рваться
+
+-lexeme
+ lex: zidix̆tow
+ stem: .zidux̆t.
+ gramm: pst,v
+ gloss: разрываться.pst
+ paradigm: VERB
+ trans_ru: разрываться, обрываться, рваться
+
+-lexeme
+ lex: zidix̆tow
+ stem: .zidax̆t.
+ gramm: f,pl,pst,v
+ gloss: разрываться.pst
+ paradigm: VERB
+ trans_ru: разрываться, обрываться, рваться
+
+-lexeme
+ lex: zidix̆tow
+ stem: .zidux̆č.
  gramm: pf,m,v
  gloss: разрываться.pf.m
  paradigm: VERB
  trans_ru: разрываться, обрываться, рваться
 
 -lexeme
- lex: zidáx̆č
- stem: .zidáx̆č.
- gramm: pf,mн,v
- gloss: разрываться.pf.mн
+ lex: zidix̆tow
+ stem: .zidax̆č.
+ gramm: pf,pl,v
+ gloss: разрываться.pf.pl
  paradigm: VERB
  trans_ru: разрываться, обрываться, рваться
 
 -lexeme
- lex: zidíx̆c
- stem: .zidíx̆c.
+ lex: zidix̆tow
+ stem: .zidix̆c.
  gramm: pf,f,v
  gloss: разрываться.pf.f
  paradigm: VERB
  trans_ru: разрываться, обрываться, рваться
 
 -lexeme
- lex: zinī
+ lex: zidix̆tow
+ stem: .zidix̆tow.
+ gramm: inf1,v
+ gloss: разрываться.inf1
+ paradigm: VERB
+ trans_ru: разрываться, обрываться, рваться
+
+-lexeme
+ lex: zidix̆tow
+ stem: .zidix̆t.
+ gramm: inf2,v
+ gloss: разрываться.inf2
+ paradigm: VERB
+ trans_ru: разрываться, обрываться, рваться
+
+-lexeme
+ lex: zinedow
  stem: .zinī.
  gramm: npst,v
  gloss: мыть.npst
@@ -3746,55 +3946,143 @@
  trans_ru: мыть, умывать
 
 -lexeme
- lex: zinṓǰ
- stem: .zinṓǰ.
+ lex: zinedow
+ stem: .zinīd.
+ gramm: 3sg,npst,v
+ gloss: мыть.npst.3sg
+ paradigm: VERB
+ trans_ru: мыть, умывать
+
+-lexeme
+ lex: zinedow
+ stem: .zinod.
+ gramm: pst,v
+ gloss: мыть.pst
+ paradigm: VERB
+ trans_ru: мыть, умывать
+
+-lexeme
+ lex: zinedow
+ stem: .zinoǰ.
  gramm: pf,v
  gloss: мыть.pf
  paradigm: VERB
  trans_ru: мыть, умывать
 
 -lexeme
- lex: ziwōδ
- stem: .ziwōδ.
+ lex: zinedow
+ stem: .zinedow.
+ gramm: inf1,v
+ gloss: мыть.inf1
+ paradigm: VERB
+ trans_ru: мыть, умывать
+
+-lexeme
+ lex: zinedow
+ stem: .zined.
+ gramm: inf2,v
+ gloss: мыть.inf2
+ paradigm: VERB
+ trans_ru: мыть, умывать
+
+-lexeme
+ lex: ziwestow
+ stem: .ziwoδ.
  gramm: npst,v
  gloss: вытаскивать.npst
  paradigm: VERB
  trans_ru: вытаскивать, вынимать, извлекать
 
 -lexeme
- lex: ziwōst, бс. также zuwōδ:zuwōst
- stem: .ziwōst, бс. также zuwōδ:zuwōst.
+ lex: ziwestow
+ stem: .ziwoδd.
+ gramm: 3sg,npst,v
+ gloss: вытаскивать.npst.3sg
+ paradigm: VERB
+ trans_ru: вытаскивать, вынимать, извлекать
+
+-lexeme
+ lex: ziwestow
+ stem: .ziwost.|.zuwost.
  gramm: pst,v
  gloss: вытаскивать.pst
  paradigm: VERB
  trans_ru: вытаскивать, вынимать, извлекать
 
 -lexeme
- lex: ziwṓsč
- stem: .ziwṓsč.
+ lex: ziwestow
+ stem: .ziwosč.
  gramm: pf,v
  gloss: вытаскивать.pf
  paradigm: VERB
  trans_ru: вытаскивать, вынимать, извлекать
 
 -lexeme
- lex: ziyū(y)
- stem: .ziyū(y).
+ lex: ziwestow
+ stem: .ziwestow.
+ gramm: inf1,v
+ gloss: вытаскивать.inf1
+ paradigm: VERB
+ trans_ru: вытаскивать, вынимать, извлекать
+
+-lexeme
+ lex: ziwestow
+ stem: .ziwest.
+ gramm: inf2,v
+ gloss: вытаскивать.inf2
+ paradigm: VERB
+ trans_ru: вытаскивать, вынимать, извлекать
+
+-lexeme
+ lex: ziyix̌tow
+ stem: .ziyū.|.ziyūy.
  gramm: npst,v
  gloss: вянуть.npst
  paradigm: VERB
  trans_ru: вянуть, засыхать
 
 -lexeme
- lex: ziyáx̌č
- stem: .ziyáx̌č.
- gramm: pf,mн,v
- gloss: вянуть.pf.mн
+ lex: ziyix̌tow
+ stem: .ziyūd.
+ gramm: 3sg,npst,v
+ gloss: вянуть.npst.3sg
  paradigm: VERB
  trans_ru: вянуть, засыхать
 
 -lexeme
- lex: ziyix̌č
+ lex: ziyix̌tow
+ stem: .ziyuxt.
+ gramm: pst,v
+ gloss: вянуть.pst
+ paradigm: VERB
+ trans_ru: вянуть, засыхать
+
+-lexeme
+ lex: ziyix̌tow
+ stem: .ziyax̌t.
+ gramm: f,pl,pst,v
+ gloss: вянуть.pst
+ paradigm: VERB
+ trans_ru: вянуть, засыхать
+
+-lexeme
+ lex: ziyix̌tow
+ stem: .ziyax̌t.
+ gramm: pl,pf,v
+ gloss: вянуть.pf.pl
+ paradigm: VERB
+ trans_ru: вянуть, засыхать
+
+-lexeme
+ lex: ziyix̌tow
+ stem: .ziyax̌č.
+ gramm: pf,pl,v
+ gloss: вянуть.pf.pl
+ paradigm: VERB
+ trans_ru: вянуть, засыхать
+
+-lexeme
+ lex: ziyix̌tow
  stem: .ziyix̌č.
  gramm: pf,f,v
  gloss: вянуть.pf.f
@@ -3802,23 +4090,71 @@
  trans_ru: вянуть, засыхать
 
 -lexeme
- lex: zōz
- stem: .zōz.
+ lex: ziyix̌tow
+ stem: .ziyix̌tow.
+ gramm: inf1,v
+ gloss: вянуть.inf1
+ paradigm: VERB
+ trans_ru: вянуть, засыхать
+
+-lexeme
+ lex: ziyix̌tow
+ stem: .ziyix̌t.
+ gramm: inf2,v
+ gloss: вянуть.inf2
+ paradigm: VERB
+ trans_ru: вянуть, засыхать
+
+-lexeme
+ lex: zex̆tow
+ stem: .zoz.
  gramm: npst,v
  gloss: брать.npst
  paradigm: VERB
  trans_ru: брать
 
 -lexeme
- lex: zōx̆c
- stem: .zōx̆c.
+ lex: zex̆tow
+ stem: .zozd.
+ gramm: 3sg,npst,v
+ gloss: брать.npst.3sg
+ paradigm: VERB
+ trans_ru: брать
+
+-lexeme
+ lex: zex̆tow
+ stem: .zox̆t.
+ gramm: pst,v
+ gloss: брать.pst
+ paradigm: VERB
+ trans_ru: брать
+
+-lexeme
+ lex: zex̆tow
+ stem: .zox̆c.
  gramm: pf,v
  gloss: брать.pf
  paradigm: VERB
  trans_ru: брать
 
 -lexeme
- lex: žaq
+ lex: zex̆tow
+ stem: .zex̆tow.
+ gramm: inf1,v
+ gloss: брать.inf1
+ paradigm: VERB
+ trans_ru: брать
+
+-lexeme
+ lex: zex̆tow
+ stem: .zex̆t.
+ gramm: inf2,v
+ gloss: брать.inf2
+ paradigm: VERB
+ trans_ru: брать
+
+-lexeme
+ lex: žaqtow
  stem: .žaq.
  gramm: npst,v
  gloss: давить.npst
@@ -3826,7 +4162,23 @@
  trans_ru: давить, жать
 
 -lexeme
- lex: žaqč
+ lex: žaqtow
+ stem: .žaqt.
+ gramm: 3sg,npst,v
+ gloss: давить.npst.3sg
+ paradigm: VERB
+ trans_ru: давить, жать
+
+-lexeme
+ lex: žaqtow
+ stem: .žaqt.
+ gramm: pst,v
+ gloss: давить.pst
+ paradigm: VERB
+ trans_ru: давить, жать
+
+-lexeme
+ lex: žaqtow
  stem: .žaqč.
  gramm: pf,v
  gloss: давить.pf
@@ -3834,7 +4186,23 @@
  trans_ru: давить, жать
 
 -lexeme
- lex: žirāw
+ lex: žaqtow
+ stem: .žaqtow.
+ gramm: inf1,v
+ gloss: давить.inf1
+ paradigm: VERB
+ trans_ru: давить, жать
+
+-lexeme
+ lex: žaqtow
+ stem: .žaqt.
+ gramm: inf2,v
+ gloss: давить.inf2
+ paradigm: VERB
+ trans_ru: давить, жать
+
+-lexeme
+ lex: žirix̌tow
  stem: .žirāw.
  gramm: npst,v
  gloss: кусать.npst
@@ -3842,55 +4210,143 @@
  trans_ru: кусать, жалить
 
 -lexeme
- lex: žōz
- stem: .žōz.
+ lex: žirix̌tow
+ stem: .žirāwd.
+ gramm: 3sg,npst,v
+ gloss: кусать.npst.3sg
+ paradigm: VERB
+ trans_ru: кусать, жалить
+
+-lexeme
+ lex: žirix̌tow
+ stem: .žirux̌t.
+ gramm: pst,v
+ gloss: кусать.pst
+ paradigm: VERB
+ trans_ru: кусать, жалить
+
+-lexeme
+ lex: žirix̌tow
+ stem: .žirux̌č.
+ gramm: pf,v
+ gloss: кусать.pf
+ paradigm: VERB
+ trans_ru: кусать, жалить
+
+-lexeme
+ lex: žirix̌tow
+ stem: .žirix̌tow.
+ gramm: inf1,v
+ gloss: кусать.inf1
+ paradigm: VERB
+ trans_ru: кусать, жалить
+
+-lexeme
+ lex: žirix̌tow
+ stem: .žirix̌t.
+ gramm: inf2,v
+ gloss: кусать.inf2
+ paradigm: VERB
+ trans_ru: кусать, жалить
+
+-lexeme
+ lex: žex̆tow
+ stem: .žoz.
  gramm: npst,v
  gloss: бeжать.npst
  paradigm: VERB
  trans_ru: бeжать, убегать
 
 -lexeme
- lex: žēx̆č
- stem: .žēx̆č.
+ lex: žex̆tow
+ stem: .žozd.
+ gramm: 3sg,npst,v
+ gloss: бeжать.npst.3sg
+ paradigm: VERB
+ trans_ru: бeжать, убегать
+
+-lexeme
+ lex: žex̆tow
+ stem: .žox̆t.|.žex̆t.
+ gramm: pst,v
+ gloss: бeжать.pst
+ paradigm: VERB
+ trans_ru: бeжать, убегать
+
+-lexeme
+ lex: žex̆tow
+ stem: .žex̆č.
  gramm: pf,v
  gloss: бeжать.pf
  paradigm: VERB
  trans_ru: бeжать, убегать
 
 -lexeme
- lex: parδāδ
- stem: .parδāδ.
+ lex: žex̆tow
+ stem: .žex̆tow.
+ gramm: inf1,v
+ gloss: бeжать.inf1
+ paradigm: VERB
+ trans_ru: бeжать, убегать
+
+-lexeme
+ lex: žex̆tow
+ stem: .žex̆t.
+ gramm: inf2,v
+ gloss: бeжать.inf2
+ paradigm: VERB
+ trans_ru: бeжать, убегать
+
+-lexeme
+ lex: parδedow
+ stem: .parδāδ.|.paraδaδ.
  gramm: npst,v
  gloss: продавать.npst
  paradigm: VERB
  trans_ru: продавать
 
 -lexeme
- lex: parδōd, paraδáδ : paraδōd
- stem: .parδōd, paraδáδ : paraδōd.
+ lex: parδedow
+ stem: .parδod.|.paraδod.
  gramm: pst,v
  gloss: продавать.pst
  paradigm: VERB
  trans_ru: продавать
 
 -lexeme
- lex: parδḗt
- stem: .parδḗt.
+ lex: parδedow
+ stem: .parδet.
  gramm: 3sg,npst,v
- gloss: продавать.3sg.npst
+ gloss: продавать.npst.3sg
  paradigm: VERB
  trans_ru: продавать
 
 -lexeme
- lex: parδṓǰ
- stem: .parδṓǰ.
+ lex: parδedow
+ stem: .parδoǰ.
  gramm: pf,v
  gloss: продавать.pf
  paradigm: VERB
  trans_ru: продавать
 
 -lexeme
- lex: parɣand
+ lex: parδedow
+ stem: .parδedow.
+ gramm: inf1,v
+ gloss: продавать.inf1
+ paradigm: VERB
+ trans_ru: продавать
+
+-lexeme
+ lex: parδedow
+ stem: .parδed.
+ gramm: inf2,v
+ gloss: продавать.inf2
+ paradigm: VERB
+ trans_ru: продавать
+
+-lexeme
+ lex: parɣustow
  stem: .parɣand.
  gramm: npst,v
  gloss: ударять.npst
@@ -3898,7 +4354,7 @@
  trans_ru: ударять, бить
 
 -lexeme
- lex: parɣust
+ lex: parɣustow
  stem: .parɣust.
  gramm: pst,v
  gloss: ударять.pst
@@ -3906,84 +4362,140 @@
  trans_ru: ударять, бить
 
 -lexeme
- lex: parɣī́nt
- stem: .parɣī́nt.
+ lex: parɣustow
+ stem: .parɣīnt.
  gramm: 3sg,npst,v
- gloss: ударять.3sg.npst
+ gloss: ударять.npst.3sg
  paradigm: VERB
  trans_ru: ударять, бить
 
 -lexeme
- lex: parɣúsč
- stem: .parɣúsč.
+ lex: parɣustow
+ stem: .parɣusč.
  gramm: pf,v
  gloss: ударять.pf
  paradigm: VERB
  trans_ru: ударять, бить
 
 -lexeme
- lex: parǰēv
- stem: .parǰēv.
- gramm: npst,v
- gloss: брать у кого-либо.npst
+ lex: parɣustow
+ stem: .parɣustow.
+ gramm: inf1,v
+ gloss: ударять.inf1
  paradigm: VERB
- trans_ru: брать у кого-либо
+ trans_ru: ударять, бить
 
 -lexeme
- lex: parǰūvd
+ lex: parɣustow
+ stem: .parɣust.
+ gramm: inf2,v
+ gloss: ударять.inf2
+ paradigm: VERB
+ trans_ru: ударять, бить
+
+-lexeme
+ lex: parǰevdow
+ stem: .parǰev.
+ gramm: npst,v
+ gloss: брать.npst
+ paradigm: VERB
+ trans_ru: брать у кого-либо, отбирать
+
+-lexeme
+ lex: parǰevdow
  stem: .parǰūvd.
  gramm: pst,v
- gloss: брать у кого-либо.pst
+ gloss: брать.pst
  paradigm: VERB
- trans_ru: брать у кого-либо
+ trans_ru: брать у кого-либо, отбирать
 
 -lexeme
- lex: parǰēvd
- stem: .parǰēvd.
+ lex: parǰevdow
+ stem: .parǰevd.
  gramm: 3sg,npst,v
- gloss: брать у кого-либо.3sg.npst
+ gloss: брать.npst.3sg
  paradigm: VERB
- trans_ru: брать у кого-либо
+ trans_ru: брать у кого-либо, отбирать
 
 -lexeme
- lex: parǰū́vǰ
- stem: .parǰū́vǰ.
+ lex: parǰevdow
+ stem: .parǰūvǰ.
  gramm: pf,v
- gloss: брать у кого-либо.pf
+ gloss: брать.pf
  paradigm: VERB
- trans_ru: брать у кого-либо
+ trans_ru: брать у кого-либо, отбирать
 
 -lexeme
- lex: pataw
+ lex: parǰevdow
+ stem: .parǰevdow.
+ gramm: inf1,v
+ gloss: брать.inf1
+ paradigm: VERB
+ trans_ru: брать у кого-либо, отбирать
+
+-lexeme
+ lex: parǰevdow
+ stem: .parǰevd.
+ gramm: inf2,v
+ gloss: брать.inf2
+ paradigm: VERB
+ trans_ru: брать у кого-либо, отбирать
+
+-lexeme
+ lex: patawdow
  stem: .pataw.
  gramm: npst,v
- gloss: .npst
+ gloss: бросать.npst
  paradigm: VERB
- trans_ru: 
+ trans_ru: бросать, кидать
 
 -lexeme
- lex: patawd
+ lex: patawdow
  stem: .patawd.
  gramm: pst,v
- gloss: .pst
+ gloss: бросать.pst
  paradigm: VERB
- trans_ru: 
+ trans_ru: бросать, кидать
 
 -lexeme
- lex: patáwd
- stem: .patáwd.
+ lex: patawdow
+ stem: .patawd.
  gramm: 3sg,npst,v
- gloss: .3sg.npst
+ gloss: бросать.3sg.npst
  paradigm: VERB
- trans_ru: 
+ trans_ru: бросать, кидать
 
 -lexeme
- lex: pātáwǰ
- stem: .pātáwǰ.
+ lex: patawdow
+ stem: .pātawǰ.
  gramm: pf,v
- gloss: .pf
+ gloss: бросать.pf
  paradigm: VERB
- trans_ru: 
+ trans_ru: бросать, кидать
+
+-lexeme
+ lex: patawdow
+ stem: .pata.
+ gramm: imp,v
+ gloss: бросать.imp
+ paradigm: VERB
+ trans_ru: бросать, кидать
+
+-lexeme
+ lex: patawdow
+ stem: .patawdow.
+ gramm: inf1,v
+ gloss: бросать.inf1
+ paradigm: VERB
+ trans_ru: бросать, кидать
+
+-lexeme
+ lex: patawdow
+ stem: .patawd.
+ gramm: inf2,v
+ gloss: бросать.inf2
+ paradigm: VERB
+ trans_ru: бросать, кидать
 
 -lexeme
  lex: pāws
