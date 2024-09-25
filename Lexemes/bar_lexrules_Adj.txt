@@ -505,450 +505,266 @@
 -lexeme
  lex: zaxmī
  stem: .zaxmī.
- gramm: m,adj
- gloss: ранение.m
+ gramm: adj
+ gloss: раненый
  paradigm: ADJ
- trans_ru: ранение
+ trans_ru: раненый
 
 -lexeme
  lex: zindā
  stem: .zindā.
- gramm: m,adj
- gloss: живой.m
+ gramm: adj
+ gloss: живой
  paradigm: ADJ
  trans_ru: живой
 
 -lexeme
  lex: zīrd
  stem: .zīrd.
- gramm: m,adj
- gloss: желтый..m
+ gramm: adj
+ gloss: желтый
  paradigm: ADJ
- trans_ru: желтый.
+ trans_ru: желтый
 
 -lexeme
  lex: zulm
  stem: .zulm.
- gramm: m,adj
- gloss: жестокий.m
+ gramm: adj
+ gloss: жестокий
  paradigm: ADJ
  trans_ru: жестокий
 
 -lexeme
  lex: zūr
  stem: .zūr.
- gramm: m,adj
- gloss: сильный.m
+ gramm: adj
+ gloss: сильный
  paradigm: ADJ
  trans_ru: сильный
 
 -lexeme
  lex: pāst
  stem: .pāst.
- gramm: m,adj
- gloss: низкий.m
- paradigm: ADJ
- trans_ru: низкий
-
--lexeme
- lex: pāst
- stem: .pāst.
- gramm: m,adj
- gloss: низкий.m
+ gramm: adj
+ gloss: низкий
  paradigm: ADJ
  trans_ru: низкий
 
 -lexeme
  lex: piδo
  stem: .piδo.
- gramm: m,adj
- gloss: видимый.m
+ gramm: adj
+ gloss: видимый
  paradigm: ADJ
- trans_ru: видимый
+ trans_ru: видимый, явный, зримый
 
 -lexeme
  lex: dīr
  stem: .dīr.
- gramm: m,adj
- gloss: поздний.m
+ gramm: adj
+ gloss: поздний
  paradigm: ADJ
- trans_ru: поздний
+ trans_ru: поздний, поздно
 
 -lexeme
- lex: dondö
- stem: .dondö.
- gramm: m,adj
- gloss: маленький.m
+ lex: dondök
+ stem: .dondök.
+ gramm: adj
+ gloss: маленький
  paradigm: ADJ
- trans_ru: маленький
+ trans_ru: маленький, ничтожный
 
 -lexeme
  lex: piro
  stem: .piro.
- gramm: m,adj
- gloss: перед.m
+ gramm: adj
+ gloss: перед
  paradigm: ADJ
- trans_ru: перед
+ trans_ru: первый, прежний
 
 -lexeme
  lex: pirokī
  stem: .pirokī.
- gramm: m,adj
- gloss: раньше.m
+ gramm: adj
+ gloss: прежний
  paradigm: ADJ
- trans_ru: раньше
+ trans_ru: прежний
 
 -lexeme
  lex: pironīnj
  stem: .pironīnj.
- gramm: m,adj
- gloss: ik-tar wī pironī́nǰ ǰoy приближаются к тому прежнему месту.m
+ gramm: adj
+ gloss: прежний
  paradigm: ADJ
- trans_ru: ik-tar wī pironī́nǰ ǰoy приближаются к тому прежнему месту
+ trans_ru: прежний; передний
 
 -lexeme
  lex: duyum
  stem: .duyum.
- gramm: m,adj
- gloss: второй.m
+ gramm: adj
+ gloss: второй
  paradigm: ADJ
- trans_ru: второй
+ trans_ru: второй, во-вторых
 
 -lexeme
  lex: δar
  stem: .δar.
- gramm: m,adj
- gloss: далеко.m
+ gramm: adj
+ gloss: дальний
  paradigm: ADJ
- trans_ru: далеко
+ trans_ru: далеко, дальний, далекий
 
 -lexeme
  lex: gandā
  stem: .gandā.
- gramm: m,adj
- gloss: плохой.m
+ gramm: adj
+ gloss: плохой
  paradigm: ADJ
  trans_ru: плохой
 
 -lexeme
- lex: γāfs
- stem: .γāfs.
- gramm: m,adj
- gloss: толстый.m
+ lex: ɣāfs
+ stem: .ɣāfs.
+ gramm: adj
+ gloss: толстый
  paradigm: ADJ
  trans_ru: толстый
 
 -lexeme
- lex: γāfs
- stem: .γāfs.
- gramm: m,adj
- gloss: толстый.m
+ lex: ɣoib
+ stem: .ɣoib.
+ gramm: adj
+ gloss: отсутствующий
  paradigm: ADJ
- trans_ru: толстый
-
--lexeme
- lex: γāfs
- stem: .γāfs.
- gramm: m,adj
- gloss: толстый.m
- paradigm: ADJ
- trans_ru: толстый
-
--lexeme
- lex: γoib
- stem: .γoib.
- gramm: m,adj
- gloss: не видимый.m
- paradigm: ADJ
- trans_ru: не видимый
+ trans_ru: не видимый, не на глазах, отсутствующий
 
 -lexeme
  lex: ilaboz
  stem: .ilaboz.
- gramm: m,adj
- gloss: хитрый.m
+ gramm: adj
+ gloss: хитрый
  paradigm: ADJ
- trans_ru: хитрый
-
--lexeme
- lex: ilaboz
- stem: .ilaboz.
- gramm: m,adj
- gloss: хитрый.m
- paradigm: ADJ
- trans_ru: хитрый
-
--lexeme
- lex: ilakor
- stem: .ilakor.
- gramm: m,adj
- gloss: хитрый.m
- paradigm: ADJ
- trans_ru: хитрый
-
--lexeme
- lex: ilakor
- stem: .ilakor.
- gramm: m,adj
- gloss: хитрый.m
- paradigm: ADJ
- trans_ru: хитрый
+ trans_ru: хитрый, коварный
 
 -lexeme
  lex: qoq
  stem: .qoq.
- gramm: m,adj
- gloss: сухой.m
+ gramm: adj
+ gloss: сухой
  paradigm: ADJ
- trans_ru: сухой
+ trans_ru: сухой, высохший, засохший
 
 -lexeme
  lex: ǰawonmard
  stem: .ǰawonmard.
- gramm: m,adj
- gloss: молодой.m
+ gramm: adj
+ gloss: молодой
  paradigm: ADJ
- trans_ru: молодой
+ trans_ru: молодой, молодец
 
 -lexeme
  lex: ǰuwon
- stem: .ǰuwon.
- gramm: m,adj
- gloss: молодой.m
+ stem: .ǰuwon.|.ǰiwon.
+ gramm: adj
+ gloss: молодой
  paradigm: ADJ
  trans_ru: молодой
 
 -lexeme
- lex: ǰuwon
- stem: .ǰuwon.
- gramm: m,adj
- gloss: молодой.m
- paradigm: ADJ
- trans_ru: молодой
-
--lexeme
- lex: ǰuwon
- stem: .ǰuwon.
- gramm: m,adj
- gloss: молодой.m
- paradigm: ADJ
- trans_ru: молодой
-
--lexeme
- lex: ӡul
- stem: .ӡul.
- gramm: m,adj
- gloss: маленький.m
+ lex: ʒul
+ stem: .ʒul.|.ʒil.
+ gramm: adj
+ gloss: маленький
  paradigm: ADJ
  trans_ru: маленький
 
 -lexeme
- lex: ӡil
- stem: .ӡil.
- gramm: f,adj
- gloss: маленький.f
- paradigm: ADJ
- trans_ru: маленький
-
--lexeme
- lex: ӡul
- stem: .ӡul.
- gramm: m,adj
- gloss: маленький.m
- paradigm: ADJ
- trans_ru: маленький
-
--lexeme
- lex: ӡil
- stem: .ӡil.
- gramm: f,adj
- gloss: маленький.f
- paradigm: ADJ
- trans_ru: маленький
-
--lexeme
- lex: рв
- stem: .рв.
- gramm: m,adj
- gloss: старший.m
+ lex: kaltā
+ stem: .kaltā.
+ gramm: adj
+ gloss: старший
  paradigm: ADJ
  trans_ru: старший
 
 -lexeme
- lex: kambaγal
- stem: .kambaγal.
- gramm: m,adj
- gloss: (р.) бедняк.m
+ lex: kambaɣal
+ stem: .kambaɣal.
+ gramm: adj
+ gloss: бедный
  paradigm: ADJ
- trans_ru: (р.) бедняк
+ trans_ru: бедняк, бедный
 
 -lexeme
  lex: kamī
  stem: .kamī.
- gramm: m,adj
- gloss: нехватка.m
+ gramm: adj
+ gloss: нехватка
  paradigm: ADJ
- trans_ru: нехватка
+ trans_ru: нехватка, недостача
 
 -lexeme
  lex: kaš
  stem: .kaš.
- gramm: m,adj
- gloss: горячий.m
+ gramm: adj
+ gloss: горячий
  paradigm: ADJ
  trans_ru: горячий
 
 -lexeme
- lex: kat
- stem: .kat.
- gramm: m,adj
- gloss: большой.m
- paradigm: ADJ
- trans_ru: большой
-
--lexeme
- lex: kat
- stem: .kat.
- gramm: m,adj
- gloss: большой.m
+ lex: kattā
+ stem: .kattā.|.katā.
+ gramm: adj
+ gloss: большой
  paradigm: ADJ
  trans_ru: большой
 
 -lexeme
  lex: kut
- stem: .kut.
- gramm: m,adj
- gloss: короткий..m
+ stem: .kut.|.kat.
+ gramm: adj
+ gloss: короткий.m|короткий.f
  paradigm: ADJ
- trans_ru: короткий.
-
--lexeme
- lex: kat
- stem: .kat.
- gramm: f,adj
- gloss: короткий..f
- paradigm: ADJ
- trans_ru: короткий.
-
--lexeme
- lex: kut
- stem: .kut.
- gramm: m,adj
- gloss: короткий..m
- paradigm: ADJ
- trans_ru: короткий.
-
--lexeme
- lex: kat
- stem: .kat.
- gramm: f,adj
- gloss: короткий..f
- paradigm: ADJ
- trans_ru: короткий.
-
--lexeme
- lex: kat
- stem: .kat.
- gramm: m,adj
- gloss: ж. к kut короткий..m
- paradigm: ADJ
- trans_ru: ж. к kut короткий.
-
--lexeme
- lex: к
- stem: .к.
- gramm: f,adj
- gloss: ж. к kut короткий..f
- paradigm: ADJ
- trans_ru: ж. к kut короткий.
+ trans_ru: короткий
 
 -lexeme
  lex: kilūl
  stem: .kilūl.
- gramm: m,adj
- gloss: шаровидный.m
+ gramm: adj
+ gloss: шаровидный
  paradigm: ADJ
- trans_ru: шаровидный
+ trans_ru: шаровидный, круглый; свернутый
 
 -lexeme
  lex: könā
  stem: .könā.
- gramm: m,adj
- gloss: старый.m
+ gramm: adj
+ gloss: старый
  paradigm: ADJ
- trans_ru: старый
-
--lexeme
- lex: könā
- stem: .könā.
- gramm: m,adj
- gloss: старый.m
- paradigm: ADJ
- trans_ru: старый
+ trans_ru: старый, ветхий
 
 -lexeme
  lex: kūr
  stem: .kūr.
- gramm: m,adj
- gloss: слепой.m
+ gramm: adj
+ gloss: слепой
  paradigm: ADJ
  trans_ru: слепой
 
 -lexeme
  lex: kurc
  stem: .kurc.
- gramm: m,adj
- gloss: углубленный.m
+ gramm: adj
+ gloss: углубленный
  paradigm: ADJ
- trans_ru: углубленный
+ trans_ru: углубленный, вогнутый
 
 -lexeme
  lex: löq
- stem: .löq.
- gramm: m,adj
- gloss: изношенный.m
+ stem: .löq.|.leq.
+ gramm: adj
+ gloss: изношенный.m|изношенный.f
  paradigm: ADJ
- trans_ru: изношенный
-
--lexeme
- lex: leq
- stem: .leq.
- gramm: f,adj
- gloss: изношенный.f
- paradigm: ADJ
- trans_ru: изношенный
-
--lexeme
- lex: löq
- stem: .löq.
- gramm: m,adj
- gloss: изношенный.m
- paradigm: ADJ
- trans_ru: изношенный
-
--lexeme
- lex: leq
- stem: .leq.
- gramm: f,adj
- gloss: изношенный.f
- paradigm: ADJ
- trans_ru: изношенный
-
--lexeme
- lex: löq
- stem: .löq.
- gramm: m,adj
- gloss: изношенный.m
- paradigm: ADJ
- trans_ru: изношенный
-
--lexeme
- lex: leq
- stem: .leq.
- gramm: f,adj
- gloss: изношенный.f
- paradigm: ADJ
- trans_ru: изношенный
+ trans_ru: изношенный, ветхий
 
 -lexeme
  lex: lo
@@ -959,241 +775,185 @@
  trans_ru: соответствующий
 
 -lexeme
- lex: lo
- stem: .lo.
- gramm: m,adj
- gloss: соответствующий.m
+ lex: loiq
+ stem: .loiq.|.loyiq.
+ gramm: adj
+ gloss: соответствующий
  paradigm: ADJ
- trans_ru: соответствующий
+ trans_ru: соответствующий, достойный, подходящий
 
 -lexeme
  lex: lošā
  stem: .lošā.
- gramm: m,adj
- gloss: худой.m
+ gramm: adj
+ gloss: худой
  paradigm: ADJ
- trans_ru: худой
+ trans_ru: худой, тощий
 
 -lexeme
  lex: maδenc
- stem: .maδenc.
- gramm: m,adj
- gloss: средний (по годам).m
- paradigm: ADJ
- trans_ru: средний (по годам)
-
--lexeme
- lex: maδenc
- stem: .maδenc.
- gramm: m,adj
- gloss: средний (по годам).m
- paradigm: ADJ
- trans_ru: средний (по годам)
-
--lexeme
- lex: maδenc
- stem: .maδenc.
- gramm: m,adj
- gloss: средний (по годам).m
+ stem: .maδenc.|.maδenʒ.
+ gramm: adj
+ gloss: средний
  paradigm: ADJ
  trans_ru: средний (по годам)
 
 -lexeme
  lex: qadīm
  stem: .qadīm.
- gramm: m,adj
- gloss: старый.m
+ gramm: adj
+ gloss: старый
  paradigm: ADJ
  trans_ru: старый
 
 -lexeme
  lex: qīn
  stem: .qīn.
- gramm: m,adj
- gloss: трудный.m
+ gramm: adj
+ gloss: трудный
  paradigm: ADJ
- trans_ru: трудный
+ trans_ru: трудный, затруднительный
 
 -lexeme
  lex: qobil
  stem: .qobil.
- gramm: m,adj
- gloss: согласный.m
+ gramm: adj
+ gloss: согласный
  paradigm: ADJ
  trans_ru: согласный
-
--lexeme
- lex: qoq
- stem: .qoq.
- gramm: m,adj
- gloss: сухой.m
- paradigm: ADJ
- trans_ru: сухой
 
 -lexeme
  lex: mast
  stem: .mast.
- gramm: m,adj
- gloss: пьяный.m
+ gramm: adj
+ gloss: пьяный
  paradigm: ADJ
- trans_ru: пьяный
+ trans_ru: пьяный, опьяненный, возбужденный
 
 -lexeme
  lex: rasidā
  stem: .rasidā.
- gramm: m,adj
- gloss: в заимствованном выражении ау qazo rasidā! о несчастный.m
+ gramm: adj
+ gloss: несчастный
  paradigm: ADJ
- trans_ru: в заимствованном выражении ау qazo rasidā! о несчастный
+ trans_ru: о несчастный!
 
 -lexeme
  lex: rawon
  stem: .rawon.
- gramm: m,adj
- gloss: отправляющийся.m
+ gramm: adj
+ gloss: отправляющийся
  paradigm: ADJ
- trans_ru: отправляющийся
+ trans_ru: отправляющийся, направляющийся, идущий
 
 -lexeme
  lex: rizo
  stem: .rizo.
- gramm: m,adj
- gloss: согласный.m
+ gramm: adj
+ gloss: согласный
  paradigm: ADJ
- trans_ru: согласный
+ trans_ru: согласный, соглашающийся
 
 -lexeme
  lex: rost
  stem: .rost.
- gramm: m,adj
- gloss: прямой.m
+ gramm: adj
+ gloss: прямой
  paradigm: ADJ
  trans_ru: прямой
 
 -lexeme
  lex: roze
  stem: .roze.
- gramm: m,adj
- gloss: согласный.m
+ gramm: adj
+ gloss: согласный
  paradigm: ADJ
  trans_ru: согласный
 
 -lexeme
  lex: sarosīmā
  stem: .sarosīmā.
- gramm: m,adj
- gloss: расстроенный.m
+ gramm: adj
+ gloss: расстроенный
  paradigm: ADJ
- trans_ru: расстроенный
+ trans_ru: расстроенный, растерянный, вне себя
 
 -lexeme
  lex: sarpiro
  stem: .sarpiro.
- gramm: m,adj
- gloss: сначала.m
+ gramm: adj
+ gloss: сначала
  paradigm: ADJ
  trans_ru: сначала
 
 -lexeme
- lex: sāvӡ
- stem: .sāvӡ.
- gramm: m,adj
- gloss: зеленый.m
- paradigm: ADJ
- trans_ru: зеленый
-
--lexeme
- lex: sāvӡ
- stem: .sāvӡ.
- gramm: m,adj
- gloss: зеленый.m
+ lex: sāvʒ
+ stem: .sāvʒ.
+ gramm: adj
+ gloss: зеленый
  paradigm: ADJ
  trans_ru: зеленый
 
 -lexeme
  lex: saxrā
  stem: .saxrā.
- gramm: m,adj
- gloss: навязчивый.m
+ gramm: adj
+ gloss: навязчивый
  paradigm: ADJ
- trans_ru: навязчивый
+ trans_ru: навязчивый, надоедливый
 
 -lexeme
  lex: sīr
  stem: .sīr.
- gramm: m,adj
- gloss: сытый.m
+ gramm: adj
+ gloss: сытый
  paradigm: ADJ
  trans_ru: сытый
 
 -lexeme
  lex: siyo
  stem: .siyo.
- gramm: m,adj
- gloss: (в заимствованных сочетаниях) черный.m
+ gramm: adj
+ gloss: черный
  paradigm: ADJ
  trans_ru: (в заимствованных сочетаниях) черный
 
 -lexeme
  lex: šito
  stem: .šito.
- gramm: m,adj
- gloss: холодный.m
+ gramm: adj
+ gloss: холодный
  paradigm: ADJ
  trans_ru: холодный
 
 -lexeme
  lex: šut
- stem: .šut.
- gramm: m,adj
- gloss: хромой..m
+ stem: .šut.|.šat.
+ gramm: adj
+ gloss: хромой.m|хромой.f
  paradigm: ADJ
- trans_ru: хромой.
-
--lexeme
- lex: šat
- stem: .šat.
- gramm: f,adj
- gloss: хромой..f
- paradigm: ADJ
- trans_ru: хромой.
-
--lexeme
- lex: šut
- stem: .šut.
- gramm: m,adj
- gloss: хромой..m
- paradigm: ADJ
- trans_ru: хромой.
-
--lexeme
- lex: šat
- stem: .šat.
- gramm: f,adj
- gloss: хромой..f
- paradigm: ADJ
- trans_ru: хромой.
+ trans_ru: хромой
 
 -lexeme
  lex: talabon
  stem: .talabon.
- gramm: m,adj
- gloss: ищущий.m
+ gramm: adj
+ gloss: ищущий
  paradigm: ADJ
- trans_ru: ищущий
+ trans_ru: ищущий, просящий
 
 -lexeme
  lex: tambā
  stem: .tambā.
- gramm: m,adj
- gloss: густой.m
+ gramm: adj
+ gloss: густой
  paradigm: ADJ
- trans_ru: густой
+ trans_ru: густой, плотный, тесный
 
 -lexeme
  lex: tāng
  stem: .tāng.
- gramm: m,adj
- gloss: узкий.m
+ gramm: adj
+ gloss: узкий
  paradigm: ADJ
- trans_ru: узкий
+ trans_ru: узкий, тесный
