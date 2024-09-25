@@ -1,24 +1,16 @@
 -lexeme
- lex: bīsamarā́ǰ
- stem: .bīsamarā́ǰ.
+ lex: bīsamarāǰ
+ stem: .bīsamarāǰ.
  gramm: adv
  gloss: поспешно, торопливо
  paradigm: ZERO
  trans_ru: поспешно, торопливо
 
 -lexeme
- lex: bīsamarā́ǰaθ
- stem: .bīsamarā́ǰaθ.
+ lex: toqā
+ stem: .toqā.
  gramm: adv
- gloss: поспешно, торопливо
- paradigm: ZERO
- trans_ru: поспешно, торопливо
-
--lexeme
- lex: tōqā́
- stem: .tōqā́.
- gramm: adv
- gloss: один, в одиночестве, одиноко
+ gloss: одиноко
  paradigm: ZERO
  trans_ru: один, в одиночестве, одиноко
 
@@ -26,17 +18,15 @@
  lex: diryā
  stem: .diryā.
  gramm: adv
- gloss: по ту, по эту сторону
-(средняя степень удаления; ср.wiryā́, miryā́)
+ gloss: по_ту_сторону
  paradigm: ZERO
- trans_ru: по ту, по эту сторону
-(средняя степень удаления; ср.wiryā́, miryā́)
+ trans_ru: по ту, по эту сторону (средняя степень удаления; ср.wiryā, miryā)
 
 -lexeme
  lex: wiryā
  stem: .wiryā.
  gramm: adv
- gloss: та сторона
+ gloss: та_сторона
  paradigm: ZERO
  trans_ru: та сторона
 
@@ -44,87 +34,47 @@
  lex: miryā
  stem: .miryā.
  gramm: adv
- gloss: с этой стороны, по эту сторону
+ gloss: с_этой_стороны
  paradigm: ZERO
  trans_ru: с этой стороны, по эту сторону
 
 -lexeme
  lex: -am-
- stem: .-am-.
+ stem: .am.
  gramm: adv
- gloss: основа местоименн. наречий дальней степени; употр. в сложениях с предлогами и послелогом -indēr; см.: tarum, arum, padum, úmindēr, azúmindēr
+ gloss: d2
  paradigm: ZERO
- trans_ru: основа местоименн. наречий дальней степени; употр. в сложениях с предлогами и послелогом -indēr; см.: tarum, arum, padum, úmindēr, azúmindēr
+ trans_ru: основа местоименн. наречий дальней степени; употр. в сложениях с предлогами и послелогом -inder; см.: tarum, arum, padum, uminder, azuminder
 
 -lexeme
  lex: -um-
  stem: .-um-.
  gramm: adv
- gloss: основа местоименн. наречий дальней степени; употр. в сложениях с предлогами и послелогом -indēr; см.: tarum, arum, padum, úmindēr, azúmindēr
+ gloss: d3
  paradigm: ZERO
- trans_ru: основа местоименн. наречий дальней степени; употр. в сложениях с предлогами и послелогом -indēr; см.: tarum, arum, padum, úmindēr, azúmindēr
+ trans_ru: основа местоименн. наречий дальней степени; употр. в сложениях с предлогами и послелогом -inder; см.: tarum, arum, padum, uminder, azuminder
 
 -lexeme
- lex: ámandi
- stem: .ámandi.
+ lex: amandi
+ stem: .amandi.|.umder.|.uminder.
  gramm: adv
- gloss: местоименн. наречие дальней степени (см. -um-): там (в определенном месте, в пределах)
- paradigm: ZERO
- trans_ru: местоименн. наречие дальней степени (см. -um-): там (в определенном месте, в пределах)
-
--lexeme
- lex: úmdēr
- stem: .úmdēr.
- gramm: adv
- gloss: местоименн. наречие дальней степени (см. -um-): там (в определенном месте, в пределах)
+ gloss: d3.adv
  paradigm: ZERO
  trans_ru: местоименн. наречие дальней степени (см. -um-): там (в определенном месте, в пределах)
 
 -lexeme
- lex: úmindēr
- stem: .úmindēr.
+ lex: ūnder
+ stem: .undi.|ūnder
  gramm: adv
- gloss: местоименн. наречие дальней степени (см. -um-): там (в определенном месте, в пределах)
- paradigm: ZERO
- trans_ru: местоименн. наречие дальней степени (см. -um-): там (в определенном месте, в пределах)
-
--lexeme
- lex: úndi
- stem: .úndi.
- gramm: adv
- gloss: местоименн. на- речие ближней степени (см. -ū(d)-): здесь (в определенном месте)
+ gloss: d1.adv
  paradigm: ZERO
  trans_ru: местоименн. на- речие ближней степени (см. -ū(d)-): здесь (в определенном месте)
-
--lexeme
- lex: ū́ndēr
- stem: .ū́ndēr.
- gramm: adv
- gloss: местоименн. на- речие ближней степени (см. -ū(d)-): здесь (в определенном месте)
- paradigm: ZERO
- trans_ru: местоименн. на- речие ближней степени (см. -ū(d)-): здесь (в определенном месте)
-
--lexeme
- lex: úmdēr
- stem: .úmdēr.
- gramm: adv
- gloss: см. umindēr
- paradigm: ZERO
- trans_ru: см. umindēr
-
--lexeme
- lex: afaw
- stem: .afaw.
- gramm: adv
- gloss: послезавтра, через день
- paradigm: ZERO
- trans_ru: послезавтра, через день
 
 -lexeme
  lex: afāw
- stem: .afāw.
+ stem: .afaw.|.afāw.
  gramm: adv
- gloss: послезавтра, через день
+ gloss: послезавтра
  paradigm: ZERO
  trans_ru: послезавтра, через день
 
@@ -132,7 +82,7 @@
  lex: aǰab
  stem: .aǰab.
  gramm: adv
- gloss: эмоционально: удивительно! здорово! как!
+ gloss: удивительно
  paradigm: ZERO
  trans_ru: эмоционально: удивительно! здорово! как!
 
@@ -140,21 +90,21 @@
  lex: azad
  stem: .azad.
  gramm: adv
- gloss: местоименн. наречие средней степени удаления (см. -e(d)-)
+ gloss: d2.adv
  paradigm: ZERO
  trans_ru: местоименн. наречие средней степени удаления (см. -e(d)-)
 
 -lexeme
- lex: azēd
- stem: .azēd.
+ lex: azed
+ stem: .azed.
  gramm: adv
  gloss: местоименн. наречие средней степени удаления (см. -e(d)-)
  paradigm: ZERO
  trans_ru: местоименн. наречие средней степени удаления (см. -e(d)-)
 
 -lexeme
- lex: aӡēd
- stem: .aӡēd.
+ lex: aӡed
+ stem: .aӡed.
  gramm: adv
  gloss: местоименн. наречие средней степени удаления (см. -e(d)-)
  paradigm: ZERO
@@ -177,16 +127,16 @@
  trans_ru: местоименн. наречие средней степени удаления: оттуда, отсюда (из определенного места
 
 -lexeme
- lex: azḗndēr
- stem: .azḗndēr.
+ lex: azḗnder
+ stem: .azḗnder.
  gramm: adv
  gloss: местоименн. наречие средней степени удаления: оттуда, отсюда (из определенного места
  paradigm: ZERO
  trans_ru: местоименн. наречие средней степени удаления: оттуда, отсюда (из определенного места
 
 -lexeme
- lex: aӡḗndēr
- stem: .aӡḗndēr.
+ lex: aӡḗnder
+ stem: .aӡḗnder.
  gramm: adv
  gloss: местоименн. наречие средней степени удаления: оттуда, отсюда (из определенного места
  paradigm: ZERO
@@ -209,16 +159,16 @@
  trans_ru: во временном значении: тут, тогда
 
 -lexeme
- lex: azḗndēr
- stem: .azḗndēr.
+ lex: azḗnder
+ stem: .azḗnder.
  gramm: adv
  gloss: во временном значении: тут, тогда
  paradigm: ZERO
  trans_ru: во временном значении: тут, тогда
 
 -lexeme
- lex: aӡḗndēr
- stem: .aӡḗndēr.
+ lex: aӡḗnder
+ stem: .aӡḗnder.
  gramm: adv
  gloss: во временном значении: тут, тогда
  paradigm: ZERO
@@ -228,41 +178,41 @@
  lex: arad
  stem: .arad.
  gramm: adv
- gloss: местоименн. наречие средней степени удаления (см. -ē(d)-) тут, там, туда (вниз или внутрь)
+ gloss: местоименн. наречие средней степени удаления (см. -e(d)-) тут, там, туда (вниз или внутрь)
  paradigm: ZERO
- trans_ru: местоименн. наречие средней степени удаления (см. -ē(d)-) тут, там, туда (вниз или внутрь)
+ trans_ru: местоименн. наречие средней степени удаления (см. -e(d)-) тут, там, туда (вниз или внутрь)
 
 -lexeme
- lex: arēd
- stem: .arēd.
+ lex: ared
+ stem: .ared.
  gramm: adv
- gloss: местоименн. наречие средней степени удаления (см. -ē(d)-) тут, там, туда (вниз или внутрь)
+ gloss: местоименн. наречие средней степени удаления (см. -e(d)-) тут, там, туда (вниз или внутрь)
  paradigm: ZERO
- trans_ru: местоименн. наречие средней степени удаления (см. -ē(d)-) тут, там, туда (вниз или внутрь)
+ trans_ru: местоименн. наречие средней степени удаления (см. -e(d)-) тут, там, туда (вниз или внутрь)
 
 -lexeme
  lex: tarad
  stem: .tarad.
  gramm: adv
- gloss: местоименн. наречие средней степени (см. -ē(d)-): там, туда, здесь, сюда
+ gloss: местоименн. наречие средней степени (см. -e(d)-): там, туда, здесь, сюда
  paradigm: ZERO
- trans_ru: местоименн. наречие средней степени (см. -ē(d)-): там, туда, здесь, сюда
+ trans_ru: местоименн. наречие средней степени (см. -e(d)-): там, туда, здесь, сюда
 
 -lexeme
- lex: tarē
- stem: .tarē.
+ lex: tare
+ stem: .tare.
  gramm: adv
- gloss: местоименн. наречие средней степени (см. -ē(d)-): там, туда, здесь, сюда
+ gloss: местоименн. наречие средней степени (см. -e(d)-): там, туда, здесь, сюда
  paradigm: ZERO
- trans_ru: местоименн. наречие средней степени (см. -ē(d)-): там, туда, здесь, сюда
+ trans_ru: местоименн. наречие средней степени (см. -e(d)-): там, туда, здесь, сюда
 
 -lexeme
- lex: tarēd
- stem: .tarēd.
+ lex: tared
+ stem: .tared.
  gramm: adv
- gloss: местоименн. наречие средней степени (см. -ē(d)-): там, туда, здесь, сюда
+ gloss: местоименн. наречие средней степени (см. -e(d)-): там, туда, здесь, сюда
  paradigm: ZERO
- trans_ru: местоименн. наречие средней степени (см. -ē(d)-): там, туда, здесь, сюда
+ trans_ru: местоименн. наречие средней степени (см. -e(d)-): там, туда, здесь, сюда
 
 -lexeme
  lex: taraw
@@ -329,16 +279,16 @@
  trans_ru: местоименн. наречие дальней степени (см. -um-): там, туда (внизу или внутри)
 
 -lexeme
- lex: a-sárat
- stem: .a-sárat.
+ lex: a-sarat
+ stem: .a-sarat.
  gramm: adv
  gloss: снова, сызнова, опять
  paradigm: ZERO
  trans_ru: снова, сызнова, опять
 
 -lexeme
- lex: a-sáraθ
- stem: .a-sáraθ.
+ lex: a-saraθ
+ stem: .a-saraθ.
  gramm: adv
  gloss: снова, сызнова, опять
  paradigm: ZERO
@@ -369,16 +319,16 @@
  trans_ru: сначала, сперва (при очередности)
 
 -lexeme
- lex: awwálaθ
- stem: .awwálaθ.
+ lex: awwalaθ
+ stem: .awwalaθ.
  gramm: adv
  gloss: сначала, сперва (при очередности)
  paradigm: ZERO
  trans_ru: сначала, сперва (при очередности)
 
 -lexeme
- lex: awálaθ
- stem: .awálaθ.
+ lex: awalaθ
+ stem: .awalaθ.
  gramm: adv
  gloss: сначала, сперва (при очередности)
  paradigm: ZERO
@@ -401,16 +351,16 @@
  trans_ru: сначала, сперва (в начале, раньше, прежде)
 
 -lexeme
- lex: awwálaθ
- stem: .awwálaθ.
+ lex: awwalaθ
+ stem: .awwalaθ.
  gramm: adv
  gloss: сначала, сперва (в начале, раньше, прежде)
  paradigm: ZERO
  trans_ru: сначала, сперва (в начале, раньше, прежде)
 
 -lexeme
- lex: awálaθ
- stem: .awálaθ.
+ lex: awalaθ
+ stem: .awalaθ.
  gramm: adv
  gloss: сначала, сперва (в начале, раньше, прежде)
  paradigm: ZERO
@@ -473,40 +423,40 @@
  trans_ru: местоименн. наречие ближней степени: отсюда (из определенного места)
 
 -lexeme
- lex: azū́ndēr
- stem: .azū́ndēr.
+ lex: azū́nder
+ stem: .azū́nder.
  gramm: adv
  gloss: местоименн. наречие ближней степени: отсюда (из определенного места)
  paradigm: ZERO
  trans_ru: местоименн. наречие ближней степени: отсюда (из определенного места)
 
 -lexeme
- lex: azū́ndērat
- stem: .azū́ndērat.
+ lex: azū́nderat
+ stem: .azū́nderat.
  gramm: adv
  gloss: местоименн. наречие ближней степени: отсюда (из определенного места)
  paradigm: ZERO
  trans_ru: местоименн. наречие ближней степени: отсюда (из определенного места)
 
 -lexeme
- lex: aӡū́ndēr
- stem: .aӡū́ndēr.
+ lex: aӡū́nder
+ stem: .aӡū́nder.
  gramm: adv
  gloss: местоименн. наречие ближней степени: отсюда (из определенного места)
  paradigm: ZERO
  trans_ru: местоименн. наречие ближней степени: отсюда (из определенного места)
 
 -lexeme
- lex: úndi
- stem: .úndi.
+ lex: undi
+ stem: .undi.
  gramm: adv
  gloss: местоименн. наречие ближней степени (см. -ū(d)-): здесь (в определенном месте)
  paradigm: ZERO
  trans_ru: местоименн. наречие ближней степени (см. -ū(d)-): здесь (в определенном месте)
 
 -lexeme
- lex: ū́ndēr
- stem: .ū́ndēr.
+ lex: ū́nder
+ stem: .ū́nder.
  gramm: adv
  gloss: местоименн. наречие ближней степени (см. -ū(d)-): здесь (в определенном месте)
  paradigm: ZERO
@@ -545,16 +495,16 @@
  trans_ru: местоименн. наречие дальней степени: оттуда (из определенного места)
 
 -lexeme
- lex: azúmindēr
- stem: .azúmindēr.
+ lex: azuminder
+ stem: .azuminder.
  gramm: adv
  gloss: местоименн. наречие дальней степени: оттуда (из определенного места)
  paradigm: ZERO
  trans_ru: местоименн. наречие дальней степени: оттуда (из определенного места)
 
 -lexeme
- lex: aӡúmindēr
- stem: .aӡúmindēr.
+ lex: aӡuminder
+ stem: .aӡuminder.
  gramm: adv
  gloss: местоименн. наречие дальней степени: оттуда (из определенного места)
  paradigm: ZERO
@@ -577,32 +527,32 @@
  trans_ru: вероятно, верно
 
 -lexeme
- lex: nахō
- stem: .nахō.
+ lex: nахo
+ stem: .nахo.
  gramm: adv
  gloss: (эмоционально) о большом количестве
  paradigm: ZERO
  trans_ru: (эмоционально) о большом количестве
 
 -lexeme
- lex: barnōqī
- stem: .barnōqī.
+ lex: barnoqī
+ stem: .barnoqī.
  gramm: adv
  gloss: преднамеренно, нарочно
  paradigm: ZERO
  trans_ru: преднамеренно, нарочно
 
 -lexeme
- lex: barnōqīaθ
- stem: .barnōqīaθ.
+ lex: barnoqīaθ
+ stem: .barnoqīaθ.
  gramm: adv
  gloss: преднамеренно, нарочно
  paradigm: ZERO
  trans_ru: преднамеренно, нарочно
 
 -lexeme
- lex: barōbar
- stem: .barōbar.
+ lex: barobar
+ stem: .barobar.
  gramm: adv
  gloss: наравне (на одном уровне или одновременно)
  paradigm: ZERO
@@ -641,40 +591,40 @@
  trans_ru: без возражений, без задержки
 
 -lexeme
- lex: bīsamarā́ǰ
- stem: .bīsamarā́ǰ.
+ lex: bīsamarāǰ
+ stem: .bīsamarāǰ.
  gramm: adv
  gloss: поспешно, торопливо
  paradigm: ZERO
  trans_ru: поспешно, торопливо
 
 -lexeme
- lex: bīsamarā́ǰaθ
- stem: .bīsamarā́ǰaθ.
+ lex: bīsamarāǰaθ
+ stem: .bīsamarāǰaθ.
  gramm: adv
  gloss: поспешно, торопливо
  paradigm: ZERO
  trans_ru: поспешно, торопливо
 
 -lexeme
- lex: biyō
- stem: .biyō.
+ lex: biyo
+ stem: .biyo.
  gramm: adv
  gloss: вчера
  paradigm: ZERO
  trans_ru: вчера
 
 -lexeme
- lex: biyōr
- stem: .biyōr.
+ lex: biyor
+ stem: .biyor.
  gramm: adv
  gloss: вчера
  paradigm: ZERO
  trans_ru: вчера
 
 -lexeme
- lex: biyōr
- stem: .biyōr.
+ lex: biyor
+ stem: .biyor.
  gramm: adv
  gloss: вчера
  paradigm: ZERO
@@ -737,16 +687,16 @@
  trans_ru: местоименн. наречие ближней степени: отсюда (из определенного  места)
 
 -lexeme
- lex: azū́ndēr
- stem: .azū́ndēr.
+ lex: azū́nder
+ stem: .azū́nder.
  gramm: adv
  gloss: местоименн. наречие ближней степени: отсюда (из определенного  места)
  paradigm: ZERO
  trans_ru: местоименн. наречие ближней степени: отсюда (из определенного  места)
 
 -lexeme
- lex: aӡū́ndēr
- stem: .aӡū́ndēr.
+ lex: aӡū́nder
+ stem: .aӡū́nder.
  gramm: adv
  gloss: местоименн. наречие ближней степени: отсюда (из определенного  места)
  paradigm: ZERO
@@ -761,16 +711,16 @@
  trans_ru: во временном значении (обычно с -at)
 
 -lexeme
- lex: azū́ndēr
- stem: .azū́ndēr.
+ lex: azū́nder
+ stem: .azū́nder.
  gramm: adv
  gloss: во временном значении (обычно с -at)
  paradigm: ZERO
  trans_ru: во временном значении (обычно с -at)
 
 -lexeme
- lex: aӡū́ndēr
- stem: .aӡū́ndēr.
+ lex: aӡū́nder
+ stem: .aӡū́nder.
  gramm: adv
  gloss: во временном значении (обычно с -at)
  paradigm: ZERO
@@ -801,16 +751,16 @@
  trans_ru: местоименн. наречие дальней степени (см. -um-): оттуда
 
 -lexeme
- lex: čátr
- stem: .čátr.
+ lex: čatr
+ stem: .čatr.
  gramm: adv
  gloss: круг, в круг
  paradigm: ZERO
  trans_ru: круг, в круг
 
 -lexeme
- lex: čátri
- stem: .čátri.
+ lex: čatri
+ stem: .čatri.
  gramm: adv
  gloss: круг, в круг
  paradigm: ZERO
@@ -833,16 +783,16 @@
  trans_ru: (только в неосложненной форме) обычно, всегда, постоянно; в рушанском это значение отсутствует [ср. руш. qat]
 
 -lexeme
- lex: fúkaθ
- stem: .fúkaθ.
+ lex: fukaθ
+ stem: .fukaθ.
  gramm: adv
  gloss: (только в неосложненной форме) обычно, всегда, постоянно; в рушанском это значение отсутствует [ср. руш. qat]
  paradigm: ZERO
  trans_ru: (только в неосложненной форме) обычно, всегда, постоянно; в рушанском это значение отсутствует [ср. руш. qat]
 
 -lexeme
- lex: amēx̆ā
- stem: .amēx̆ā.
+ lex: amex̆ā
+ stem: .amex̆ā.
  gramm: adv
  gloss: всегда
  paradigm: ZERO
@@ -860,93 +810,93 @@
  lex: daraw
  stem: .daraw.
  gramm: adv
- gloss: (обычно daráwaθ) тотчас, сразу, быстро
+ gloss: (обычно darawaθ) тотчас, сразу, быстро
  paradigm: ZERO
- trans_ru: (обычно daráwaθ) тотчас, сразу, быстро
+ trans_ru: (обычно darawaθ) тотчас, сразу, быстро
 
 -lexeme
  lex: darraw
  stem: .darraw.
  gramm: adv
- gloss: (обычно daráwaθ) тотчас, сразу, быстро
+ gloss: (обычно darawaθ) тотчас, сразу, быстро
  paradigm: ZERO
- trans_ru: (обычно daráwaθ) тотчас, сразу, быстро
+ trans_ru: (обычно darawaθ) тотчас, сразу, быстро
 
 -lexeme
- lex: daráwaθ
- stem: .daráwaθ.
+ lex: darawaθ
+ stem: .darawaθ.
  gramm: adv
- gloss: (обычно daráwaθ) тотчас, сразу, быстро
+ gloss: (обычно darawaθ) тотчас, сразу, быстро
  paradigm: ZERO
- trans_ru: (обычно daráwaθ) тотчас, сразу, быстро
+ trans_ru: (обычно darawaθ) тотчас, сразу, быстро
 
 -lexeme
- lex: darōz
- stem: .darōz.
- gramm: adv
- gloss: долго, долгое время
- paradigm: ZERO
- trans_ru: долго, долгое время
-
--lexeme
- lex: darōz
- stem: .darōz.
+ lex: daroz
+ stem: .daroz.
  gramm: adv
  gloss: долго, долгое время
  paradigm: ZERO
  trans_ru: долго, долгое время
 
 -lexeme
- lex: darōzṓ
- stem: .darōzṓ.
+ lex: daroz
+ stem: .daroz.
  gramm: adv
  gloss: долго, долгое время
  paradigm: ZERO
  trans_ru: долго, долгое время
 
 -lexeme
- lex: dirōz
- stem: .dirōz.
+ lex: darozṓ
+ stem: .darozṓ.
  gramm: adv
  gloss: долго, долгое время
  paradigm: ZERO
  trans_ru: долго, долгое время
 
 -lexeme
- lex: dásaθ
- stem: .dásaθ.
+ lex: diroz
+ stem: .diroz.
+ gramm: adv
+ gloss: долго, долгое время
+ paradigm: ZERO
+ trans_ru: долго, долгое время
+
+-lexeme
+ lex: dasaθ
+ stem: .dasaθ.
  gramm: adv
  gloss: просто так, напрасно
  paradigm: ZERO
  trans_ru: просто так, напрасно
 
 -lexeme
- lex: ik-dásaθ
- stem: .ik-dásaθ.
+ lex: ik-dasaθ
+ stem: .ik-dasaθ.
  gramm: adv
  gloss: просто так, напрасно
  paradigm: ZERO
  trans_ru: просто так, напрасно
 
 -lexeme
- lex: dibōrā
- stem: .dibōrā.
+ lex: diborā
+ stem: .diborā.
  gramm: adv
  gloss: вторично, в другой раз, потом, тогда
  paradigm: ZERO
  trans_ru: вторично, в другой раз, потом, тогда
 
 -lexeme
- lex: dubōrā
- stem: .dubōrā.
+ lex: duborā
+ stem: .duborā.
  gramm: adv
  gloss: вторично, в другой раз, потом, тогда
  paradigm: ZERO
  trans_ru: вторично, в другой раз, потом, тогда
 
 -lexeme
- lex: ōsōn
- stem: .ōsōn.
+ lex: oson
+ stem: .oson.
  gramm: adv
  gloss: легко, просто
  paradigm: ZERO
@@ -961,8 +911,8 @@
  trans_ru: вчера (вечером)
 
 -lexeme
- lex: vō
- stem: .vō.
+ lex: vo
+ stem: .vo.
  gramm: adv
  gloss: опять, снова
  paradigm: ZERO
@@ -1033,8 +983,8 @@
  trans_ru: [р. tām] тогда, потом, то (в значении следствия, результата)
 
 -lexeme
- lex: ōzir
- stem: .ōzir.
+ lex: ozir
+ stem: .ozir.
  gramm: adv
  gloss: сейчас, теперь
  paradigm: ZERO
@@ -1073,8 +1023,8 @@
  trans_ru: затемно, перед рассветом
 
 -lexeme
- lex: x̆ā́baθ
- stem: .x̆ā́baθ.
+ lex: x̆ābaθ
+ stem: .x̆ābaθ.
  gramm: adv
  gloss: затемно, перед рассветом
  paradigm: ZERO
@@ -1100,37 +1050,37 @@
  lex: -ad-
  stem: .-ad-.
  gramm: adv
- gloss: основа местоименн. наречия средней степени удаления; сочетается с предлогами и послелогом -indēr-
+ gloss: основа местоименн. наречия средней степени удаления; сочетается с предлогами и послелогом -inder-
  paradigm: ZERO
- trans_ru: основа местоименн. наречия средней степени удаления; сочетается с предлогами и послелогом -indēr-
+ trans_ru: основа местоименн. наречия средней степени удаления; сочетается с предлогами и послелогом -inder-
 
 -lexeme
- lex: -ē(d)-
- stem: .-ē(d)-.
+ lex: -e(d)-
+ stem: .-e(d)-.
  gramm: adv
- gloss: основа местоименн. наречия средней степени удаления; сочетается с предлогами и послелогом -indēr-
+ gloss: основа местоименн. наречия средней степени удаления; сочетается с предлогами и послелогом -inder-
  paradigm: ZERO
- trans_ru: основа местоименн. наречия средней степени удаления; сочетается с предлогами и послелогом -indēr-
+ trans_ru: основа местоименн. наречия средней степени удаления; сочетается с предлогами и послелогом -inder-
 
 -lexeme
  lex: padad
  stem: .padad.
  gramm: adv
- gloss: местоименн. наречие средней степени удаления (см. -ē(d)-): тут, там (наверху), туда (вверх)
+ gloss: местоименн. наречие средней степени удаления (см. -e(d)-): тут, там (наверху), туда (вверх)
  paradigm: ZERO
- trans_ru: местоименн. наречие средней степени удаления (см. -ē(d)-): тут, там (наверху), туда (вверх)
+ trans_ru: местоименн. наречие средней степени удаления (см. -e(d)-): тут, там (наверху), туда (вверх)
 
 -lexeme
- lex: padē(d)
- stem: .padē(d).
+ lex: pade(d)
+ stem: .pade(d).
  gramm: adv
- gloss: местоименн. наречие средней степени удаления (см. -ē(d)-): тут, там (наверху), туда (вверх)
+ gloss: местоименн. наречие средней степени удаления (см. -e(d)-): тут, там (наверху), туда (вверх)
  paradigm: ZERO
- trans_ru: местоименн. наречие средней степени удаления (см. -ē(d)-): тут, там (наверху), туда (вверх)
+ trans_ru: местоименн. наречие средней степени удаления (см. -e(d)-): тут, там (наверху), туда (вверх)
 
 -lexeme
- lex: ḗndēr
- stem: .ḗndēr.
+ lex: énder
+ stem: .énder.
  gramm: adv
  gloss: местоименн. наречие средней степени удаления
  paradigm: ZERO
@@ -1153,16 +1103,16 @@
  trans_ru: местоименн. наречие средней степени удаления: оттуда, отсюда (из определенного места)
 
 -lexeme
- lex: azḗndēr
- stem: .azḗndēr.
+ lex: azḗnder
+ stem: .azḗnder.
  gramm: adv
  gloss: местоименн. наречие средней степени удаления: оттуда, отсюда (из определенного места)
  paradigm: ZERO
  trans_ru: местоименн. наречие средней степени удаления: оттуда, отсюда (из определенного места)
 
 -lexeme
- lex: aӡḗndēr
- stem: .aӡḗndēr.
+ lex: aӡḗnder
+ stem: .aӡḗnder.
  gramm: adv
  gloss: местоименн. наречие средней степени удаления: оттуда, отсюда (из определенного места)
  paradigm: ZERO
@@ -1185,16 +1135,16 @@
  trans_ru: местоименн. наречие во временном значении: тут, тогда
 
 -lexeme
- lex: azḗndēr
- stem: .azḗndēr.
+ lex: azḗnder
+ stem: .azḗnder.
  gramm: adv
  gloss: местоименн. наречие во временном значении: тут, тогда
  paradigm: ZERO
  trans_ru: местоименн. наречие во временном значении: тут, тогда
 
 -lexeme
- lex: aӡḗndēr
- stem: .aӡḗndēr.
+ lex: aӡḗnder
+ stem: .aӡḗnder.
  gramm: adv
  gloss: местоименн. наречие во временном значении: тут, тогда
  paradigm: ZERO
@@ -1209,16 +1159,16 @@
  trans_ru: местоименн. наречие средней степени удаления: оттуда, отсюда
 
 -lexeme
- lex: azēd
- stem: .azēd.
+ lex: azed
+ stem: .azed.
  gramm: adv
  gloss: местоименн. наречие средней степени удаления: оттуда, отсюда
  paradigm: ZERO
  trans_ru: местоименн. наречие средней степени удаления: оттуда, отсюда
 
 -lexeme
- lex: aӡēd
- stem: .aӡēd.
+ lex: aӡed
+ stem: .aӡed.
  gramm: adv
  gloss: местоименн. наречие средней степени удаления: оттуда, отсюда
  paradigm: ZERO
@@ -1249,24 +1199,24 @@
  trans_ru: сразу, разом
 
 -lexeme
- lex: igōn
- stem: .igōn.
+ lex: igon
+ stem: .igon.
  gramm: adv
  gloss: приблизительно, примерно
  paradigm: ZERO
  trans_ru: приблизительно, примерно
 
 -lexeme
- lex: yigōn
- stem: .yigōn.
+ lex: yigon
+ stem: .yigon.
  gramm: adv
  gloss: приблизительно, примерно
  paradigm: ZERO
  trans_ru: приблизительно, примерно
 
 -lexeme
- lex: yigōn
- stem: .yigōn.
+ lex: yigon
+ stem: .yigon.
  gramm: adv
  gloss: приблизительно, примерно
  paradigm: ZERO
@@ -1289,32 +1239,32 @@
  trans_ru: один за другим, один по одному
 
 -lexeme
- lex: zabō
- stem: .zabō.
+ lex: zabo
+ stem: .zabo.
  gramm: adv
  gloss: сзади, позади
  paradigm: ZERO
  trans_ru: сзади, позади
 
 -lexeme
- lex: zibō
- stem: .zibō.
+ lex: zibo
+ stem: .zibo.
  gramm: adv
  gloss: сзади, позади
  paradigm: ZERO
  trans_ru: сзади, позади
 
 -lexeme
- lex: ziyōd
- stem: .ziyōd.
+ lex: ziyod
+ stem: .ziyod.
  gramm: adv
  gloss: больше, сверх
  paradigm: ZERO
  trans_ru: больше, сверх
 
 -lexeme
- lex: ziyōt
- stem: .ziyōt.
+ lex: ziyot
+ stem: .ziyot.
  gramm: adv
  gloss: больше, сверх
  paradigm: ZERO
@@ -1337,72 +1287,72 @@
  trans_ru: тотчас, сразу, быстро
 
 -lexeme
- lex: či-pēc
- stem: .či-pēc.
+ lex: či-pec
+ stem: .či-pec.
  gramm: adv
  gloss: ничком; вверх дном
  paradigm: ZERO
  trans_ru: ничком; вверх дном
 
 -lexeme
- lex: dōyim
- stem: .dōyim.
+ lex: doyim
+ stem: .doyim.
  gramm: adv
  gloss: всегда, постоянно
  paradigm: ZERO
  trans_ru: всегда, постоянно
 
 -lexeme
- lex: dubōrā
- stem: .dubōrā.
+ lex: duborā
+ stem: .duborā.
  gramm: adv
  gloss: вторично
  paradigm: ZERO
  trans_ru: вторично
 
 -lexeme
- lex: pigō
- stem: .pigō.
+ lex: pigo
+ stem: .pigo.
  gramm: adv
  gloss: давно
  paradigm: ZERO
  trans_ru: давно
 
 -lexeme
- lex: pirō
- stem: .pirō.
+ lex: piro
+ stem: .piro.
  gramm: adv
  gloss: перед, впереди
  paradigm: ZERO
  trans_ru: перед, впереди
 
 -lexeme
- lex: sar-pirō
- stem: .sar-pirō.
+ lex: sar-piro
+ stem: .sar-piro.
  gramm: adv
  gloss: сначала, сперва
  paradigm: ZERO
  trans_ru: сначала, сперва
 
 -lexeme
- lex: pirōkī
- stem: .pirōkī.
+ lex: pirokī
+ stem: .pirokī.
  gramm: adv
  gloss: раньше
  paradigm: ZERO
  trans_ru: раньше
 
 -lexeme
- lex: pirōkī́aθ
- stem: .pirōkī́aθ.
+ lex: pirokī́aθ
+ stem: .pirokī́aθ.
  gramm: adv
  gloss: прежде, раньше
  paradigm: ZERO
  trans_ru: прежде, раньше
 
 -lexeme
- lex: pirōkī́yaθ
- stem: .pirōkī́yaθ.
+ lex: pirokī́yaθ
+ stem: .pirokī́yaθ.
  gramm: adv
  gloss: прежде, раньше
  paradigm: ZERO
@@ -1436,61 +1386,61 @@
  lex: tarad
  stem: .tarad.
  gramm: adv
- gloss: местоименн. наречие средней степени (см. -ē(d)-): там, туда, здесь, сюда
+ gloss: местоименн. наречие средней степени (см. -e(d)-): там, туда, здесь, сюда
  paradigm: ZERO
- trans_ru: местоименн. наречие средней степени (см. -ē(d)-): там, туда, здесь, сюда
+ trans_ru: местоименн. наречие средней степени (см. -e(d)-): там, туда, здесь, сюда
 
 -lexeme
- lex: tarē
- stem: .tarē.
+ lex: tare
+ stem: .tare.
  gramm: adv
- gloss: местоименн. наречие средней степени (см. -ē(d)-): там, туда, здесь, сюда
+ gloss: местоименн. наречие средней степени (см. -e(d)-): там, туда, здесь, сюда
  paradigm: ZERO
- trans_ru: местоименн. наречие средней степени (см. -ē(d)-): там, туда, здесь, сюда
+ trans_ru: местоименн. наречие средней степени (см. -e(d)-): там, туда, здесь, сюда
 
 -lexeme
- lex: tarēd
- stem: .tarēd.
+ lex: tared
+ stem: .tared.
  gramm: adv
- gloss: местоименн. наречие средней степени (см. -ē(d)-): там, туда, здесь, сюда
+ gloss: местоименн. наречие средней степени (см. -e(d)-): там, туда, здесь, сюда
  paradigm: ZERO
- trans_ru: местоименн. наречие средней степени (см. -ē(d)-): там, туда, здесь, сюда
+ trans_ru: местоименн. наречие средней степени (см. -e(d)-): там, туда, здесь, сюда
 
 -lexeme
  lex: padad
  stem: .padad.
  gramm: adv
- gloss: местоименн. наречие средней степени удаления (см. -ē(d)-): тут, там (наверху), туда (вверх)
+ gloss: местоименн. наречие средней степени удаления (см. -e(d)-): тут, там (наверху), туда (вверх)
  paradigm: ZERO
- trans_ru: местоименн. наречие средней степени удаления (см. -ē(d)-): тут, там (наверху), туда (вверх)
+ trans_ru: местоименн. наречие средней степени удаления (см. -e(d)-): тут, там (наверху), туда (вверх)
 
 -lexeme
- lex: padē
- stem: .padē.
+ lex: pade
+ stem: .pade.
  gramm: adv
- gloss: местоименн. наречие средней степени удаления (см. -ē(d)-): тут, там (наверху), туда (вверх)
+ gloss: местоименн. наречие средней степени удаления (см. -e(d)-): тут, там (наверху), туда (вверх)
  paradigm: ZERO
- trans_ru: местоименн. наречие средней степени удаления (см. -ē(d)-): тут, там (наверху), туда (вверх)
+ trans_ru: местоименн. наречие средней степени удаления (см. -e(d)-): тут, там (наверху), туда (вверх)
 
 -lexeme
- lex: padēd
- stem: .padēd.
+ lex: paded
+ stem: .paded.
  gramm: adv
- gloss: местоименн. наречие средней степени удаления (см. -ē(d)-): тут, там (наверху), туда (вверх)
+ gloss: местоименн. наречие средней степени удаления (см. -e(d)-): тут, там (наверху), туда (вверх)
  paradigm: ZERO
- trans_ru: местоименн. наречие средней степени удаления (см. -ē(d)-): тут, там (наверху), туда (вверх)
+ trans_ru: местоименн. наречие средней степени удаления (см. -e(d)-): тут, там (наверху), туда (вверх)
 
 -lexeme
- lex: ḗndēr
- stem: .ḗndēr.
+ lex: énder
+ stem: .énder.
  gramm: adv
- gloss: местоименн. наречие средней степени удаления (см. -ē(d)-): здесь, тут (в определенном месте)
+ gloss: местоименн. наречие средней степени удаления (см. -e(d)-): здесь, тут (в определенном месте)
  paradigm: ZERO
- trans_ru: местоименн. наречие средней степени удаления (см. -ē(d)-): здесь, тут (в определенном месте)
+ trans_ru: местоименн. наречие средней степени удаления (см. -e(d)-): здесь, тут (в определенном месте)
 
 -lexeme
- lex: ḗndēr
- stem: .ḗndēr.
+ lex: énder
+ stem: .énder.
  gramm: adv
  gloss: во временном значении
  paradigm: ZERO
@@ -1505,72 +1455,72 @@
  trans_ru: только
 
 -lexeme
- lex: dōn
- stem: .dōn.
+ lex: don
+ stem: .don.
  gramm: adv
  gloss: столько, настолько, так (в такой степени), очень
  paradigm: ZERO
  trans_ru: столько, настолько, так (в такой степени), очень
 
 -lexeme
- lex: dōnd
- stem: .dōnd.
+ lex: dond
+ stem: .dond.
  gramm: adv
  gloss: столько, настолько, так (в такой степени), очень
  paradigm: ZERO
  trans_ru: столько, настолько, так (в такой степени), очень
 
 -lexeme
- lex: dōn
- stem: .dōn.
+ lex: don
+ stem: .don.
  gramm: adv
  gloss: с усилительн. частицей di
  paradigm: ZERO
  trans_ru: с усилительн. частицей di
 
 -lexeme
- lex: dōnd
- stem: .dōnd.
+ lex: dond
+ stem: .dond.
  gramm: adv
  gloss: с усилительн. частицей di
  paradigm: ZERO
  trans_ru: с усилительн. частицей di
 
 -lexeme
- lex: dōn
- stem: .dōn.
+ lex: don
+ stem: .don.
  gramm: adv
  gloss: с последующим союзом (i)di
  paradigm: ZERO
  trans_ru: с последующим союзом (i)di
 
 -lexeme
- lex: dōnd
- stem: .dōnd.
+ lex: dond
+ stem: .dond.
  gramm: adv
  gloss: с последующим союзом (i)di
  paradigm: ZERO
  trans_ru: с последующим союзом (i)di
 
 -lexeme
- lex: dōn
- stem: .dōn.
+ lex: don
+ stem: .don.
  gramm: adv
  gloss: (с указательн. местоимением) всё, всё количество
  paradigm: ZERO
  trans_ru: (с указательн. местоимением) всё, всё количество
 
 -lexeme
- lex: dōnd
- stem: .dōnd.
+ lex: dond
+ stem: .dond.
  gramm: adv
  gloss: (с указательн. местоимением) всё, всё количество
  paradigm: ZERO
  trans_ru: (с указательн. местоимением) всё, всё количество
 
 -lexeme
- lex: gōnī-gōnī
- stem: .gōnī-gōnī.
+ lex: gonī-gonī
+ stem: .gonī-gonī.
  gramm: adv
  gloss: постепенно, понемногу, один за другим, поочередно
  paradigm: ZERO
@@ -1601,16 +1551,16 @@
  trans_ru: при именном сказуемом может приобретать значение предикативной связки
 
 -lexeme
- lex: γōibōnā
- stem: .γōibōnā.
+ lex: γoibonā
+ stem: .γoibonā.
  gramm: adv
  gloss: заочно, за глаза
  paradigm: ZERO
  trans_ru: заочно, за глаза
 
 -lexeme
- lex: indarawō
- stem: .indarawō.
+ lex: indarawo
+ stem: .indarawo.
  gramm: adv
  gloss: по воздуху, в воздухе
  paradigm: ZERO
@@ -1705,16 +1655,16 @@
  trans_ru: (с инфинитивом) незадолго, перед
 
 -lexeme
- lex: qarōr
- stem: .qarōr.
+ lex: qaror
+ stem: .qaror.
  gramm: adv
  gloss: тихо, молча, спокойно
  paradigm: ZERO
  trans_ru: тихо, молча, спокойно
 
 -lexeme
- lex: qarōraθ
- stem: .qarōraθ.
+ lex: qaroraθ
+ stem: .qaroraθ.
  gramm: adv
  gloss: тихо, молча, спокойно
  paradigm: ZERO
@@ -1785,48 +1735,48 @@
  trans_ru: для чего, зачем, почему
 
 -lexeme
- lex: rōst
- stem: .rōst.
+ lex: rost
+ stem: .rost.
  gramm: adv
  gloss: прямо, напрямик
  paradigm: ZERO
  trans_ru: прямо, напрямик
 
 -lexeme
- lex: az rōstaθ
- stem: .az rōstaθ.
+ lex: az rostaθ
+ stem: .az rostaθ.
  gramm: adv
  gloss: вправду, действительно
  paradigm: ZERO
  trans_ru: вправду, действительно
 
 -lexeme
- lex: rōstṓwaθ
- stem: .rōstṓwaθ.
+ lex: rostṓwaθ
+ stem: .rostṓwaθ.
  gramm: adv
  gloss: (усилит.) прямиком, прямехонько
  paradigm: ZERO
  trans_ru: (усилит.) прямиком, прямехонько
 
 -lexeme
- lex: sabō
- stem: .sabō.
+ lex: sabo
+ stem: .sabo.
  gramm: adv
  gloss: завтра
  paradigm: ZERO
  trans_ru: завтра
 
 -lexeme
- lex: sabōalā́
- stem: .sabōalā́.
+ lex: saboalā
+ stem: .saboalā.
  gramm: adv
  gloss: на завтра, на следующий день
  paradigm: ZERO
  trans_ru: на завтра, на следующий день
 
 -lexeme
- lex: sabōalā́t
- stem: .sabōalā́t.
+ lex: saboalāt
+ stem: .saboalāt.
  gramm: adv
  gloss: на завтра, на следующий день
  paradigm: ZERO
@@ -1881,24 +1831,24 @@
  trans_ru: рано утром, на рассвете
 
 -lexeme
- lex: sarpirō
- stem: .sarpirō.
+ lex: sarpiro
+ stem: .sarpiro.
  gramm: adv
  gloss: сначала, сперва
  paradigm: ZERO
  trans_ru: сначала, сперва
 
 -lexeme
- lex: siwōrā
- stem: .siwōrā.
+ lex: siworā
+ stem: .siworā.
  gramm: adv
  gloss: верхом
  paradigm: ZERO
  trans_ru: верхом
 
 -lexeme
- lex: siwōrō
- stem: .siwōrō.
+ lex: siworo
+ stem: .siworo.
  gramm: adv
  gloss: верхом
  paradigm: ZERO
@@ -1921,16 +1871,16 @@
  trans_ru: совсем, полностью, совершенно
 
 -lexeme
- lex: tagōv
- stem: .tagōv.
+ lex: tagov
+ stem: .tagov.
  gramm: adv
  gloss: вниз
  paradigm: ZERO
  trans_ru: вниз
 
 -lexeme
- lex: tagōv
- stem: .tagōv.
+ lex: tagov
+ stem: .tagov.
  gramm: adv
  gloss: внизу
  paradigm: ZERO
@@ -1945,16 +1895,16 @@
  trans_ru: местоименн. наречие средней степени:  там, туда, здесь, сюда
 
 -lexeme
- lex: tarē
- stem: .tarē.
+ lex: tare
+ stem: .tare.
  gramm: adv
  gloss: местоименн. наречие средней степени:  там, туда, здесь, сюда
  paradigm: ZERO
  trans_ru: местоименн. наречие средней степени:  там, туда, здесь, сюда
 
 -lexeme
- lex: tarēd
- stem: .tarēd.
+ lex: tared
+ stem: .tared.
  gramm: adv
  gloss: местоименн. наречие средней степени:  там, туда, здесь, сюда
  paradigm: ZERO
