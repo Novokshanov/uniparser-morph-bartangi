@@ -2,31 +2,23 @@
  lex: хау
  stem: .хау.
  gramm: inter
- gloss: (ну) ладно
+ gloss: ладно
  paradigm: ZERO
  trans_ru: (ну) ладно
 
 -lexeme
  lex: uppast
- stem: .upp.
+ stem: .uppast.|.upast.
  gramm: inter
- gloss: непроизвольное восклицание
+ gloss: непроизвольное_восклицание
  paradigm: ZERO
  trans_ru: непроизвольное восклицание
 
 -lexeme
- lex: upast
- stem: .up.
+ lex: ē-lo
+ stem: .ē-lo.
  gramm: inter
- gloss: непроизвольное восклицание
- paradigm: ZERO
- trans_ru: непроизвольное восклицание
-
--lexeme
- lex: ē-lō
- stem: .ē-lō.
- gramm: inter
- gloss: формула обращения
+ gloss: adr
  paradigm: ZERO
  trans_ru: формула обращения
 
@@ -34,23 +26,23 @@
  lex: ma
  stem: .ma.
  gramm: inter
- gloss: ma  на! бс. mа
+ gloss: на
  paradigm: ZERO
  trans_ru: ma  на! бс. mа
 
 -lexeme
- lex: up(p)
- stem: .up(p).
+ lex: upp
+ stem: .up.|.upp.
  gramm: inter
- gloss: непроизвольное восклицание
+ gloss: непроизвольное_восклицание
  paradigm: ZERO
  trans_ru: непроизвольное восклицание
 
 -lexeme
- lex: xušōmadī
- stem: .xušōmadī.
+ lex: xušomadī
+ stem: .xušomadī.
  gramm: inter
- gloss:добро пожаловать!
+ gloss:добро_пожаловать
  paradigm: ZERO
  trans_ru: добро пожаловать!
 
@@ -58,23 +50,23 @@
  lex: čax
  stem: .čax.
  gramm: inter
- gloss: окрик на собаку.
+ gloss: окрик_на_собаку
  paradigm: ZERO
- trans_ru: окрик на собаку.
+ trans_ru: окрик на собаку
 
 -lexeme
- lex: wa-alḗkum
- stem: .wa-alḗkum.
+ lex: wa-alekum
+ stem: .wa-alekum.
  gramm: inter
- gloss: формула ответного приветствия.
+ gloss: adr
  paradigm: ZERO
  trans_ru: формула ответного приветствия.
 
 -lexeme
- lex: bar salōm
- stem: .bar salōm.
+ lex: bar salom
+ stem: .bar salom.
  gramm: inter
- gloss: формула ответного приветствия.
+ gloss: adr
  paradigm: ZERO
  trans_ru: формула ответного приветствия.
 
@@ -82,14 +74,14 @@
  lex: a-lā
  stem: .a-lā.
  gramm: inter
- gloss: формула обращения
+ gloss: adr
  paradigm: ZERO
  trans_ru: формула обращения
 
 -lexeme
- lex: ōšdōd
- stem: .ōšdōd.
+ lex: ošdod
+ stem: .ošdod.
  gramm: inter
- gloss: (бранно)
+ gloss: adr
  paradigm: ZERO
  trans_ru: (бранно)
