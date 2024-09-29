@@ -62,7 +62,7 @@
  -flex: .ak
   gramm: dim
   gloss: dim
- -flex: na.
+ -flex: na.//na-.
   gramm: neg
   gloss: neg
  -flex: mā.
@@ -140,7 +140,7 @@
  -flex: .ak
   gramm: dim
   gloss: dim
- -flex: na.
+ -flex: na.//na-.
   gramm: neg
   gloss: neg
  -flex: mā.
@@ -217,7 +217,7 @@
  -flex: .ak
   gramm: dim
   gloss: dim
- -flex: na.
+ -flex: na.//na-.
   gramm: neg
   gloss: neg
  -flex: mā.
@@ -295,7 +295,7 @@
  -flex: .ak
   gramm: dim
   gloss: dim
- -flex: na.
+ -flex: na.//na-.
   gramm: neg
   gloss: neg
  -flex: mā.
@@ -373,7 +373,85 @@
  -flex: .ak
   gramm: dim
   gloss: dim
- -flex: na.
+ -flex: na.//na-.
+  gramm: neg
+  gloss: neg
+ -flex: mā.
+  gramm: neg
+  gloss: neg
+ -flex: .gī.//.ī.//.ax̌.
+  gramm: nomin
+  gloss: nomin
+ -flex: .gār.
+  gramm: act
+  gloss: act
+
+
+-paradigm: ADV
+ -flex: .
+  gramm: sg
+  gloss: SG
+ -flex: .en.//.erӡ.//.orӡ.//.ārӡ.//.ār.//.ӡon.//.gon.//.ӡor.//.on.//.iyā.//.xīl.//.gala.//.gufta.//.īf.
+  gramm: pl
+  gloss: pl
+ -flex: .yā.//.ā.
+  gramm: poss
+  gloss: poss
+ -flex: .inder.
+  gramm: loc
+  gloss: loc
+ -flex: .qati.
+  gramm: com
+  gloss: com
+ -flex: .ac.
+  gramm: lim
+  gloss: lim
+ -flex: .avān.
+  gramm: purp
+  gloss: purp
+ -flex: .ǰo.
+  gramm: loc
+  gloss: loc
+ -flex: .r.
+  gramm: dat
+  gloss: dat
+ -flex: .i
+  gramm: 3sg
+  gloss: 3sg
+ -flex: .ō//.yō
+  gramm: q
+  gloss: q
+ -flex: .di//.dī
+  gramm: cnj
+  gloss: cnj
+ -flex: .aθ
+  gramm: emph
+  gloss: emph
+ -flex: .at
+  gramm: cnj
+  gloss: and
+ -flex: .um
+  gramm: 1sg
+  gloss: 1sg
+ -flex: .i//.at
+  gramm: 2sg
+  gloss: 2sg
+ -flex: .d//.t//.i
+  gramm: 3sg
+  gloss: 3sg
+ -flex: .an
+  gramm: 1pl
+  gloss: 1pl
+ -flex: .at//.af
+  gramm: 2pl
+  gloss: 2pl
+ -flex: .an//.af
+  gramm: 3pl
+  gloss: 3pl
+ -flex: .ak
+  gramm: dim
+  gloss: dim
+ -flex: na.//na-.
   gramm: neg
   gloss: neg
  -flex: mā.

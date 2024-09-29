@@ -64,7 +64,7 @@
 
 -lexeme
  lex: tör-zēx̌tak
- stem: tör-zēx̌tak.
+ stem: tör-zēx̌tak.|tör-zex̌tak.
  gramm: n
  gloss: состязание_в_переплыве_реки
  paradigm: NOUN
