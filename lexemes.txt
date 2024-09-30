@@ -1048,7 +1048,7 @@
 -lexeme
  lex: azed
  stem: .azed.|.aӡed.|.azad.
- gramm: adv
+ gramm: adv,d2
  gloss: d2.adv
  paradigm: ZERO
  trans_ru: местоименн. наречие средней степени удаления
@@ -1056,7 +1056,7 @@
 -lexeme
  lex: azender
  stem: .azadandi.|.azender.|.azandi.|.aӡender.
- gramm: adv
+ gramm: adv,el,d2
  gloss: d2.el.adv
  paradigm: ZERO
  trans_ru: местоименн. наречие средней степени удаления: оттуда, отсюда (из определенного места)
@@ -1136,7 +1136,7 @@
 -lexeme
  lex: azūd
  stem: .azud.|.azū.|.azūd.|.aӡū.|.aӡūd.
- gramm: adv
+ gramm: adv,el,d1
  gloss: d1.el.adv
  paradigm: ZERO
  trans_ru: местоименн. наречие ближней степени: отсюда
@@ -1144,7 +1144,7 @@
 -lexeme
  lex: azūnder
  stem: .azundi.|.azūnder.|.azūnderat.|.aӡūnder.
- gramm: adv
+ gramm: adv,det,el,d1
  gloss: d1.det.el.adv
  paradigm: ZERO
  trans_ru: местоименн. наречие ближней степени: отсюда (из определенного места)
@@ -1168,7 +1168,7 @@
 -lexeme
  lex: azum
  stem: .azum.|.aӡum.
- gramm: adv
+ gramm: adv,d3,el
  gloss: d3.el.adv
  paradigm: ZERO
  trans_ru: местоименн. наречие дальней степени (см. -um-): оттуда
@@ -1176,7 +1176,7 @@
 -lexeme
  lex: azuminder
  stem: .azamandi.|.azuminder.|.aӡuminder.
- gramm: adv
+ gramm: adv,d3,el,det
  gloss: d3.det.el.adv
  paradigm: ZERO
  trans_ru: местоименн. наречие дальней степени: оттуда (из определенного места)
@@ -15144,7 +15144,7 @@
 -lexeme
  lex: azender
  stem: .azadandi.|.azender.|.azandi.|.aӡender.
- gramm: adv
+ gramm: adv,d2,el
  gloss: d2.el.adv
  paradigm: ZERO
  trans_ru: местоименн. наречие средней степени удаления: оттуда, отсюда (из определенного места)
@@ -15224,7 +15224,7 @@
 -lexeme
  lex: azūd
  stem: .azud.|.azū.|.azūd.|.aӡū.|.aӡūd.
- gramm: adv
+ gramm: adv,d1,el
  gloss: d1.el.adv
  paradigm: ZERO
  trans_ru: местоименн. наречие ближней степени: отсюда
@@ -15232,7 +15232,7 @@
 -lexeme
  lex: azūnder
  stem: .azundi.|.azūnder.|.azūnderat.|.aӡūnder.
- gramm: adv
+ gramm: adv,det,el,d1
  gloss: d1.det.el.adv
  paradigm: ZERO
  trans_ru: местоименн. наречие ближней степени: отсюда (из определенного места)
@@ -15256,7 +15256,7 @@
 -lexeme
  lex: azum
  stem: .azum.|.aӡum.
- gramm: adv
+ gramm: adv,d3,el
  gloss: d3.el.adv
  paradigm: ZERO
  trans_ru: местоименн. наречие дальней степени (см. -um-): оттуда
@@ -15264,7 +15264,7 @@
 -lexeme
  lex: azuminder
  stem: .azamandi.|.azuminder.|.aӡuminder.
- gramm: adv
+ gramm: adv,d3,det,el
  gloss: d3.det.el.adv
  paradigm: ZERO
  trans_ru: местоименн. наречие дальней степени: оттуда (из определенного места)
@@ -20603,14 +20603,6 @@
  gloss: талисман
  paradigm: NOUN
  trans_ru: талисман
-
--lexeme
- lex: tillō
- stem: tillō.|tillo.
- gramm: n
- gloss: золото
- paradigm: NOUN
- trans_ru: золото
 
 -lexeme
  lex: tīrmō
@@ -28142,3 +28134,11 @@
  gloss: com
  paradigm: ZERO
  trans_ru: комитативный послелог
+
+-lexeme:
+ lex: az
+ stem: .az.|.as.
+ gramm: prep,el
+ gloss: el
+ paradigm: ZERO
+ trans_ru: элативный предлог
